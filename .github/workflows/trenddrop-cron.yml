@@ -10,13 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install deps
         run: pip install -r requirements.txt
+
       - name: Run bot
         env:
           EBAY_APP_ID: ${{ secrets.EBAY_APP_ID }}
@@ -24,7 +30,9 @@ jobs:
           CUSTOM_ID_PREFIX: ${{ secrets.CUSTOM_ID_PREFIX }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python bots/trenddrop.py
+          PYTHONPATH: ${{ github.workspace }}
+        run: python -m bots.trenddrop
+
       - name: Commit updates
         run: |
           git config user.name "trenddrop-bot"
