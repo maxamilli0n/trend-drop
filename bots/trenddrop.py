@@ -1,4 +1,4 @@
-import os
+import os, time
 from typing import List, Dict
 from utils.trends import top_topics
 from utils.sources import search_ebay
@@ -25,12 +25,12 @@ def dedupe(products: List[Dict]) -> List[Dict]:
     return out
 
 def main():
-    topics = top_topics(limit=8)
+    topics = top_topics(limit=3)  # was 8; keep it low to avoid throttle
     print(f"[bot] topics: {topics}")
     candidates: List[Dict] = []
-    for t in topics:
+    for i, t in enumerate(topics):
         try:
-            found = search_ebay(t, per_page=12)
+            found = search_ebay(t, per_page=10)
             print(f"[bot] found {len(found)} for topic '{t}'")
             for item in found:
                 item["score"] = score(item)
@@ -39,7 +39,10 @@ def main():
             candidates += found
         except Exception as e:
             print(f"[bot] WARN search failed '{t}': {e}")
-            continue
+        # polite delay between calls to avoid eBay minute caps
+        if i < len(topics) - 1:
+            time.sleep(3)
+
     candidates = dedupe(candidates)
     picks = sorted(candidates, key=lambda x: x.get("score", 0.0), reverse=True)[:12]
     print(f"[bot] candidates={len(candidates)} picks={len(picks)}")
