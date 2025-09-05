@@ -25,12 +25,12 @@ def dedupe(products: List[Dict]) -> List[Dict]:
     return out
 
 def main():
-    topics = top_topics(limit=3)  # was 8; keep it low to avoid throttle
+    topics = top_topics(limit=1)  # was 3 or 8; keep just 1 for now
     print(f"[bot] topics: {topics}")
     candidates: List[Dict] = []
     for i, t in enumerate(topics):
         try:
-            found = search_ebay(t, per_page=10)
+            found = search_ebay(t, per_page=5)   # fewer results = lighter call
             print(f"[bot] found {len(found)} for topic '{t}'")
             for item in found:
                 item["score"] = score(item)
@@ -39,15 +39,13 @@ def main():
             candidates += found
         except Exception as e:
             print(f"[bot] WARN search failed '{t}': {e}")
-        # polite delay between calls to avoid eBay minute caps
-        if i < len(topics) - 1:
-            time.sleep(3)
+        time.sleep(5)  # wait 5s before the next call (if any)
 
     candidates = dedupe(candidates)
-    picks = sorted(candidates, key=lambda x: x.get("score", 0.0), reverse=True)[:12]
+    picks = sorted(candidates, key=lambda x: x.get("score", 0.0), reverse=True)[:5]
     print(f"[bot] candidates={len(candidates)} picks={len(picks)}")
     update_storefront(picks)
-    post_telegram(picks[:6])
+    post_telegram(picks[:3])
     print(f"[bot] posted {len(picks)} items from {len(topics)} topics")
     
 if __name__ == "__main__":
