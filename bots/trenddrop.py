@@ -26,23 +26,26 @@ def dedupe(products: List[Dict]) -> List[Dict]:
 
 def main():
     topics = top_topics(limit=8)
+    print(f"[bot] topics: {topics}")
     candidates: List[Dict] = []
     for t in topics:
         try:
-            found = search_ebay(t, per_page=8)
+            found = search_ebay(t, per_page=12)
+            print(f"[bot] found {len(found)} for topic '{t}'")
             for item in found:
                 item["score"] = score(item)
                 item["tags"] = [t]
                 item["url"] = affiliate_wrap(item["url"], custom_id=t.replace(" ", "_")[:40])
             candidates += found
         except Exception as e:
-            print(f"warn: search failed for {t}: {e}")
+            print(f"[bot] WARN search failed '{t}': {e}")
             continue
     candidates = dedupe(candidates)
     picks = sorted(candidates, key=lambda x: x.get("score", 0.0), reverse=True)[:12]
+    print(f"[bot] candidates={len(candidates)} picks={len(picks)}")
     update_storefront(picks)
     post_telegram(picks[:6])
-    print(f"posted {len(picks)} items from {len(topics)} topics")
-
+    print(f"[bot] posted {len(picks)} items from {len(topics)} topics")
+    
 if __name__ == "__main__":
     main()
