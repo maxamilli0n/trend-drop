@@ -1,9 +1,41 @@
 import os, time
+from dotenv import load_dotenv, find_dotenv
 from typing import List, Dict
+
+# Load environment variables from a .env file if present
+load_dotenv(find_dotenv(), override=False)
 from utils.trends import top_topics
 from utils.sources import search_ebay
 from utils.epn import affiliate_wrap
 from utils.publish import update_storefront, post_telegram
+
+def _get_int_env(name: str, default: int) -> int:
+    try:
+        value_str = os.environ.get(name)
+        if value_str is None or value_str == "":
+            return default
+        value = int(value_str)
+        return value if value >= 0 else default
+    except Exception:
+        return default
+
+def _get_float_env(name: str, default: float) -> float:
+    try:
+        value_str = os.environ.get(name)
+        if value_str is None or value_str == "":
+            return default
+        value = float(value_str)
+        return value if value >= 0 else default
+    except Exception:
+        return default
+
+def _get_float_env_between(name: str, default: float, min_value: float, max_value: float) -> float:
+    val = _get_float_env(name, default)
+    if val < min_value:
+        return min_value
+    if val > max_value:
+        return max_value
+    return val
 
 def score(p: Dict) -> float:
     base = 0.0
@@ -25,12 +57,19 @@ def dedupe(products: List[Dict]) -> List[Dict]:
     return out
 
 def main():
-    topics = top_topics(limit=1)  # was 3 or 8; keep just 1 for now
+    topics_limit = _get_int_env("TREND_TOPICS_LIMIT", 1)
+    per_page = _get_int_env("TREND_PER_PAGE", 5)
+    sleep_secs = _get_float_env("TREND_SLEEP_SECS", 5.0)
+    sleep_jitter = _get_float_env_between("TREND_SLEEP_JITTER", 0.0, 0.0, 10.0)
+    picks_limit = _get_int_env("TREND_PICKS_LIMIT", 5)
+    telegram_limit = _get_int_env("TREND_TELEGRAM_LIMIT", 5)
+
+    topics = top_topics(limit=topics_limit)
     print(f"[bot] topics: {topics}")
     candidates: List[Dict] = []
     for i, t in enumerate(topics):
         try:
-            found = search_ebay(t, per_page=5)   # fewer results = lighter call
+            found = search_ebay(t, per_page=per_page)
             print(f"[bot] found {len(found)} for topic '{t}'")
             for item in found:
                 item["score"] = score(item)
@@ -39,13 +78,21 @@ def main():
             candidates += found
         except Exception as e:
             print(f"[bot] WARN search failed '{t}': {e}")
-        time.sleep(5)  # wait 5s before the next call (if any)
+        # optional jitter to desynchronize bursts
+        if sleep_secs > 0:
+            jitter = 0.0
+            try:
+                import random
+                jitter = random.uniform(0.0, sleep_jitter) if sleep_jitter > 0 else 0.0
+            except Exception:
+                jitter = 0.0
+            time.sleep(sleep_secs + jitter)  # configurable pause between calls
 
     candidates = dedupe(candidates)
-    picks = sorted(candidates, key=lambda x: x.get("score", 0.0), reverse=True)[:5]
+    picks = sorted(candidates, key=lambda x: x.get("score", 0.0), reverse=True)[:picks_limit]
     print(f"[bot] candidates={len(candidates)} picks={len(picks)}")
     update_storefront(picks)
-    post_telegram(picks[:3])
+    post_telegram(picks, limit=telegram_limit)
     print(f"[bot] posted {len(picks)} items from {len(topics)} topics")
     
 if __name__ == "__main__":

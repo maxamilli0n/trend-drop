@@ -1,10 +1,26 @@
-from urllib.parse import quote
+from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 import os
 
-def affiliate_wrap(raw_url: str, custom_id: str = "") -> str:
-    camp = os.environ.get("EPN_CAMPAIGN_ID")
-    if not camp:
-        return raw_url
-    cid_prefix = os.environ.get("CUSTOM_ID_PREFIX", "trenddrop")
-    custom = f"{cid_prefix}_{custom_id}" if custom_id else cid_prefix
-    return f"https://rover.ebay.com/rover/1/711-53200-19255-0/1?campid={camp}&customid={quote(custom)}&toolid=10001&mpre={quote(raw_url, safe='')}"
+
+def affiliate_wrap(url: str, custom_id: str = "trenddrop") -> str:
+	"""
+	Add EPN tracking params directly to the item URL to avoid rover 1x1.
+	"""
+	campid = os.environ.get("EPN_CAMPAIGN_ID")
+	if not campid:
+		return url
+
+	u = urlparse(url)
+	query = dict(parse_qsl(u.query))
+
+	query.update({
+		"mkcid": "1",
+		"mkrid": "711-53200-19255-0",
+		"mkevt": "1",
+		"campid": campid,
+		"customid": custom_id or "trenddrop",
+		"toolid": "10001",
+	})
+
+	new_query = urlencode(query, doseq=True)
+	return urlunparse((u.scheme, u.netloc, u.path, u.params, new_query, u.fragment))

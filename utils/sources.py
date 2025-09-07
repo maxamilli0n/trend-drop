@@ -1,7 +1,17 @@
-import os, time, json, requests
+import os, time, json, hashlib, pathlib
 from typing import List, Dict
+from utils.ebay_browse import search_browse
+
+def _debug_enabled() -> bool:
+    try:
+        return str(os.environ.get("DEBUG_EBAY", "")).strip() not in ("", "0", "false", "False")
+    except Exception:
+        return False
 
 def _endpoint_for_appid(app_id: str) -> str:
+    override = os.environ.get("EBAY_FINDING_ENDPOINT")
+    if override:
+        return override
     if ("-SBX-" in app_id) or app_id.upper().startswith("SBX-"):
         return "https://svcs.sandbox.ebay.com/services/search/FindingService/v1"
     return "https://svcs.ebay.com/services/search/FindingService/v1"
@@ -15,83 +25,66 @@ def _is_rate_limited(resp_json) -> bool:
     except Exception:
         return False
 
+# ---------- Simple file cache & daily budget ----------
+_ROOT_DIR = os.path.dirname(os.path.dirname(__file__))
+_CACHE_DIR = os.path.join(_ROOT_DIR, ".cache", "ebay")
+
+def _ensure_cache_dir():
+    try:
+        pathlib.Path(_CACHE_DIR).mkdir(parents=True, exist_ok=True)
+    except Exception:
+        pass
+
+def _cache_enabled() -> bool:
+    try:
+        ttl_min = float(os.environ.get("EBAY_CACHE_TTL_MIN", 0))
+        bypass = str(os.environ.get("EBAY_CACHE_BYPASS", "")).lower() in ("1", "true", "yes")
+        return (ttl_min > 0) and (not bypass)
+    except Exception:
+        return False
+
+def _cache_ttl_secs() -> float:
+    try:
+        return float(os.environ.get("EBAY_CACHE_TTL_MIN", 0)) * 60.0
+    except Exception:
+        return 0.0
+
+def _cache_key(keyword: str, per_page: int, global_id: str, request_version: str) -> str:
+    raw = f"{keyword}|{per_page}|{global_id}|{request_version}"
+    return hashlib.md5(raw.encode("utf-8")).hexdigest()
+
+def _cache_read(path: str):
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+def _cache_write(path: str, data) -> None:
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f)
+    except Exception:
+        pass
+
+def _budget_path() -> str:
+    return os.path.join(_CACHE_DIR, "budget.json")
+
+def _load_budget():
+    path = _budget_path()
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {"date": "", "count": 0}
+
+def _save_budget(data) -> None:
+    try:
+        with open(_budget_path(), "w", encoding="utf-8") as f:
+            json.dump(data, f)
+    except Exception:
+        pass
+
 def search_ebay(keyword: str, per_page: int = 12) -> List[Dict]:
-    app_id = os.environ.get("EBAY_APP_ID")
-    if not app_id:
-        raise RuntimeError("EBAY_APP_ID not set")
-
-    endpoint = _endpoint_for_appid(app_id)
-    params = {
-        "OPERATION-NAME": "findItemsByKeywords",
-        "SERVICE-VERSION": "1.13.0",
-        "SECURITY-APPNAME": app_id,
-        "GLOBAL-ID": "EBAY-US",
-        "RESPONSE-DATA-FORMAT": "JSON",
-        "REST-PAYLOAD": "",
-        "keywords": keyword,
-        "paginationInput.entriesPerPage": str(per_page),
-        "sortOrder": "BestMatch",
-    }
-    headers = {
-        "User-Agent": "TrendDropBot/1.0",
-        "X-EBAY-SOA-SECURITY-APPNAME": app_id,
-        "X-EBAY-SOA-OPERATION-NAME": "findItemsByKeywords",
-        "X-EBAY-SOA-GLOBAL-ID": "EBAY-US",
-    }
-
-    # retry with exponential backoff on 429/5xx or rate-limit messages
-    backoffs = [2, 4, 8]  # seconds
-    last_json = None
-    for attempt, sleep_s in enumerate([0] + backoffs):
-        if sleep_s:
-            time.sleep(sleep_s)
-        try:
-            r = requests.get(endpoint, params=params, headers=headers, timeout=25)
-            status = r.status_code
-            if status >= 500 or status == 429:
-                print(f"[ebay] HTTP {status} for '{keyword}', attempt {attempt+1}/{len(backoffs)+1}")
-                continue
-            data = r.json()
-            last_json = data
-            if _is_rate_limited(data):
-                print(f"[ebay] Rate-limited for '{keyword}', attempt {attempt+1}/{len(backoffs)+1}")
-                continue
-            # success path
-            items = (data.get("findItemsByKeywordsResponse", [{}])[0]
-                        .get("searchResult", [{}])[0]
-                        .get("item", []))
-            out: List[Dict] = []
-            for it in items or []:
-                try:
-                    title = (it.get("title", [""]) or [""])[0]
-                    url = (it.get("viewItemURL", [""]) or [""])[0]
-                    gallery = (it.get("galleryURL", [""]) or [""])[0]
-                    price_obj = (it.get("sellingStatus", [{}]) or [{}])[0].get("currentPrice", [{}])[0]
-                    price = float(price_obj.get("__value__", 0.0))
-                    currency = price_obj.get("@currencyId", "USD")
-                    top_rated = ((it.get("topRatedListing", ["false"]) or ["false"])[0] == "true")
-                    feedback = int((it.get("sellerInfo", [{}]) or [{}])[0].get("feedbackScore", [0])[0])
-                    out.append({
-                        "source": "ebay",
-                        "keyword": keyword,
-                        "title": title[:160],
-                        "price": price,
-                        "currency": currency,
-                        "image_url": gallery,
-                        "url": url,
-                        "seller_feedback": feedback,
-                        "top_rated": top_rated
-                    })
-                except Exception as e:
-                    print(f"[ebay] item parse error '{keyword}': {e}")
-                    continue
-            print(f"[ebay] '{keyword}' -> {len(out)} items (endpoint={endpoint})")
-            return out
-        except Exception as e:
-            print(f"[ebay] request failed '{keyword}': {e}")
-
-    # after retries
-    if last_json:
-        snippet = json.dumps(last_json)[:400]
-        print(f"[ebay] final response snippet for '{keyword}': {snippet}")
-    return []
+    # Prefer Browse API (far better quotas); per_page maps to limit.
+    return search_browse(keyword, limit=per_page)
