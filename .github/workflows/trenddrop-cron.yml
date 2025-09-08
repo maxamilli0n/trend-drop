@@ -1,6 +1,66 @@
 name: trenddrop-cron
 
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # hourly
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+      EPN_CAMPAIGN_ID: ${{ secrets.EPN_CAMPAIGN_ID }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      TREND_TOPICS_LIMIT: ${{ vars.TREND_TOPICS_LIMIT }}
+      TREND_PER_PAGE: ${{ vars.TREND_PER_PAGE }}
+      TREND_SLEEP_SECS: ${{ vars.TREND_SLEEP_SECS }}
+      TREND_SLEEP_JITTER: ${{ vars.TREND_SLEEP_JITTER }}
+      TREND_PICKS_LIMIT: ${{ vars.TREND_PICKS_LIMIT }}
+      TREND_TELEGRAM_LIMIT: ${{ vars.TREND_TELEGRAM_LIMIT }}
+      EBAY_CACHE_TTL_MIN: ${{ vars.EBAY_CACHE_TTL_MIN }}
+      EBAY_CACHE_BYPASS: ${{ vars.EBAY_CACHE_BYPASS }}
+      DEBUG_EBAY: ${{ vars.DEBUG_EBAY }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run bot
+        run: |
+          python bots/trenddrop.py
+
+      - name: Commit updated storefront data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/products.json
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update products.json [skip ci]"
+            git push
+          fi
+name: trenddrop-cron
+
+on:
   schedule:
     - cron: "0 */2 * * *"
   workflow_dispatch:
