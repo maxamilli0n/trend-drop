@@ -1,38 +1,51 @@
 name: trenddrop-cron
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
   schedule:
-    - cron: "0 * * * *" # hourly
+    - cron: "0 * * * *"   # hourly; tweak as you like
 
 permissions:
-  contents: write
+  contents: write   # needed to commit products.json
 
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     env:
-      EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
-      EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
-      EPN_CAMPAIGN_ID: ${{ secrets.EPN_CAMPAIGN_ID }}
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-      SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+      # ==== REQUIRED SECRETS (Settings → Secrets and variables → Actions) ====
+      EBAY_CLIENT_ID:         ${{ secrets.EBAY_CLIENT_ID }}
+      EBAY_CLIENT_SECRET:     ${{ secrets.EBAY_CLIENT_SECRET }}
+      # If your code still references APP_ID, expose it too (harmless if unused)
+      EBAY_APP_ID:            ${{ secrets.EBAY_APP_ID }}
+      EPN_CAMPAIGN_ID:        ${{ secrets.EPN_CAMPAIGN_ID }}
+      SUPABASE_URL:           ${{ secrets.SUPABASE_URL }}
+      SUPABASE_ANON_KEY:      ${{ secrets.SUPABASE_ANON_KEY }}
+      OPENAI_API_KEY:         ${{ secrets.OPENAI_API_KEY }}
+      # Optional:
       SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      TREND_TOPICS_LIMIT: ${{ vars.TREND_TOPICS_LIMIT }}
-      TREND_PER_PAGE: ${{ vars.TREND_PER_PAGE }}
-      TREND_SLEEP_SECS: ${{ vars.TREND_SLEEP_SECS }}
-      TREND_SLEEP_JITTER: ${{ vars.TREND_SLEEP_JITTER }}
-      TREND_PICKS_LIMIT: ${{ vars.TREND_PICKS_LIMIT }}
-      TREND_TELEGRAM_LIMIT: ${{ vars.TREND_TELEGRAM_LIMIT }}
-      EBAY_CACHE_TTL_MIN: ${{ vars.EBAY_CACHE_TTL_MIN }}
-      EBAY_CACHE_BYPASS: ${{ vars.EBAY_CACHE_BYPASS }}
-      DEBUG_EBAY: ${{ vars.DEBUG_EBAY }}
+      TELEGRAM_BOT_TOKEN:        ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID:          ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      # ==== OPTIONAL REPO VARIABLES (Settings → Secrets and variables → Variables) ====
+      TREND_TOPICS_LIMIT:     ${{ vars.TREND_TOPICS_LIMIT }}
+      TREND_PER_PAGE:         ${{ vars.TREND_PER_PAGE }}
+      TREND_SLEEP_SECS:       ${{ vars.TREND_SLEEP_SECS }}
+      TREND_SLEEP_JITTER:     ${{ vars.TREND_SLEEP_JITTER }}
+      TREND_PICKS_LIMIT:      ${{ vars.TREND_PICKS_LIMIT }}
+      TREND_TELEGRAM_LIMIT:   ${{ vars.TREND_TELEGRAM_LIMIT }}
+      EBAY_CACHE_TTL_MIN:     ${{ vars.EBAY_CACHE_TTL_MIN }}
+      EBAY_CACHE_BYPASS:      ${{ vars.EBAY_CACHE_BYPASS }}
+      DEBUG_EBAY:             ${{ vars.DEBUG_EBAY }}
+
+      # Ensure module imports work for `python -m bots.trenddrop`
+      PYTHONPATH: ${{ github.workspace }}
 
     steps:
-      - name: Checkout
+      - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -42,61 +55,18 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
+          python -m pip install -U pip
           pip install -r requirements.txt
 
-      - name: Run bot
-        run: |
-          python bots/trenddrop.py
+      - name: Run bot (same entrypoint as local)
+        run: python -m bots.trenddrop
 
-      - name: Commit updated storefront data
+      - name: Commit updated storefront data (if any)
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data/products.json
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update products.json [skip ci]"
             git push
           fi
-name: trenddrop-cron
-
-on:
-  schedule:
-    - cron: "0 */2 * * *"
-  workflow_dispatch:
-
-jobs:
-  run:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install deps
-        run: pip install -r requirements.txt
-
-      - name: Run bot
-        env:
-          EBAY_APP_ID: ${{ secrets.EBAY_APP_ID }}
-          EPN_CAMPAIGN_ID: ${{ secrets.EPN_CAMPAIGN_ID }}
-          CUSTOM_ID_PREFIX: ${{ secrets.CUSTOM_ID_PREFIX }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          PYTHONPATH: ${{ github.workspace }}
-        run: python -m bots.trenddrop
-
-      - name: Commit updates
-        run: |
-          git config user.name "trenddrop-bot"
-          git config user.email "bot@example.com"
-          git add docs/data/products.json
-          git commit -m "auto: refresh products" || echo "no changes"
-          git push
