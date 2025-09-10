@@ -3,13 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TrendDrop — Today’s Trending Finds</title>
+  <title>TrendDrop | Today’s Trending Finds</title>
+  <meta name="description" content="Stay ahead of the curve with daily trending products. Fresh deals updated hourly.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="TrendDrop | Today’s Trending Finds">
+  <meta property="og:description" content="Stay ahead of the curve with daily trending products. Fresh deals updated hourly.">
+  <meta property="og:image" content="og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="TrendDrop | Today’s Trending Finds">
+  <meta name="twitter:description" content="Stay ahead of the curve with daily trending products. Fresh deals updated hourly.">
+  <meta name="twitter:image" content="og.png">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>TrendDrop: Today’s Trending Finds</h1>
-    <p>Stay ahead of the curve. Fresh drops, trending finds, and must-have deals at your fingertips.</p>
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap">
+      <div>
+        <h1 style="margin:0">TrendDrop</h1>
+        <p style="margin:4px 0 0">Fresh, trending products picked by an AI bot. Links may earn a commission.</p>
+      </div>
+      <a class="btn" id="goPremium" href="#" target="_blank" rel="nofollow noopener">Go Premium</a>
+    </div>
   </header>
   <main>
     <div id="grid" class="grid"></div>

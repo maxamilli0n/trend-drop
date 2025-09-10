@@ -1,0 +1,47 @@
+name: weekly-report
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 12 * * 1"  # Mondays at 12:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      SUPABASE_URL:           ${{ secrets.SUPABASE_URL }}
+      SUPABASE_ANON_KEY:      ${{ secrets.SUPABASE_ANON_KEY }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      PYTHONPATH: ${{ github.workspace }}
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install -U pip
+          pip install -r requirements.txt
+
+      - name: Generate weekly PDF and upload
+        run: python -m bots.weekly_report
+
+      - name: Commit artifacts (optional)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/*.pdf || true
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Add weekly PDF [skip ci]"
+            git push
+          fi
+
+

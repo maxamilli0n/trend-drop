@@ -1,6 +1,7 @@
 # TrendDrop — Zero-cost AI Affiliate Store (Starter Kit)
 
 This repo is a **no-upfront-cost** starter for a fully automated affiliate store that:
+
 - mines **trending topics**
 - finds products via **eBay Finding API**
 - wraps with your **eBay Partner Network (EPN)** affiliate links
@@ -10,6 +11,7 @@ This repo is a **no-upfront-cost** starter for a fully automated affiliate store
 > You only need: a GitHub account, an eBay Developer account (free App ID), an EPN account (free), and a Telegram bot (free).
 
 ## Quick setup (TL;DR)
+
 1. Create a GitHub repo and enable **Pages → branch main → /docs**.
 2. Add GitHub Secrets: `EBAY_APP_ID`, optional `EPN_CAMPAIGN_ID`, `CUSTOM_ID_PREFIX`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`.
 3. Go to **Actions → trenddrop-cron → Run workflow** once.
@@ -19,7 +21,7 @@ See the README in my earlier messages for the full plan.
 
 ## Supabase schema (run once)
 
-```
+```sql
 create table if not exists runs (
   id uuid primary key default gen_random_uuid(),
   ran_at bigint not null,
@@ -47,13 +49,19 @@ create table if not exists subscribers (
   created_at timestamp with time zone default now(),
   plan text default 'free'
 );
+
+create table if not exists clicks (
+  id uuid primary key default gen_random_uuid(),
+  product_url text not null,
+  clicked_at timestamp with time zone default now()
+);
 ```
 
 ## Lemon Squeezy webhook template
 
 Create a Supabase Edge Function `lemon-webhook` and paste:
 
-```
+```ts
 import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 import { verifySignature } from "https://deno.land/x/lemon_squeezy_webhook@v1/mod.ts";
@@ -75,3 +83,15 @@ serve(async (req) => {
   return new Response("ok");
 });
 ```
+
+## Pricing (prep for Lemon Squeezy)
+
+- **Free**: Site access + Telegram channel updates.
+- **$5/mo (Weekly PDF)**: Access to the Top 10 Weekly PDF (auto‑generated, stored in Supabase). Customers receive a download link after checkout.
+- **$15/mo (Niche Drops)**: Curated niche feeds (e.g., Gaming only, Fashion only, Home only), plus Weekly PDF.
+
+Implementation status:
+
+- Weekly PDF generator: `python -m bots.weekly_report` (scheduled via `weekly-report.yml`).
+- Storage: Supabase Storage bucket `reports` (public URLs).
+- Hook-up: When LS is live, on successful checkout, email/serve the `reports/weekly/...pdf` link to subscribers based on tier.
