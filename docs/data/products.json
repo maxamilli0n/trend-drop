@@ -1,5 +1,5 @@
 {
-  "updated_at": 1758079374,
+  "updated_at": 1758081834,
   "products": [
     {
       "source": "ebay",
@@ -9,16 +9,16 @@
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/aUYAAOSwl3pneDH~/s-l225.jpg",
       "url": "https://www.ebay.com/itm/277164929009?_skw=portable+monitor&hash=item4088512ff1%3Ag%3AaUYAAOSwl3pneDH~&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 19888,
+      "seller_feedback": 19897,
       "top_rated": false,
       "score": 9.0,
       "tags": [
         "portable monitor"
       ],
-      "caption": "Elevate your productivity on-the-go with the Lifelong 15.6\" Portable Monitor! \ud83d\ude80 Grab yours now for just $29.99!",
-      "headline": "\ud83d\ude80 Upgrade Your Setup with the Lifelong 15.6\" Monitor!",
-      "blurb": "Grab this sleek 1080P portable monitor for just $29.99\u2014limited stock available! Perfect for gaming or work on-the-go, don't miss out\u2014order now!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udd79\ufe0f', '\ud83d\ude80'"
+      "caption": "Level up your productivity on the go! \ud83d\ude80 Grab the Lifelong Portable Monitor 15.6\" 1080P Model G70 for just $29.99\u2014get yours today!",
+      "headline": "\ud83d\udda5\ufe0f Grab the Lifelong 15.6\" Portable Monitor for Just $29.99!",
+      "blurb": "Don't miss out on this limited-time deal! Enhance your setup on the go and boost productivity today!",
+      "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
     },
     {
       "source": "ebay",
@@ -27,17 +27,17 @@
       "price": 49.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/ICIAAOSwnTtml5Di/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/314029464108?_skw=portable+monitor&hash=item491d9d5a2c%3Ag%3AICIAAOSwnTtml5Di&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbU7LSUQ1MAg4PGpa7LhgDfa%2FEFb6ADbi8xrd1XPrBPBQ0IkNPU40iJLmjb3tVpuR6MbZUQ%2Bty6BNsQ9BsfMWNHCV3AK7wXTC8GVwCZxj1qbThYyWZQ2mUkDp3xHyS%2FkwoXYlujo7e90k3Mivw0SfGBY08qiqm90272dwFpO--R8D59cJuUEyFHSqycAVJJSqNrpmuA6zwAdrlXxLKd87K282wlEyonM6Gf%2Bcej9cIc8URyItfsd9n43gdtShTVTzqO3kk%2FU1bEogOp5y5wQfZiThTktsGQXuBuX%2BIX0HNH2w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "url": "https://www.ebay.com/itm/314029464108?_skw=portable+monitor&hash=item491d9d5a2c%3Ag%3AICIAAOSwnTtml5Di&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbU7LSUQ1MAg4PGpa7LhgDfa%2FEFb6ADbi8xrd1XPrBPBQ0IkNPU40iJLmjb3tVpuR6MbZUQ%2Bty6BNsQ9BsfMWNHCV3AK7wXTC8GVwCZxj1qbThYyWZQ2mUkDp3xHyS%2FkwqHLAHlFGvXA18hkSfoWjwhu10UMX9jDm6WHds2nGDNBf%2FmiYfLiB67q5%2BSGfFBuUjtRruOk9hAyEtAPn57ABEgk39hbCexnaaH5ReNe%2FeAWywTjrORVbIoO2sX9eXkvzbT9PPLX7DhB7nxejtiOn26jWdlS5FuREEYkC6HpMiASw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
       "seller_feedback": 4218,
       "top_rated": false,
       "score": 8.218,
       "tags": [
         "portable monitor"
       ],
-      "caption": "Upgrade your setup with our 15.6\" Portable Monitor! \ud83c\udf89 Experience stunning 1080P visuals & eye care tech. Grab yours now for just $49.99! \ud83d\udda5\ufe0f\u2728",
-      "headline": "\ud83c\udfae Upgrade Your Setup with This Portable Monitor!",
-      "blurb": "Grab the Used 15.6\" IPS HDR 1080P Monitor for just $49.99! Limited stock available\u2014boost your productivity today!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\u26a1']"
+      "caption": "Upgrade your setup with our 15.6\" Portable Monitor! \ud83c\udf1f Experience stunning 1080P clarity. Grab yours now for just $49.99! \ud83d\udcf1\u2728",
+      "headline": "\ud83c\udfae Elevate Your Gaming Anywhere with This Portable Monitor!",
+      "blurb": "Grab this upgraded 15.6\" IPS HDR 1080P monitor for just $49.99! Stock is limited\u2014enhance your gaming experience today!",
+      "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
     },
     {
       "source": "ebay",
@@ -46,36 +46,17 @@
       "price": 149.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/JpEAAOSwTgdmx41H/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/315692006992?_skw=portable+monitor&hash=item4980b5be50%3Ag%3AJpEAAOSwTgdmx41H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYE29t2LgkTgZ46o8dehQSE4BqA8WkuhOYUU%2BwR%2BUFIWWwAu%2BCWsHHd%2FNS%2FYBJOI7L603T7FiX97m5w8r6kbA4b3QIpecg52Ue0HIWPZ3mrwvt%2FguQy%2B9sPGd2NzPWNTEW%2Bddizw8oKbioyqUiZvcE%2F1Ou8d9svjSlrC4bPKl4TJADif3Ve6EvsoN%2FIx6HigOWj3QOkV4VEvySopiDnyptDFo3spevWE2%2BA%2BxRKpSEJOEhzW0LxIVm4rWPR4NkCPbjOCvdQrZXfarc15Cnk0ekIsZUZ4%2BJmQYzP0ksAnE4qAw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "url": "https://www.ebay.com/itm/315692006992?_skw=portable+monitor&hash=item4980b5be50%3Ag%3AJpEAAOSwTgdmx41H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYE29t2LgkTgZ46o8dehQSE4BqA8WkuhOYUU%2BwR%2BUFIWWwAu%2BCWsHHd%2FNS%2FYBJOI7L603T7FiX97m5w8r6kbA4b3QIpecg52Ue0HIWPZ3mrwvt%2FguQy%2B9sPGd2NzPWNTEWG%2F1bPT3k3SklB6EujqyfgL9O%2FuoCfd5cyMi7cT%2BfRrANCYnVCVqaCU0YVCvk7OyZNM5BKsYcpa0HhHTX8vdrx%2BdARZidXHdu%2FEgso49%2BxMIqDgsvzID3JJvZYNgleqeyooSOjZKb1Z11cYWI8nZec5y3YVT%2F3p2ujLCmyhZar8w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
       "seller_feedback": 4218,
       "top_rated": false,
       "score": 8.218,
       "tags": [
         "portable monitor"
       ],
-      "caption": "Elevate your workspace with the UPERFECT 22\" 2K Portable Monitor! \ud83c\udf89 Grab yours for just $149.99 and boost your productivity today! \ud83d\udcbb\u2728",
-      "headline": "\ud83d\ude80 Upgrade Your Workspace with This 22\" Portable Monitor!",
-      "blurb": "Grab the UPERFECT 22 Inch Portable Monitor at just $149.99\u2014limited stock available! Enhance your productivity on the go, and seize the offer now!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udcbc']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
-      "price": 95.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/7yAAAOSw~kZmJdaI/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/313472386520?_skw=portable+monitor&hash=item48fc6905d8%3Ag%3A7yAAAOSw~kZmJdaI&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKXuoSEGV3S8t1CiTUvRGRCjvP41Oz2jk87bLxWJfh1Vv6G6gEozoXaESgwvfWi80aKNXvx0%2BZrnGxJxhPO%2BSFy8%2FMVVluuOVWH0r0A%2B5nuaJQVYzaKXZVyEEgQ7JS7Tu%2BMYGVcFhlz0O1sZWqS7lsbuvSpz3Yx5qkLAYt95l1Di7RDHAEntH6xZZcsKcCZH4Pl%2BseuO1nD8s40OtEJ6ef3vsuuJL14H1SRNh31C6XprCOAbA5J6slLo97w7lfwufP1D3dnPBLpwmDG4oRFRxnLS8AtEW1Nk2JSi0ZLqZamA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4218,
-      "top_rated": false,
-      "score": 8.218,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "Elevate your gaming with the UPERFECT 16\" 2K 120Hz Portable Monitor! \ud83c\udfae Grab yours now for just $95.99 and level up your play!",
-      "headline": "\ud83c\udfae Elevate Your Gaming with UPERFECT 16\" Portable Monitor!",
-      "blurb": "Limited stock available! Experience stunning visuals on the go with this 2K 120Hz display. Grab yours now for just $95.99!",
-      "emojis": "['\ud83c\udfae', '\ud83d\udd79\ufe0f']"
+      "caption": "Elevate your workspace with the UPERFECT 22\" 2K Portable Monitor! \ud83d\ude80 Grab yours now for just $149.99 and boost your productivity!",
+      "headline": "\ud83d\udcfa Elevate Your Setup with This Portable 2K Monitor!",
+      "blurb": "Grab the UPERFECT 22 Inch Portable Monitor at just $149.99! Limited stock available\u2014upgrade your display on the go now!",
+      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\ude80']"
     },
     {
       "source": "ebay",
@@ -84,17 +65,36 @@
       "price": 59.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/GIUAAOSwECFlCtge/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/225980562840?_skw=portable+monitor&hash=item349d7dbd98%3Ag%3AGIUAAOSwECFlCtge&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYpRUl%2FuthwTd%2FSvDuvqcWuAh9QjL47w9ygAmQj0XxBvrjQ%2Bwqn6wt42t8P0TCNFDdBJvNJMbRLT5y%2FLVAgaecvpdVXplxupqEV3DQAQ%2FONCZux8dK7crJFsjc4H9a9MugXDrANyDS2NRcwHjLiPFTNEVgFBwsGd%2FbKPuPbH1g1q8DqzQepvQgehDY92wbEVlvxofmYQNRK%2BIFrbTcsydBQgbO8wFPMlx%2Byi2HFCQzTMh9csRDv4ijA0AE%2BdscT200NOk95YEzrgGxSIzRxRACiDowezFbcjN732%2BVXT7rt0g%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "url": "https://www.ebay.com/itm/225980562840?_skw=portable+monitor&hash=item349d7dbd98%3Ag%3AGIUAAOSwECFlCtge&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYpRUl%2FuthwTd%2FSvDuvqcWuAh9QjL47w9ygAmQj0XxBvrjQ%2Bwqn6wt42t8P0TCNFDdBJvNJMbRLT5y%2FLVAgaecvpdVXplxupqEV3DQAQ%2FONCZux8dK7crJFsjc4H9a9MujZsOn807vh5VjxzlEAQo2cfH5Xa%2FdnZOEtQlZRCBVssvD539tsAbDx5oOwbmLEd%2Bh92XYl4CkDgKhc%2FYj9lOU%2FQUwv36N2qWvhwceYfBeiDUlLJovS3AeY2wKv535qAY1vbSZP1b56PXPVJJNLu4%2BhvIUetc%2FJoS8Dwt7Puna6oA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
       "seller_feedback": 3103,
       "top_rated": false,
       "score": 7.103,
       "tags": [
         "portable monitor"
       ],
-      "caption": "Level up your gaming with this 16\u201d 120Hz 2K portable monitor! \ud83c\udfae Don\u2019t miss out\u2014grab it now for just $59.99!",
-      "headline": "\ud83d\ude80 Upgrade Your Gaming Setup: 2K Portable Monitor at $59.99!",
-      "blurb": "Limited stock alert! Experience stunning visuals on-the-go with this 16\u201d 120Hz monitor. Grab yours now!",
+      "caption": "Level up your gaming setup with this 16\u201d 120Hz 2K Portable Monitor! \ud83c\udfae Grab it now for just $59.99 and elevate your gameplay!",
+      "headline": "Level Up Your Gaming with This Portable Monitor! \ud83d\udd79\ufe0f",
+      "blurb": "Grab this 16\u201d 120Hz 2K Portable Monitor for only $59.99! Limited stock available\u2014upgrade your setup now!",
       "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "portable monitor",
+      "title": "5 Inch Portable Monitor Built-in Speakers CCTV Security Monitor HDMI/VGA/BNC/AV",
+      "price": 49.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/DbgAAOSwrJpoS-jE/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/116780496097?_skw=portable+monitor&hash=item1b30a8f4e1%3Ag%3ADbgAAOSwrJpoS-jE&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYweYLCfThAmczVMyo6ali5z%2BIWMMyRl3YG2JJpb0RgM7UyCUsMBn%2F3MlPug%2FK%2FipJyESXMjtnyWb8TwUXsLveC0pB3zKN%2F4ShTaIqDVchr3jXZvnS0VOrnLx39u4HX5YBParUvdMLButIO5UYi0W0W4wqTN1UII9v1iAAx9%2F1d6tnIfQ6UcpWgncz6zTilNyk%2FkcJD11UYUKUfsuAgL302vbbXgTe%2BL%2FqntkjJuuxNgGUzwQB75i5gapNK35h4E71Ivj3X6jI81%2BRlyAoEV%2BSMrQWwgAvlg6%2B78HHk5klMsg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "seller_feedback": 2505,
+      "top_rated": false,
+      "score": 6.505,
+      "tags": [
+        "portable monitor"
+      ],
+      "caption": "Upgrade your security game with our 5\" Portable Monitor! \ud83d\udcfa Perfect for CCTV setups. Grab yours now for just $49.99! \ud83d\udd25\ud83d\udc40",
+      "headline": "\ud83d\udc40 Elevate Your Security with Our 5 Inch Portable Monitor!",
+      "blurb": "Grab this limited-time offer for just $49.99! Enhance your surveillance setup with built-in speakers and multiple connectivity options \u2013 order now!",
+      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udd12']"
     }
   ]
 }
