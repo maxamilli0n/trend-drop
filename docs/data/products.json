@@ -1,100 +1,100 @@
 {
-  "updated_at": 1759874702,
+  "updated_at": 1759878233,
   "products": [
     {
       "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Professional Mute Pet Cat Dog Hair Clipper Trimmer Shaver Cordless Scissors Set",
-      "price": 29.95,
+      "keyword": "air fryer",
+      "title": "Whall Air Fryer Oven 12QT 12-in-1 Air Fryer Convection Oven NSE1201 - Silver",
+      "price": 99.0,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/H3sAAOSwKiResX~6/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/233243073234?_skw=pet+hair+trimmer&hash=item364e5edad2%3Ag%3AH3sAAOSwKiResX~6&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ubr%2FGWbdRf65pOYahNYOB12uhUwlKM0Hg%2BtPbTLCQA8Ik5pRJx5ldQkMiWSV3MghC9ZzIsbYdiR4qob52myPhfAJutbtoREJLwNoqsBqxuFsf0sKqtbYO9lHcHIg1xJT4%2FF673kceMZi1%2F5qb542OgNzgSZ3st%2BMHvP1AsqKhAJ%2Bl4C4I%2BHpEXJYf9duHLsOO%2B%2FOafbWr4yLIQCDc7pcSeds7ydTQiqfXhRjf27zML3YS9W6FjhH0Cc2Gok82RHKSjWrxgnOKb3C4sU9klzTsH%2B%2FIoKWGKimFyZWfVANtArUw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 99667,
+      "image_url": "https://i.ebayimg.com/images/g/p~YAAeSwPcxo49wu/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/166462519444?_skw=air+fryer&hash=item26c1f07894%3Ag%3Ap~YAAeSwPcxo49wu&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaCOZGK5CdfdltlStA0%2Bo1uCBFzv4rRFp809%2FHi%2BXAcOGI81SD0UhNZZD144HtQ8gfZIDRwMVOVSov8v%2FQzxcLi6x%2FQVUi7LS1zpWDqvbAObh4%2BdXcDIQ0zYE5GxVAG3zw88nbZ1CGfbZT8WvOi90r9AIJUosLoHWIf%2FW9EQ4twioAOYDlTAwbt3FC5M9Do5U3pxeztSikKVzmkb%2FRLnPKJ4qeSMR2NUxu%2F02Xjht6F3MmewnSuAVxY5khuMtCPlifGMlKF6gA8pc9zF%2Fq4qQCj&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 29758,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "pet hair trimmer"
+        "air fryer"
       ],
-      "caption": "Say goodbye to noisy grooming! \ud83d\udc3e Get our Professional Mute Pet Hair Clipper for just $29.95. Pamper your furry friend today! \u2702\ufe0f\u2728",
-      "headline": "\ud83d\udd25\u2728 Professional Mute Pet Cat Dog Hair Clipper Trimmer Shaver Cordless Scissors Set",
-      "blurb": "USD 29.95 steal. Limited stock\u2014grab it now!",
+      "caption": "Cook smarter, not harder! \ud83c\udf7d\ufe0f Elevate your meals with the Whall 12QT Air Fryer Oven. Grab yours now for just $99! \ud83d\uded2\u2728",
+      "headline": "\ud83d\udd25 Cook Like a Pro with Whall Air Fryer Oven - Limited Stock!",
+      "blurb": "Transform your meals with the versatile 12-in-1 Whall Air Fryer Oven for just $99! Hurry, grab yours before they're gone!",
+      "emojis": "['\ud83d\udecb\ufe0f', '\ud83d\udd25']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "air fryer",
+      "title": "Gourmia 8QT Air Fryer - 12 One-Touch Functions, Guided Cooking",
+      "price": 50.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/Fy8AAeSw469o5Nb8/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/187374119030?_skw=air+fryer&hash=item2ba05e2876%3Ag%3AFy8AAeSw469o5Nb8&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 651136,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "air fryer"
+      ],
+      "caption": "Unlock crispy perfection with the Gourmia 8QT Air Fryer! \ud83c\udf5f Dive into 12 one-touch functions for effortless cooking. Grab yours now!",
+      "headline": "\ud83c\udfe0\ud83d\udecb Gourmia 8QT Air Fryer - 12 One-Touch Functions, Guided Cooking",
+      "blurb": "USD 50.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "air fryer",
+      "title": "Air Fryer, 6.34QT Fryer with Visual Window, Multifunctional Air Fryer",
+      "price": 56.33,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/RZIAAOSwWLhnELhf/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/226425808335?_skw=air+fryer&hash=item34b807a5cf%3Ag%3ARZIAAOSwWLhnELhf&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uahb8kHb6rc8k%2BTGKx9A2saZDMOeupSNOLgimfNlb3QLZckHbLmcsJwnQKi0x58k7QTpWC4RZtL6jFNjX6Dhlqk4iGv3yKKw1oBXsHGatYqViqvKR9nDQFPy1aRrXCpkwhHTcvMA%2FEAq301oWDyvfUjIoLj27lJSHtZ5H2NX5t9snI%2Fz0ns%2FNi0gi9pXDVp7dKt12SeOHkJqHEKbDHthd1m2zivDLPNqNjgVap0TqoIGBlcC%2FvFLwTGOJVq%2BWoaideSYTpHA2Gg%2FqtWKZjqr6gL&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 79,
+      "top_rated": false,
+      "score": 4.079,
+      "tags": [
+        "air fryer"
+      ],
+      "caption": "Crispy meals made easy! \ud83c\udf5f Discover the magic of our 6.34QT Air Fryer with a visual window. Grab yours now for just $56.33! \ud83d\udd25",
+      "headline": "\ud83d\udd25\u2728 Air Fryer, 6.34QT Fryer with Visual Window, Multifunctional Air Fryer",
+      "blurb": "USD 56.33 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Heavy-Duty Pet Hair Trimmers Electric Professional Dog Grooming Clippers NEW",
-      "price": 44.98,
+      "keyword": "air fryer",
+      "title": "Smart Air Fryer Oven 10-in-1 | 10 One-Touch Preset Functions, Smart Cook Program",
+      "price": 71.98,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/chUAAOSwfDZoSRYq/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/405952121822?_skw=pet+hair+trimmer&hash=item5e84a1cbde%3Ag%3AchUAAOSwfDZoSRYq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbzPgbAr92yosnv824CYCTe%2Bl%2BoaCWSu4YTHR9sn2iVj2a4hVKOGmUEe9Zy08SIMHralnFueDpyeT4Dq%2FnRFSpFVltC3%2FltJuX3NBbikU1Y68Y0tjo2eGV%2FBE1m2vNFGJ86zDEq%2BwFZ7Yek%2FBBA8Pextz1yrP9flgCM2Ddpkiei9fDAtFw6E2b83YR8zQ3z3syyDobmZGtbX2G03K2lI8rzLqfJXWC0TBKSV%2FTevLu6D1RQdu5u8biO5lDyW3wiPj1qMMhkuWiDxcVNn%2BLYQoQUhH%2BlY9hinsTLyGBI1DlW5g%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 1188,
+      "image_url": "https://i.ebayimg.com/images/g/KDwAAeSwWepokuS2/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/297521366235?_skw=air+fryer&hash=item4545a7c4db%3Ag%3AKDwAAeSwWepokuS2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZ9RmdNxBcW7%2BTcrtRTK6VzAJ3p%2FLFDJMCck8L5GiMHD8zX%2FaSKo%2FvjwZ50vmLkem%2BJU6eWP6GRk7c3RnjpF%2BotooLnzAhf3etnmKdBkRnLvGFyitOY2agfEPRT5%2BemIJHWAb1KZ5j6kwcefAolqOBrCtPm3ClDWt%2BMjujfuZV8I7ynGjF5JGW6zKBH5ZrKh1JDxSssoQNFbf9kAs3Hb5NUp8fYtq4gVeGapIOx27c9MDDnpX%2FNp2sTcifkB6tBG%2BL08lctcilydhcGlErETM6l&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 56,
       "top_rated": false,
-      "score": 5.188,
+      "score": 4.056,
       "tags": [
-        "pet hair trimmer"
+        "air fryer"
       ],
-      "caption": "Unleash grooming magic with our Heavy-Duty Pet Hair Trimmers! \u2702\ufe0f\ud83d\udc3e Get yours now for only $44.98 and pamper your pup today!",
-      "headline": "\ud83d\udc3e Groom Like a Pro: Heavy-Duty Pet Hair Trimmers!",
-      "blurb": "Transform your grooming game with our Electric Pet Hair Trimmers! Limited stock available at just $44.98\u2014grab yours now and enjoy effortless grooming for your furry friend!",
-      "emojis": "['\ud83d\udc36', '\u2702\ufe0f']"
+      "caption": "Smart Air Fryer Oven 10-in-1 | 10 One-Touch Preset Functions, Smart Cook Program \u2022 USD 71.98",
+      "headline": "\ud83d\udd25 Elevate Your Cooking with the Smart Air Fryer Oven! \ud83d\udd25",
+      "blurb": "Time's ticking! Grab this 10-in-1 air fryer with one-touch presets for just $71.98. Cook healthier meals effortlessly\u2014shop now!",
+      "emojis": "['\ud83d\udecb\ufe0f', '\ud83d\udd25']"
     },
     {
       "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 15.97,
+      "keyword": "air fryer",
+      "title": "HYSapientia 26QT Stainless Steel Air Fryer Toaster Oven With Rotisserie",
+      "price": 199.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/R4wAAOSwcoVj1MOH/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/155379570127?_skw=pet+hair+trimmer&hash=item242d5815cf%3Ag%3AR4wAAOSwcoVj1MOH&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ9ogepsGjv721TzZFnTEqahUQEun9TVky53oNsRmqe3SzLrZDVgMtqntO7v%2FKZzt4HG84q2vSKcQFDg0eeCO1HsmLPcKTQenBYyOlufpmTG61AHnuXe23KlpURNbhl0D6igDFezOb3XQRYK5MjZYtpOnMGLGC7WS0Nm2prVa6fce%2F9OA1VVlpdUqJtno3MdkhhOZoiUdIaAesYvtlrYU3LcVbWDhkW5JsdzoLoSIxNy67v0RhHcBTyv12%2Fd8V6lGUVlmU5pzrEf5BbrzdFkVrDID0AEnTU3mhR6RrYEx3OOw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 987,
+      "image_url": "https://i.ebayimg.com/images/g/Qz4AAOSwXhFn83~O/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/404820816595?_skw=air+fryer&hash=item5e413372d3%3Ag%3AQz4AAOSwXhFn83~O&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaAQ13QRFPkjxaYuDSM8zChs5zERUcCf%2BMdyamL7KQSOxj9Wq42l38Zp2JE04%2Fdo3Hz12QGzn59lYAAoTL1NW5qDqzqYEmWQQtIqXWLBgT4ir0CHyuktXHKxCPZ0SVTnsgihUfvHBVJnigafzoXJEI%2BovzEBVwze%2FdzINQyELbn%2FjaETXOlyC7rdB1PMtO25o0GQouIQbEXKNpRlt0jl3bWEwnxp5oHJZk2sP0Mts5IyARRl5lYUX4Rduc1ivNEwmSSA%2B5%2BiX3uMu1L8CjhoBZDkTD6dzYRMRYzzcgsgCrxSA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 83,
       "top_rated": false,
-      "score": 4.987,
+      "score": 1.083,
       "tags": [
-        "pet hair trimmer"
+        "air fryer"
       ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 15.97",
-      "headline": "\ud83d\udc3e Groom Your Pets Like a Pro - Limited Stock!",
-      "blurb": "Transform your pet grooming routine with our cordless trimmer set at just $15.97! Hurry, stock is running low \u2013 grab yours now!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 9.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/j~0AAOSw6UtlqG16/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/166555429835?_skw=pet+hair+trimmer&hash=item26c77a2bcb%3Ag%3Aj~0AAOSw6UtlqG16&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwwUkYNgYG6vw8talXaNKFmUsycqev%2BJS6t4AtacnkKY%2BmuFIPQZvP1cv2Q5NDNaRLN1OH2hmV%2FE%2FY7EzOF%2B64Ib70PLql3RVpVSc1YT392BAu6wByGRIJBdQKQ9GuNyVKFJ08a3MwHi10e2iIdkhbzRxANm82vsz6hd2zymzk%2FQxGXaJZ7uLJxWNKlCOWaKprCcaZcLjKl%2FSzby9AjxulIjsPu%2BsVfHBhl%2FWDeKK2m2lufcHTUOZWDOGXb2b4y8LEYFzmIjh0B1MyOXQbbjpzAASYbrSH2LhcXmXxUQlatg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 2500,
-      "top_rated": false,
-      "score": 4.5,
-      "tags": [
-        "pet hair trimmer"
-      ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 9.99",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "blurb": "USD 9.99 steal. Limited stock\u2014grab it now!",
+      "caption": "Cook like a pro with the HYSapientia 26QT Air Fryer Toaster Oven! \ud83d\udd25 Elevate your meals today for just $199.99! \ud83d\udc49 Get yours now!",
+      "headline": "\ud83d\udd25\u2728 HYSapientia 26QT Stainless Steel Air Fryer Toaster Oven With Rotisserie",
+      "blurb": "USD 199.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Professional Pet Clippers Dog Cat Animal Kit For Hair Grooming Cordless Trimmer",
-      "price": 9.79,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/U0YAAOSw9NBoB2Bc/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/376394616902?_skw=pet+hair+trimmer&hash=item57a2de1046%3Ag%3AU0YAAOSw9NBoB2Bc&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 2099,
-      "top_rated": false,
-      "score": 4.099,
-      "tags": [
-        "pet hair trimmer"
-      ],
-      "caption": "Groom like a pro at home! \u2702\ufe0f Grab the cordless pet clippers for just $9.79 and pamper your furry friend today! \ud83d\udc3e\ud83d\uded2",
-      "headline": "\ud83d\udc3e Groom Like a Pro \u2013 Cordless Pet Clippers at Just $9.79!",
-      "blurb": "Transform your pet's grooming routine with our limited-time clipper kit! Grab yours now before they\u2019re gone!",
-      "emojis": "['\ud83d\udc15', '\u2702\ufe0f']"
     }
   ]
 }
