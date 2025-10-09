@@ -1,100 +1,100 @@
 {
-  "updated_at": 1759980507,
+  "updated_at": 1759982716,
   "products": [
     {
       "source": "ebay",
-      "keyword": "bike light",
-      "title": "Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight",
-      "price": 14.51,
+      "keyword": "pet hair trimmer",
+      "title": "Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs",
+      "price": 10.35,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/giEAAOSwmFNl3UUx/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/226020904929?_skw=bike+light&hash=item349fe54fe1%3Ag%3AgiEAAOSwmFNl3UUx&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbX4Ag5F2M4ahjNXrnbfOgXKAwkkLitjx2dh4igybr%2BwfSR1iOdBMWM4D0FwLjwm9osdW1gMql2%2Bw9lE4WEaRhz85BQ%2B7dr13XzJfs1KxOtDG%2F8xPQdSZJvVihZ%2B0vvKarUzHd4ujF42kixSeS%2FfnwrIX%2B07t3CgQ7qKjRfrcBLUCSl%2FWpRT05PJJCr6KREGTXttr8SKTcfP6hoJAA%2BBB9RCSOq4fPdCaV%2FRz%2BCmkp3XXwUUtQBw2nhlig%2Fjx01Lycl%2BvpGlS3YMYRHKnYvPSrn&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
-      "seller_feedback": 25855,
+      "image_url": "https://i.ebayimg.com/images/g/l-MAAOSwEktoSSse/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/297381886400?_skw=pet+hair+trimmer&hash=item453d5779c0%3Ag%3Al-MAAOSwEktoSSse&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "seller_feedback": 65523,
       "top_rated": false,
       "score": 7.0,
       "tags": [
-        "bike light"
+        "pet hair trimmer"
       ],
-      "caption": "Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight \u2022 USD 14.51",
-      "headline": "\ud83d\udeb4\u200d\u2642\ufe0f Illuminate Your Ride with Our Super Bright Bike Light!",
-      "blurb": "Don\u2019t miss out on the road ahead! Grab this USB rechargeable bike light for just $14.51 before stocks run out. Brighten your journey now!",
-      "emojis": "['\ud83d\udeb4\\u200d\u2642\ufe0f', '\ud83d\udca1"
-    },
-    {
-      "source": "ebay",
-      "keyword": "bike light",
-      "title": "2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp",
-      "price": 9.95,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/~-AAAOSwOOxnIZn4/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/363009438000?_skw=bike+light&hash=item54850c7130%3Ag%3A~-AAAOSwOOxnIZn4&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYqnmKwtd7%2FLcVqk5X5JY9kh1plGGBHDBAzW5CtvutICe8Pt8Qul6M40m%2BsSyTrnyI5546fMVD%2BKqTrX2U4bmGpm%2BS1VXmjgR0xkmy8NBEPyupnsDvmU7BC8lX08zaNEYRNoBvNJ7cmbCQY6EVO9G7Mywoe2oHiCfeaiL%2FJ7vUel%2FepVOO5t3TN3CyCX5rmvlcPJOxznyuXUYBv%2BfZkzCssx7V9FanMJnQ6Kyjgrp%2BQOAhQITTjHc2XGzdNLZzCxukPMre4KopM1p1ParwBuIrq&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
-      "seller_feedback": 231131,
-      "top_rated": false,
-      "score": 7.0,
-      "tags": [
-        "bike light"
-      ],
-      "caption": "2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp \u2022 USD 9.95",
-      "headline": "\ud83d\udeb4 Illuminate Your Ride: 2 Set USB Rechargeable Bike Lights!",
-      "blurb": "Light up your cycling adventures with this essential set! Hurry, limited stock at just $9.95!",
-      "emojis": "['\ud83d\udeb4', '\ud83d\udca1']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "bike light",
-      "title": "Bike Tail Light Bicycle Rechargeable USB 5 LED Safety Rear Lamp Flashing Wraning",
-      "price": 3.89,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/w7gAAOSwc1pkFC8E/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/335910752858?_skw=bike+light&var=545454768219&hash=item4e35d7525a%3Ag%3Aw7gAAOSwc1pkFC8E&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua%2FQuGWuR6yTbDj9rT4FfyW%2BuVv%2Fv6Z7%2FMrbftIFy5ftFF1WGK%2FKsz7vKluLi82A98BUR3lRJuQPVwQmQlgi5NYynv4%2BQ%2FWFWSjPEZfDaDQnJYww5gFRfg7e0V5yM808JND5JFy20qexk4LGAVvhs1eCkOsUSZON1rN1ja9ovj8B8Ayw6TRPCJ0A40kkBnvusc3KR1A1kVSegZG9LAVQzrqqZe0a4CL28%2FQnqjdIBOLSIGubFaJ6gWSeyErdt5qlRhPwavouh5tDGr0bjo5uhVH&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
-      "seller_feedback": 38022,
-      "top_rated": false,
-      "score": 5.0,
-      "tags": [
-        "bike light"
-      ],
-      "caption": "Bike Tail Light Bicycle Rechargeable USB 5 LED Safety Rear Lamp Flashing Wraning \u2022 USD 3.89",
-      "headline": "\ud83c\udfe0\ud83d\udecb Bike Tail Light Bicycle Rechargeable USB 5 LED Safety Rear Lamp Flashing Wraning",
-      "blurb": "USD 3.89 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "bike light",
-      "title": "Waterproof LED Bike Light USB Rechargeable Super Bright Bicycle Front Headlight",
-      "price": 14.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/9IcAAOSwjspnvsXq/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/405584915696?_skw=bike+light&hash=item5e6ebeacf0%3Ag%3A9IcAAOSwjspnvsXq&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
-      "seller_feedback": 1168,
-      "top_rated": false,
-      "score": 3.168,
-      "tags": [
-        "bike light"
-      ],
-      "caption": "Waterproof LED Bike Light USB Rechargeable Super Bright Bicycle Front Headlight \u2022 USD 14.99",
-      "headline": "\ud83d\udd25\u2728 Waterproof LED Bike Light USB Rechargeable Super Bright Bicycle Front Headlight",
-      "blurb": "USD 14.99 steal. Limited stock\u2014grab it now!",
+      "caption": "Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs \u2022 USD 10.35",
+      "headline": "\ud83d\udd25\u2728 Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs",
+      "blurb": "USD 10.35 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "bike light",
-      "title": "Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight",
-      "price": 8.89,
+      "keyword": "pet hair trimmer",
+      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
+      "price": 15.97,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/wfcAAeSwRGloXnSK/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/365703089661?_skw=bike+light&hash=item55259a4dfd%3Ag%3AwfcAAeSwRGloXnSK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaMEvVah6IeRrwOgvQOI%2BWLYrrvMHmDmw%2B0NlrUijm5uWmTNcsEc3s3rEwMjFLKlWZwSg1GaV5r9v2tDJbDpan9sQvpFP9ztxwNri9X%2Bw1Gpd3YezOiIABEdH9LgfsqrkWfHx540iYPkJsX82tQJBT%2BE5%2BfUORAgXoEDgFirwv%2BCgTdcaE%2BPdh0wulYpirPNtV%2FOJP5twv02QT0n5ypBGpVuHBLgQfbKZJJ95ghmbcAfM%2Bk9MPFNBz7jZuiQyEXLvEa%2BnLi44Rd5SRQTxyazDTb&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
-      "seller_feedback": 1090,
+      "image_url": "https://i.ebayimg.com/images/g/j~0AAOSw6UtlqG16/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/166555429835?_skw=pet+hair+trimmer&hash=item26c77a2bcb%3Ag%3Aj~0AAOSw6UtlqG16&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwwUkYNgYG6vw8talXaNKFmUsycqev%2BJS6t4AtacnkKY%2BmuFIPQZvP1cv2Q5NDNaRLN1OH2hmV%2FE%2FY7EzOF%2B64Ib70PLql3RVpVSc1YT392BAu6wByGRIJBdQKQ9GuNyVWDbDza8zXsjazZxjJ4JPaS3kGf4WT0RGF3z01yRHSduBX2Uo3mbJM56s00VHFKy9IxiWE0uoR0xBHgStTDay8uwphqx0zZalLXdxfLv6Z7hvmPuVo8U4rZ7o2R4W8%2FFGLKMk00vHZZc38r1vzEhvpHWw1S8CX%2B0OkQybKZhx%2FVA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "seller_feedback": 2503,
       "top_rated": false,
-      "score": 3.09,
+      "score": 6.503,
       "tags": [
-        "bike light"
+        "pet hair trimmer"
       ],
-      "caption": "Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight \u2022 USD 8.89",
-      "headline": "\ud83d\udeb4\u200d\u2640\ufe0f Illuminate Your Ride with Our LED Bike Light!",
-      "blurb": "Don't miss out! For just $8.89, this super bright, waterproof headlight will keep you safe on your nighttime rides. Grab yours now before they're gone!",
-      "emojis": "['\ud83d\udeb4\\u200d\u2640\ufe0f', '\ud83d\udca1"
+      "caption": "Groom your furry friends like a pro with our cordless electric clipper! \ud83d\udc3e Snag this grooming kit for just $15.97! Grab yours today! \u2702\ufe0f",
+      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
+      "blurb": "USD 15.97 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "pet hair trimmer",
+      "title": "Heavy-Duty Pet Hair Trimmers Electric Professional Dog Grooming Clippers NEW",
+      "price": 44.98,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/chUAAOSwfDZoSRYq/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/405952121822?_skw=pet+hair+trimmer&hash=item5e84a1cbde%3Ag%3AchUAAOSwfDZoSRYq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbzPgbAr92yosnv824CYCTe%2Bl%2BoaCWSu4YTHR9sn2iVj2a4hVKOGmUEe9Zy08SIMHralnFueDpyeT4Dq%2FnRFSpFVltC3%2FltJuX3NBbikU1Y68Y0tjo2eGV%2FBE1m2vNFGJ9QdIQ97VLICuVEPbkOcku2BH5Iwh1nzfbHOxc5VyfupNggUU%2BjTTfsHGyh82LeTGUS4fG48tpa--E93p55r%2BzRebfPwH78dSae9IZ2s8eUAnLt4C%2FZhDR88bIKVxgpNv7TQAAoVrxNR8D78eSiWuaU%2BujyHCO4KRqL2MzxshrM5g%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "seller_feedback": 1192,
+      "top_rated": false,
+      "score": 5.192,
+      "tags": [
+        "pet hair trimmer"
+      ],
+      "caption": "Tame the fur with our Heavy-Duty Pet Hair Trimmers! \ud83d\udc3e Get professional grooming results at home for just $44.98. Grab yours now! \u2702\ufe0f\u2728",
+      "headline": "\ud83d\udc3e Tame the Fur! Heavy-Duty Pet Hair Trimmers at $44.98!",
+      "blurb": "Groom your pets like a pro with these powerful clippers! Limited stock available\u2014grab yours now!",
+      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "pet hair trimmer",
+      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
+      "price": 15.97,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/R4wAAOSwcoVj1MOH/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/155379570127?_skw=pet+hair+trimmer&hash=item242d5815cf%3Ag%3AR4wAAOSwcoVj1MOH&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ9ogepsGjv721TzZFnTEqahUQEun9TVky53oNsRmqe3SzLrZDVgMtqntO7v%2FKZzt4HG84q2vSKcQFDg0eeCO1HsmLPcKTQenBYyOlufpmTG61AHnuXe23KlpURNbhl0D5URFxMCM%2FgL4u8lHuM2koN7dkZNszLxyxwjAw6zhiM0NomC3M0fukkqyKZ3FJpRRwNLttMewjXv4r%2BS4mzdeUKaEyCJr9q7t0FtfC1uvs4o2Tqh%2B7xCcjt6c3gX9b8lhDix6NfvMCckYseP3ZPaNbDcgU%2BxVadwr6fQm2u8sM%2Fwg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "seller_feedback": 992,
+      "top_rated": false,
+      "score": 4.992,
+      "tags": [
+        "pet hair trimmer"
+      ],
+      "caption": "Transform grooming time into bonding time! \ud83d\udc3e Get your rechargeable pet grooming kit for just $15.97 and keep your furry friends looking fabulous! \ud83d\udecd\ufe0f\u2728",
+      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
+      "blurb": "USD 15.97 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "pet hair trimmer",
+      "title": "Dog Paw Trimmer - Electric Cordless Pet Clippers for Dogs & Cats - Quiet Dual...",
+      "price": 19.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/WyYAAeSwumFolQI-/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/257055418037?_skw=pet+hair+trimmer&hash=item3bd9b266b5%3Ag%3AWyYAAeSwumFolQI-&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZi64COLTDFzEZYzijIVtjCPubDzC7%2FBM3Zr1pkYjxuyJJ8BWf5n%2BdURiwFll4ugn0Ebz%2Bk1NKZFEbL2NxhrGaVc36o4lKVjqi6bXcDRnTJVwJV%2BNyIUMQi0Lli32hsqPq%2Fo2Snezl0PX8jXDUs9cPG35IKL814sZze7YQqgm3NheTtzumIN0vv6eN2vym6b2asdKUzGTSxV8nDeVTRy8%2FewRiWqUogcABrDOKjHCchNqD5eMRjfzvtPO4Kxn9dbsYtpTLDS72gEOyWVluUHv3wVgXDJ3GDUoU33EV%2FniPcnA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "seller_feedback": 373,
+      "top_rated": false,
+      "score": 4.373,
+      "tags": [
+        "pet hair trimmer"
+      ],
+      "caption": "Dog Paw Trimmer - Electric Cordless Pet Clippers for Dogs & Cats - Quiet Dual... \u2022 USD 19.99",
+      "headline": "\ud83d\udc3e Trim Your Pet's Paws with Ease - Only $19.99!",
+      "blurb": "Hurry! Limited stock on our Electric Cordless Dog Paw Trimmer. Keep your furry friend looking sharp and comfortable today!",
+      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
     }
   ]
 }
