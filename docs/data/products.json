@@ -1,5 +1,5 @@
 {
-  "updated_at": 1760180679,
+  "updated_at": 1760184311,
   "products": [
     {
       "source": "ebay",
@@ -8,36 +8,17 @@
       "price": 15.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/Ve4AAOSwMchnBn-Z/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/404244449960?_skw=massage+gun&hash=item5e1ed8caa8%3Ag%3AVe4AAOSwMchnBn-Z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbS9xwGSslJip%2B9zuA0u7lqQVf5UM5EJtmTHUyyW4hStTG7ynd6cNry4mZh6vSTASOZnGeQtX%2FFt1oslPDfCcLVmc9%2FoJec5QKGCo9%2F2PqtbN9eCEWY5lsNkXxOk2Y5fjoqh36d7o021FIf%2Bx3v6kDNZGq3n0igYNDH1FyEWd7ZEcrXiSPO4SyPVOGPoMutAxP%2F%2BPQioLBk%2BiaTFubm%2BsaXC4wguhCZfHf0G%2BcdAGFAGNSgaNdyTHMRJIY6Xb86jDGInlINiSDt%2BAbN7eAjnQ8%2B&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
+      "url": "https://www.ebay.com/itm/404244449960?_skw=massage+gun&hash=item5e1ed8caa8%3Ag%3AVe4AAOSwMchnBn-Z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbS9xwGSslJip%2B9zuA0u7lqQVf5UM5EJtmTHUyyW4hStTG7ynd6cNry4mZh6vSTASOZnGeQtX%2FFt1oslPDfCcLVmc9%2FoJec5QKGCo9%2F2PqtbN9eCEWY5lsNkXxOk2Y5fjruaGoEYhnrrisVI0X81lAvU9MisGRiwN2XL0lfTeKpp9qN%2Ft6FCaE2wrvGaQRTkGXLdz5t6jphuxnbHaHH6r1sGZDXRzO3lKn7K862q%2FPELPTZDRN%2BUbFGt%2BlnkRKqHB4Ptv8Mmcgr2du91xBs6yj1&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
       "seller_feedback": 348344,
       "top_rated": false,
       "score": 9.0,
       "tags": [
         "massage gun"
       ],
-      "caption": "6 speeds Massage Gun Percussion Massager Deep Tissue Muscle Vibrating Relax \u2022 USD 15.99",
-      "headline": "\ud83d\udcaa Unlock Ultimate Relaxation with Our Massage Gun!",
-      "blurb": "Experience deep tissue relief at just $15.99! Stock is limited\u2014grab yours now!",
-      "emojis": "['\ud83d\udcaa', '\ud83d\udecb\ufe0f']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "massage gun",
-      "title": "Massage Gun Percussion Massager Deep Tissue Muscle Vibrating Relaxing + 4 Heads",
-      "price": 28.95,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/TPsAAOSwxlJfKza~/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/204156698596?_skw=massage+gun&hash=item2f88afffe4%3Ag%3ATPsAAOSwxlJfKza~&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY97Szuxy6Da4nuVez36O4Qn%2BiFfzFWLpasyvmWBhClQnRtCPDD5ESc2Y1um7Q6SilgiwBERsRPTtrcPQcQyCSb9bvodvQxbc%2BxETE6AxLRdafDI5xMJjwzTrd2WaxznGORpGInXGok2BkLI50QHEfYJShYFreak4bbZIn3miqKQeoS8Q13Smw%2FajinI0AIWSel4hTUuIRGqL7rMzKGULBcd74wgKuaCMW6E7VdAizT3vPyjv0LVG60rbXyYgxcX3nNP7XUwlan6N1Jv%2Fr8QtBY%2Bn9mIQ55NPRtzVG1uufL5Q%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
-      "seller_feedback": 973890,
-      "top_rated": false,
-      "score": 9.0,
-      "tags": [
-        "massage gun"
-      ],
-      "caption": "Massage Gun Percussion Massager Deep Tissue Muscle Vibrating Relaxing + 4 Heads \u2022 USD 28.95",
-      "headline": "\ud83d\udca5 Unlock Ultimate Relaxation with This Massage Gun!",
-      "blurb": "Experience deep tissue relief for just $28.95! Limited stock available, grab yours now!",
-      "emojis": "['\ud83d\udc86\\u200d\u2642\ufe0f', '\ud83d\udecd"
+      "caption": "Unleash relaxation with our 6-speed Massage Gun! \ud83d\udcaa Deep tissue relief is just a click away. Grab yours for only $15.99! \ud83d\uded2",
+      "headline": "\ud83d\udd25\u2728 6 speeds Massage Gun Percussion Massager Deep Tissue Muscle Vibrating Relax",
+      "blurb": "USD 15.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
@@ -46,17 +27,36 @@
       "price": 25.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/bjsAAeSwWYFopX2u/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/365280984699?_skw=massage+gun&hash=item550c717e7b%3Ag%3AbjsAAeSwWYFopX2u&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZKU%2Fdte9eDO0dE9BaDmPw54jQ57fTra8gr3csdUhpmXsYCxU3pTCp%2BJLbUiLwQrscfp%2Btiw%2BVHkagUUPpqq%2Fagk6qjYjDD0wjvos85cU4dc1g91s5Hx3m4Y%2Bwe19ltRHYASEdpsXQqV5gtJ%2FxocpNTJ4sMDcRRnFtpO0NUZg%2BdzoIIIH4w7rAxZPTYWdoC6ashKmvP%2Bq6PjZeCuHc%2BHXyxUgERoWts%2Be2DcfepivbsatSDOviM0CXDxHQ%2Bw4%2F%2Boxz85A8YLMZjONJO06RgohO6&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
+      "url": "https://www.ebay.com/itm/365280984699?_skw=massage+gun&hash=item550c717e7b%3Ag%3AbjsAAeSwWYFopX2u&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZKU%2Fdte9eDO0dE9BaDmPw54jQ57fTra8gr3csdUhpmXsYCxU3pTCp%2BJLbUiLwQrscfp%2Btiw%2BVHkagUUPpqq%2Fagk6qjYjDD0wjvos85cU4dc1g91s5Hx3m4Y%2Bwe19ltRHYjOVrdQ9xyWi5TSvWP%2FHFjjvaaP%2BEyyLTEPu8sKtZIMLgN5sRMtA%2BJ%2BGzws8BBFMUgexenmEaVCL8057%2BM0MFDmeRVcGGgGqQsEQJDT3kyvdoakP5KsrPbLh%2FIVkGXpv4cYqjJJhxb6tQVr%2Fva5jNW&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
       "seller_feedback": 24424,
       "top_rated": false,
       "score": 9.0,
       "tags": [
         "massage gun"
       ],
-      "caption": "Unleash muscle relief with our Deep Tissue Massage Gun! \ud83d\udcaa 9 heads, 20 speeds\u2014your ultimate recovery tool for just $25.99! Grab yours now!",
+      "caption": "Massage Gun Deep Tissue, Muscle Massage Gun with 9 Attachment Heads 20 Speeds \u2022 USD 25.99",
       "headline": "\ud83d\udd25\u2728 Massage Gun Deep Tissue, Muscle Massage Gun with 9 Attachment Heads 20 Speeds",
       "blurb": "USD 25.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "massage gun",
+      "title": "Massage Gun Percussion Massager Deep Tissue Muscle Vibrating Relaxing + 4 Heads",
+      "price": 28.95,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/TPsAAOSwxlJfKza~/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/204156698596?_skw=massage+gun&hash=item2f88afffe4%3Ag%3ATPsAAOSwxlJfKza~&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY97Szuxy6Da4nuVez36O4Qn%2BiFfzFWLpasyvmWBhClQnRtCPDD5ESc2Y1um7Q6SilgiwBERsRPTtrcPQcQyCSb9bvodvQxbc%2BxETE6AxLRdafDI5xMJjwzTrd2WaxznGNPVxtJwJRTMpe4hStsHhTeyhOpzu6d2WKcyMOFxfnlO6y92apIyMlvZw%2FL5v8UnUmyshUxQwp8h1MgAZOXXciyfceFYQpe2wXxwuki9HnUwMc8cKu9KEkPvg6oSrCsh%2F1hvP%2BV2KOHsGcPZpobLnkNhbJkICAYgqd8jJaU1sOoAA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
+      "seller_feedback": 973906,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "massage gun"
+      ],
+      "caption": "Massage Gun Percussion Massager Deep Tissue Muscle Vibrating Relaxing + 4 Heads \u2022 USD 28.95",
+      "headline": "Unwind Now! \ud83d\udcaa Grab Your Massage Gun for Only $28.95!",
+      "blurb": "Limited stock alert! Relieve muscle tension and boost recovery with our powerful massage gun. Order yours today!",
+      "emojis": "['\ud83d\udcaa', '\ud83d\udecb\ufe0f']"
     },
     {
       "source": "ebay",
@@ -65,14 +65,14 @@
       "price": 14.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/8skAAeSwbVln5wtq/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/167411330870?_skw=massage+gun&hash=item26fa7e2f36%3Ag%3A8skAAeSwbVln5wtq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZlMf9fKk36dilERGjjTN5kKIsP5vdpLyqA3yTmxRmIoz9H6gWyOvy%2F8%2BEP3dzIAPxfQhcZiJalnzcDVydsuBDWWHwcKGXdZTGpWorhJI%2Bs6AvVvHTrGWQmmAjAxZdHy5YZZtvAhF0%2FKbk6CFrhakZU6pHZyrfrQALwwkKpi91dZdn0WFch%2Fljh%2Bx6bT%2FZUf11XMB5j77dHC6XwM633D3kgEMu0EbN%2BACYUHsNsBFPVxxW6%2FxNq%2FLjzonQ2vDffheq9Mc8CE%2Btud4YUOXfJ3t%2Fc&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
+      "url": "https://www.ebay.com/itm/167411330870?_skw=massage+gun&hash=item26fa7e2f36%3Ag%3A8skAAeSwbVln5wtq&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZlMf9fKk36dilERGjjTN5kKIsP5vdpLyqA3yTmxRmIoz9H6gWyOvy%2F8%2BEP3dzIAPxfQhcZiJalnzcDVydsuBDWWHwcKGXdZTGpWorhJI%2Bs6AvVvHTrGWQmmAjAxZdHy5bYwTuyb%2BYEQGF%2BkuLd2D3EOEeJLyn%2FJq0cZ9tEU7XEmyvDszh8Umf7TSi%2FF1Ru0P0f9CRZOL2ZOVFVon07p9fJnYBY8OkIKzcBcyjpK69WE1aQdcuk7kutNzR5TM%2BCjKozTJ3L2m7XeRqagHRJi5op&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=massage_gun&toolid=10001",
       "seller_feedback": 1081,
       "top_rated": false,
       "score": 3.081,
       "tags": [
         "massage gun"
       ],
-      "caption": "Unleash muscle relief with our Deep Tissue Massage Gun! \ud83d\udcaa 99 speeds for ultimate relaxation at just $14.99! Grab yours now!",
+      "caption": "Massage Gun Deep Tissue, 99 Speeds Quiet Handheld Electric Muscle Massager with \u2022 USD 14.99",
       "headline": "\ud83d\udd25\u2728 Massage Gun Deep Tissue, 99 Speeds Quiet Handheld Electric Muscle Massager with",
       "blurb": "USD 14.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
