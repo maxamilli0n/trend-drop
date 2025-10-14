@@ -1,5 +1,5 @@
 {
-  "updated_at": 1760444418,
+  "updated_at": 1760448395,
   "products": [
     {
       "source": "ebay",
@@ -9,7 +9,7 @@
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/hKkAAeSwaU9oh~LX/s-l225.jpg",
       "url": "https://www.ebay.com/itm/365149263338?_skw=cordless+vacuum&hash=item55049795ea%3Ag%3AhKkAAeSwaU9oh~LX&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 63666,
+      "seller_feedback": 63672,
       "top_rated": false,
       "score": 9.0,
       "tags": [
@@ -27,8 +27,8 @@
       "price": 254.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/g~gAAeSwhmVo7c2H/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/276124405466?_skw=cordless+vacuum&hash=item404a4c0eda%3Ag%3Ag~gAAeSwhmVo7c2H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY2D82k7ag4W6zDcGJrtCtnY4WG1GxkjU6Scje87g2zvRFSKTpSyCQ8zWHUE1QF51nxViZhp4wuUT6k%2FNxII4lhyKBC4o1tv5hOlR%2BWOLtLH6OyTjTFZWanLxfc934ZPH%2BZt%2FXYEA38thJ66N%2B%2BuZmOCOApbpIBKRPXocjltHnDK8oY7yIBKZFDhrmLf7m411eLbBt4bSTO0DnKZ3kfPSkWH%2Bze0snCtgeP0WoF7BVAsVWTuo7SuGG0mTplLGl71OtyE2i9trSR4%2FNnX3jY94UPZMbS6%2FrTyUTmSOeadwpQuA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 116250,
+      "url": "https://www.ebay.com/itm/276124405466?_skw=cordless+vacuum&hash=item404a4c0eda%3Ag%3Ag~gAAeSwhmVo7c2H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY2D82k7ag4W6zDcGJrtCtnY4WG1GxkjU6Scje87g2zvRFSKTpSyCQ8zWHUE1QF51nxViZhp4wuUT6k%2FNxII4lhyKBC4o1tv5hOlR%2BWOLtLH6OyTjTFZWanLxfc934ZPH%2FT8OVBp4OZ9Mpe3MgbU8iSeQWqhTb8eHeG7ZFW34v7Ic0OotodzEUDzh2BOWYsQd3RCq7sh6mFuWrkRSUls69VY1R5MH9oAnYrmErvz3J4pnXlf3KJv0Xpi%2F3ZB3d%2B2blB695xbtqZHelSYpJ1xjTZ5xF4mabzAM97a%2BKCA1SMTg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 116252,
       "top_rated": false,
       "score": 6.0,
       "tags": [
@@ -42,11 +42,30 @@
     {
       "source": "ebay",
       "keyword": "cordless vacuum",
+      "title": "Dyson V8 Motorhead Origin Cordless Vacuum | Red | Certified Refurbished",
+      "price": 239.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/4BsAAeSwyv9o7ilQ/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/277390031466?_skw=cordless+vacuum&hash=item4095bbfa6a%3Ag%3A4BsAAeSwyv9o7ilQ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbuN0sObTun0mpEzMXONepktiduQm5iYwO3YT26p5na5RxqCZ%2BtOUwoN0x9IFZMhBJjsczZo5gptfWqWDaqOkZ1tf0qEHKEnBLJ%2BVTcMG8q9t1Kp%2BmceBDcLu6NGV%2B%2Fj68yLe6CNpwxPpoaNIMEAMhb%2Bif9%2Fxr4o%2F3mK7Y0J1%2Fr1mtPIgeounAl9aiNzFHZMsuRhIycEKKizpHCBzmkMWulGLLHp9qZsAUKjmIr3EsF4iusoPzMTWii%2BblrNMnEla15BkERSiFSx8j0q5y75qpB98%2BJdzxCZsYBD5HmRIlqqQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 116252,
+      "top_rated": false,
+      "score": 6.0,
+      "tags": [
+        "cordless vacuum"
+      ],
+      "caption": "Dyson V8 Motorhead Origin Cordless Vacuum | Red | Certified Refurbished \u2022 USD 239.99",
+      "headline": "\ud83c\udfe0\ud83d\udecb Dyson V8 Motorhead Origin Cordless Vacuum | Red | Certified Refurbished",
+      "blurb": "USD 239.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "cordless vacuum",
       "title": "Bissell AirRam Cordless Lightweight Multi-Surface Vacuum Cleaner | 1984",
       "price": 185.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/ZRoAAOSwmpFhL-gd/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/324274218762?_skw=cordless+vacuum&hash=item4b803fe70a%3Ag%3AZRoAAOSwmpFhL-gd&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaabINDh8kAM6wN8ROds2YYojqzAyBPbWzwXrxzplOreJW9m%2FpfCUauGVsu%2BMkv%2BgVIvGq44pPr2%2Ffe3uAob4uDsWKyOw1XXtWDfdz5mLRwiNoLNK5XiWdlE1rrlw1iyBWWsX6pdj46Uvbd8TKUqaSJTvBXKoIT4d8PN89PczF1%2BcRx6g0weolGB8UL%2BA1fwohBAAlt4eM820tYKeJ26LjVyv3ZZefJ9rPGWYcQOvBugoWZvdwpT87xXfbHDXLtfF3sZOHEx%2FI3bXLgTLFW6nUyQI5OksopAUEKCAStUfubbw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "url": "https://www.ebay.com/itm/324274218762?_skw=cordless+vacuum&hash=item4b803fe70a%3Ag%3AZRoAAOSwmpFhL-gd&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaabINDh8kAM6wN8ROds2YYojqzAyBPbWzwXrxzplOreJW9m%2FpfCUauGVsu%2BMkv%2BgVIvGq44pPr2%2Ffe3uAob4uDsWKyOw1XXtWDfdz5mLRwiNoLNK5XiWdlE1rrlw1iyBUO6T4i77VJdNhNRdxRqs7uBP%2Fe1Tn2KZvj1mq%2BgBSX9hV4Mw5ToHuO7OHauzSmpMIMwGKW5vHiPrGPSniU%2BmF5n0h5nCk%2B2r94mGCdTGPTXefziqRPa0MFMQNxqJkcTconXcFjTJh%2Fgp7Tqx5N8O69R9WpIybnofPPUFWx1DpRpg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
       "seller_feedback": 54921,
       "top_rated": false,
       "score": 6.0,
@@ -61,30 +80,11 @@
     {
       "source": "ebay",
       "keyword": "cordless vacuum",
-      "title": "Dyson V8 Motorhead Origin Cordless Vacuum | Red | Certified Refurbished",
-      "price": 239.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/4BsAAeSwyv9o7ilQ/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/277390031466?_skw=cordless+vacuum&hash=item4095bbfa6a%3Ag%3A4BsAAeSwyv9o7ilQ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbuN0sObTun0mpEzMXONepktiduQm5iYwO3YT26p5na5RxqCZ%2BtOUwoN0x9IFZMhBJjsczZo5gptfWqWDaqOkZ1tf0qEHKEnBLJ%2BVTcMG8q9t1Kp%2BmceBDcLu6NGV%2B%2Fj6%2FnMMWVsvnGh6C%2BQ8A%2FprE4zp6KcVjhjDszu5u89hPTcRY9Eea4tnEBM%2FQcjCQiB4AgwUnvehHXCKXmddzKa6Ku29fJlrY3k%2FLBjUNoxAGuB8Lwm0MhupSTtX2ZJqlEgAPtyRdeY2M5ZyVMfKnxHVA68ISqbFgvznmhsnGTyXXlrg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 116250,
-      "top_rated": false,
-      "score": 6.0,
-      "tags": [
-        "cordless vacuum"
-      ],
-      "caption": "Dyson V8 Motorhead Origin Cordless Vacuum | Red | Certified Refurbished \u2022 USD 239.99",
-      "headline": "\ud83c\udfe0\ud83d\udecb Dyson V8 Motorhead Origin Cordless Vacuum | Red | Certified Refurbished",
-      "blurb": "USD 239.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "cordless vacuum",
       "title": "45Kpa Cordless Vacuum Cleaner 550W Lightweight Stick Vacuum Cleaner Rechargeable",
       "price": 79.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/2bcAAOSwM~hoSmFN/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/187322891927?_skw=cordless+vacuum&hash=item2b9d507e97%3Ag%3A2bcAAOSwM~hoSmFN&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbQBNSMwVQVFGetAI2QlE2Hmp18kwb61dyA%2FarO0xmU7yCrexiosfgc7K%2BOTc20Wn3qUoGJxJjk8alo4iVi6mZ5XJyvnL6KYjK26txKSwYRvWUjU8IidOhbHa%2Bpmena5QJJRKnHRJwrrDJ6eXppwef3CFz69Qpq1rbjZMUj4%2BNEDzMfxrnTUQ1j4rEGIbZ%2BtTR1zENS%2B%2FX5z7nvXTfFb0c6lTZemT%2FAEVXYSX%2F0SH3IR93cEVgk3GuU%2FUHDk9Nhj%2F1n3B%2F9OwjEOVDi6d4LkFqn03G%2B8c7ue2ZI8JBHEL4fUg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "url": "https://www.ebay.com/itm/187322891927?_skw=cordless+vacuum&hash=item2b9d507e97%3Ag%3A2bcAAOSwM~hoSmFN&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbQBNSMwVQVFGetAI2QlE2Hmp18kwb61dyA%2FarO0xmU7yCrexiosfgc7K%2BOTc20Wn3qUoGJxJjk8alo4iVi6mZ5XJyvnL6KYjK26txKSwYRvWUjU8IidOhbHa%2Bpmena5QIiemZX6Ss5hw5xKKoR%2FlqDqvfOEGzyEqV%2FfR3glDwlivA%2BG30LGVl%2BrUi3bCuSA0J4POr4hJ1tRrnFi9rH59b1neSi3aqFeFcBCbuXTx2eb43DRAn1xtyEckhmdGdWUx4uKiF0%2FNKB8mXlFU5RacFOq7U2zmEc8uYRKRO3ExUBEw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
       "seller_feedback": 679,
       "top_rated": false,
       "score": 4.679,
