@@ -1,100 +1,100 @@
 {
-  "updated_at": 1760581311,
+  "updated_at": 1760585558,
   "products": [
     {
       "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "Acer 16\" PM161Q ABMIUUZX Portable Widescreen LCD Monitor Full HD 1920\u00d71080 60Hz",
-      "price": 55.19,
+      "keyword": "mechanical keyboard",
+      "title": "Keychron K10 Max Full Wireless Mechanical Keyboard, Red Linear Switches",
+      "price": 54.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/DSMAAeSwjjJo4~za/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/267228772305?_skw=portable+monitor&hash=item3e381377d1%3Ag%3ADSMAAeSwjjJo4~za&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 80748,
+      "image_url": "https://i.ebayimg.com/images/g/11kAAOSwONNn9VFJ/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/256886820058?_skw=mechanical+keyboard&hash=item3bcfa5ccda%3Ag%3A11kAAOSwONNn9VFJ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbDdVHD%2BSdIixnKxp2%2Ff8bI0VbHVsAMAQnAmFz92KQE%2F7E5XNcuWfMu1I%2B7SNc9jEG5pwql%2FcFlOhf9Ys1XY5CDgGzMwtxnUhJcHU6EVJeBEwGiCF7YXMKn%2BEeHDdnPocjyZTleMPdVviTYPwnvW9N1oHjp00Wjad6IV%2BhveXvYA%2FaKOJOIUwS5A0tj0lFZiUcYspBPhhyhi6Yu%2Bew6OEC6YFWC5PWIWfM6qJbnHuobBo50ZeuX3YLg8n62rXhAdeZp6ZiCCUU9iaSrT71fkH1%2Box0cHjqBS6VhxW1N2371dA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 6153,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "portable monitor"
+        "mechanical keyboard"
       ],
-      "caption": "Upgrade your setup with the Acer 16\" Portable Monitor! \ud83c\udf89 Full HD clarity on-the-go for just $55.19! Grab yours now!",
-      "headline": "\ud83d\udd25\u2728 Acer 16\" PM161Q ABMIUUZX Portable Widescreen LCD Monitor Full HD 1920\u00d71080 60Hz",
-      "blurb": "USD 55.19 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
-      "price": 45.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/ICIAAOSwnTtml5Di/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/314029464108?_skw=portable+monitor&hash=item491d9d5a2c%3Ag%3AICIAAOSwnTtml5Di&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbU7LSUQ1MAg4PGpa7LhgDfa%2FEFb6ADbi8xrd1XPrBPBQ0IkNPU40iJLmjb3tVpuR6MbZUQ%2Bty6BNsQ9BsfMWNHCV3AK7wXTC8GVwCZxj1qbThYyWZQ2mUkDp3xHyS%2FkwqQjoCzLc4XZUvhQbGUDKYzjTcTahrujn80LtoqQ4TVXdcOve6tV%2BkzqYNoxdq7pD4g0PyNHyFBIvttv6667QldRHKhYCf%2B%2Ffetq8dG4gnvWz4MW%2BDHij93J9BS4jWkiTR0jVSz4XIhWSB23hWOgDEgiYhHxTQmaSUA%2FKggb%2FHSJQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4265,
-      "top_rated": false,
-      "score": 8.265,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "Transform your workspace with our 15.6\" Portable Monitor! \ud83c\udf1f Experience stunning 1080P visuals. Grab yours now for just $45.99! \ud83d\udc49 Shop today!",
-      "headline": "\ud83c\udfae Elevate Your Gaming with This Portable Monitor!",
-      "blurb": "Grab this upgraded 15.6\" Full HD monitor for just $45.99! Limited stock available\u2014boost your setup now!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\ude80']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor",
-      "price": 127.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/JpEAAOSwTgdmx41H/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/315692006992?_skw=portable+monitor&hash=item4980b5be50%3Ag%3AJpEAAOSwTgdmx41H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYE29t2LgkTgZ46o8dehQSE4BqA8WkuhOYUU%2BwR%2BUFIWWwAu%2BCWsHHd%2FNS%2FYBJOI7L603T7FiX97m5w8r6kbA4b3QIpecg52Ue0HIWPZ3mrwvt%2FguQy%2B9sPGd2NzPWNTEV4NUl8811d5HxcvbIOWCGEwrNs2y8PLj%2BheFbtTpU83nxjcqtC2aB9gEXrbU4GqPMtueHVmBlTjji0XEAm1SC6iSQE1flefRp9sWxkeChKUoQB96QD8ADS%2BlYZuPKSYBjecnI5hyn3QDksLkBh9g5ObVHYMp7MRm77risvx22fqA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4265,
-      "top_rated": false,
-      "score": 8.265,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor \u2022 USD 127.99",
-      "headline": "\ud83c\udfae Elevate Your Setup with This 22\" Portable Monitor!",
-      "blurb": "Don't miss out on this limited-time offer for the UPERFECT 2K Portable Monitor at just $127.99! Boost your productivity on-the-go\u2014grab yours now!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\ude80']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
-      "price": 86.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/7yAAAOSw~kZmJdaI/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/313472386520?_skw=portable+monitor&hash=item48fc6905d8%3Ag%3A7yAAAOSw~kZmJdaI&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKXuoSEGV3S8t1CiTUvRGRCjvP41Oz2jk87bLxWJfh1Vv6G6gEozoXaESgwvfWi80aKNXvx0%2BZrnGxJxhPO%2BSFy8%2FMVVluuOVWH0r0A%2B5nuaJQVYzaKXZVyEEgQ7JS7Tt1QnqCN9KHBEpS7IJyMjNunFrJ6HCbnIG%2Fwwi5vWCf3QoibiQolXlcpSkE6zUFH7Dr7XQXYs6but3AlajXLyoNz%2FndGEf%2FGRtOVS1zs29NTj6P7DtDOg9wuNWS7ODYeZDsOGRwrdkc3FvXeBkU36nUO5t3q24rAIp70SN1qheQuA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4265,
-      "top_rated": false,
-      "score": 8.265,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS \u2022 USD 86.99",
-      "headline": "\ud83d\ude80 Elevate Your Gaming with UPERFECT 16\" Portable Monitor!",
-      "blurb": "Level up your gaming experience with this stunning 2K 120Hz portable monitor! Limited stock at just $86.99 - grab yours now!",
+      "caption": "Unleash your typing potential with the Keychron K10 Max! \ud83c\udf1f Grab yours now for just $54.99 and elevate your workspace! \ud83d\udcbb\u2728",
+      "headline": "\u2728 Unleash Your Typing Power with Keychron K10 Max! \ud83d\udd25",
+      "blurb": "Level up your setup with the Keychron K10 Max at a limited-time price of just $54.99! Don't miss out on enhanced performance and comfort\u2014grab yours now!",
       "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
     },
     {
       "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "Used | 16\u201d Portable Monitor OLED 120Hz Gaming Monitor 2880x1800 100% DCI-P3",
-      "price": 179.99,
+      "keyword": "mechanical keyboard",
+      "title": "ROYALAXE R100 Mechanical Keyboard Gateron G Pro 3.0 Yellow Switch - Lava Brown",
+      "price": 47.23,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/W7EAAOSw5bhnjJaE/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/226510089009?_skw=portable+monitor&hash=item34bd0dab31%3Ag%3AW7EAAOSw5bhnjJaE&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYeuplhIcusH9TLBKF%2FMHPtIoo1pdu8HsgvJfwNYiYKaMUR4dtZR2nyW8lxdX5srrtyPg0r%2FTVsl9mQbedWwcjUxzZr2SItmCDnfvErggr6IUDX6E6MAF9SCeRMrk4QfZsd1wm0uc0LXOURgv%2FktlUuyLBnxQRCQgMwBFgbx3%2FvqV69o2FlMLzat7v5RqGiaPA4oqu1nFkbehPT1R1OlKktN6zI8ox9bNiXjUO8FI1JDD59Mdhw1%2BsIJmZfLhP1SCfBOuVpIck3CKAV8hvy44YSTPHDmvaq51HRWm%2FuOzKaOw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 3308,
+      "image_url": "https://i.ebayimg.com/images/g/3zIAAeSwcPVo6BcE/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/166753896229?_skw=mechanical+keyboard&hash=item26d34e8725%3Ag%3A3zIAAeSwcPVo6BcE&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbOD%2FSLzSa%2FEIsFy0j9NP2IrInajM9mXjpTJTK9%2BTIo9lBj90ReCSnNlhjnK9y8mDJs%2BZH%2FSSRHck3iYsM2o0ieYXLjP972s5o6WcSiobE6hVTOllguj5HxYyperDLBrjj5M7mE5LkKWMV71iSAAXRVwMOl%2BIBVEyYCHx6beB3RF6meR%2Bckdx5rT8gGkT1RxDgHX0bnrNMH3Wn0pNTcufcYMse3oXXUfRFQ0%2FUr%2FCB38KLlWzbJOi%2BIsl4xFFFXfcx1lO%2F3DkwY%2BO53NCBJ5cI8p3y9QuGAtHURiYWtYAa%2F8g%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 30950,
       "top_rated": false,
-      "score": 4.308,
+      "score": 9.0,
       "tags": [
-        "portable monitor"
+        "mechanical keyboard"
       ],
-      "caption": "Level up your gaming with this 16\u201d OLED monitor! \ud83c\udfae Unmatched visuals at 120Hz for just $179.99! Grab yours now!",
-      "headline": "\ud83d\udd25 Grab This 16\u201d OLED Portable Monitor for Just $179.99!",
-      "blurb": "Limited stock on this powerful 120Hz gaming monitor! Upgrade your gaming setup today and enjoy vibrant visuals on the go. Act fast!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\ud83c\udfae']"
+      "caption": "ROYALAXE R100 Mechanical Keyboard Gateron G Pro 3.0 Yellow Switch - Lava Brown \u2022 USD 47.23",
+      "headline": "\ud83d\udd25 Unleash Your Gaming Power with ROYALAXE R100 Keyboard!",
+      "blurb": "Upgrade your setup with the ROYALAXE R100 Mechanical Keyboard for just $47.23! Limited stock available, so grab yours now and elevate your gaming experience!",
+      "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "mechanical keyboard",
+      "title": "Logitech G PRO TKL Wired Mechanical GX Blue Clicky Gaming Keyboard w/ RGB",
+      "price": 52.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/djEAAOSwuu9mOop5/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/256503800129?_skw=mechanical+keyboard&hash=item3bb8d16141%3Ag%3AdjEAAOSwuu9mOop5&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYps8bcr7xUnVFFCcJn0p0lhC2CXQc1hzROGbA99vvpJI%2BLqby%2FPtUc2lMwLORZDjTKnNnJWe%2BTrLwlxXcsaIUiYx9%2Bb6SPOirduJvWfr%2BAuXCPrzWG3lXCRA0oNzacMsdDR2CEenlHXA18yh2KY8xZO1xCyBd1iqACbrBGjsg6wNB644t0EmBHK95Q3xaMBTcSn%2B5OctJqEKgZ%2Bx1z%2BIA4L0mnZBVJUdxsAwxAH84VwRxc%2BVHmlhnUSOJgDDdmfxE5jFeJ6jAIY9w%2BnjLTJwr1cHd%2F7LYDU7vKzsL7Cq5hhg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 452553,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "mechanical keyboard"
+      ],
+      "caption": "Logitech G PRO TKL Wired Mechanical GX Blue Clicky Gaming Keyboard w/ RGB \u2022 USD 52.99",
+      "headline": "\ud83d\udd25 Unleash Your Game with Logitech G PRO TKL Keyboard!",
+      "blurb": "Limited stock! Elevate your gaming experience with responsive keys and vibrant RGB lighting. Grab yours now for just $52.99!",
+      "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "mechanical keyboard",
+      "title": "Logitech MX Mechanical Wireless Illuminated Performance Keyboard Tactile",
+      "price": 86.0,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/6AoAAeSwsPdo5um0/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/167051732348?_skw=mechanical+keyboard&hash=item26e50f257c%3Ag%3A6AoAAeSwsPdo5um0&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 5362,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "mechanical keyboard"
+      ],
+      "caption": "Logitech MX Mechanical Wireless Illuminated Performance Keyboard Tactile \u2022 USD 86.0",
+      "headline": "\ud83d\udcbb Elevate Your Typing with Logitech's Mechanical Keyboard!",
+      "blurb": "Transform your workspace with the Logitech MX Mechanical Keyboard! Limited stock \u2013 grab yours for just $86 and type like a pro!",
+      "emojis": "['\ud83d\udcbb', '\u2328\ufe0f']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "mechanical keyboard",
+      "title": "HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated",
+      "price": 17.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/CdQAAOSwZrJoQRNA/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/335996332738?_skw=mechanical+keyboard&hash=item4e3af12ac2%3Ag%3ACdQAAOSwZrJoQRNA&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKAXrljabH5vj101JIrrxmkYq3N%2BpzhggdC%2BllHIoRqipONnJanTI%2BP7ddPDmPwpSd3TuXboLdhmQs2DRT8WMV3YWbtSXOZ%2BER9gpS%2BdI1rYAKnicpC9pcVB3%2FuR0STR1FlGCldjokRXiDXZ7y2eYKpPt93RtGFkDypxurOl0Xl7VVfQJIJb%2FtO13FwW3HnFnyKe6jSwW6RoZ7o6jp%2FZAisR8byNHWDkfs7sKbbRxJHNaw3PbjPWdmzKHiQa6S9sftECg8Kql9JULixMAiFsfJEbfwv1DATMLG10E8f2doNw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 2732,
+      "top_rated": false,
+      "score": 6.732,
+      "tags": [
+        "mechanical keyboard"
+      ],
+      "caption": "HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated \u2022 USD 17.99",
+      "headline": "\ud83c\udfae Unlock Your Game with HK GAMING GK61 - Just $17.99!",
+      "blurb": "Grab this limited-time offer on the HK GAMING GK61 Mechanical Keyboard! Elevate your gaming experience with stunning RGB illumination - buy now before stock runs out!",
+      "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
     }
   ]
 }
