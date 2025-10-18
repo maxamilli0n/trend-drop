@@ -1,100 +1,100 @@
 {
-  "updated_at": 1760814270,
+  "updated_at": 1760817848,
   "products": [
     {
       "source": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Milwaukee 0880-20 M18 18 Volt  Cordless Wet/Dry Vacuum, Tool Only,",
+      "keyword": "air fryer",
+      "title": "Whall Air Fryer Oven 12QT 12-in-1 Air Fryer Convection Oven NSE1201 - Silver",
       "price": 99.0,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/hKkAAeSwaU9oh~LX/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/365149263338?_skw=cordless+vacuum&hash=item55049795ea%3Ag%3AhKkAAeSwaU9oh~LX&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 64781,
+      "image_url": "https://i.ebayimg.com/images/g/FeAAAeSwsY1o88v1/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/166462519444?_skw=air+fryer&hash=item26c1f07894%3Ag%3AFeAAAeSwsY1o88v1&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaCOZGK5CdfdltlStA0%2Bo1uCBFzv4rRFp809%2FHi%2BXAcOGI81SD0UhNZZD144HtQ8gfZIDRwMVOVSov8v%2FQzxcLi6x%2FQVUi7LS1zpWDqvbAObh4%2BdXcDIQ0zYE5GxVAG3zx2zlHF7giSBZfudSG7BcPcYybJ3XQncuM77zONZGIiIaM9OPiHLlnn9gugPzVTQZxUO6e3LkbN%2F8PyUWoCqnTw2BWB3DffKqKC0%2FCRHDgfGsAVKPn6aXKIiIzyXdFbWigd%2BJIKl2DhH%2BxvXohJVqkP&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 31454,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "cordless vacuum"
+        "air fryer"
       ],
-      "caption": "Unleash the power of clean with the Milwaukee M18 Cordless Wet/Dry Vacuum! \ud83d\udcaa\u2728 Grab yours now for just $99! \ud83d\uded2",
-      "headline": "\ud83c\udfe0\ud83d\udecb Milwaukee 0880-20 M18 18 Volt Cordless Wet/Dry Vacuum, Tool Only,",
+      "caption": "Transform your cooking game with the Whall 12QT Air Fryer Oven! \ud83c\udf7d\ufe0f Get crispy, delicious meals in no time\u2014grab yours now for just $99!",
+      "headline": "\ud83d\udd25\u2728 Whall Air Fryer Oven 12QT 12-in-1 Air Fryer Convection Oven NSE1201 - Silver",
       "blurb": "USD 99.00 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "air fryer",
+      "title": "GOURMIA 3QT DIGITAL WINDOW AIR FRYER 8 PRESETS GUIDED COOKING 1200W - BLACK",
+      "price": 53.0,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/ZIIAAeSwcVho8-cT/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/167692576146?_skw=air+fryer&hash=item270b41a592%3Ag%3AZIIAAeSwcVho8-cT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UY3JEqp5VaskvxaNEv3kajjlaKb6uekyxbuK2vDWEG4IYEsCcRsl3mV1mpINGNXb3FFe5fK3mRqMOTnuN5tH3X0Snp2Kf2b4%2B5vrPF8nZs1c49RGAM5NsJwtnjwX%2BDeQqdDuG18C7GJw%2FaKAgGoZH27mXl7d%2BSQzzzP8BQXQcDRVFIBhQAIfZmoVRcCqAcZ9%2BFuTgwQXUMnZqVspK35rxIdNSYujlng3R0lqN0XsP6y3OszozLy%2Fgcj7kEQyhxpIa%2F1yHG0VexGp6DeOumr7LDH&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 31454,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "air fryer"
+      ],
+      "caption": "Unlock crispy perfection with the GOURMIA 3QT Air Fryer! \ud83c\udf5f Dive into 8 presets and guided cooking. Grab yours for just $53! \ud83d\udd25 #CookSmart",
+      "headline": "\ud83c\udfe0\ud83d\udecb GOURMIA 3QT DIGITAL WINDOW AIR FRYER 8 PRESETS GUIDED COOKING 1200W - BLACK",
+      "blurb": "USD 53.00 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Dyson V11 Cordless Vacuum Cleaner | Iron/Blue | Refurbished",
-      "price": 307.99,
+      "keyword": "air fryer",
+      "title": "12-in-1 Air Fry Roast 6 Quart Air Fryer Capacity with Window Square Air Fryer",
+      "price": 50.96,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/8pcAAeSwIgVo89gC/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/277412239964?_skw=cordless+vacuum&hash=item40970eda5c%3Ag%3A8pcAAeSwIgVo89gC&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZstbehDYsmgI3yKZrwRXDDXiOGA6RYHKdPJD7dIQFlFOlTg8Zyk9StIN082VvftWyyY2qaLm93U4uc55%2Fh%2F0AGOx8EbZYY7J0sBh3BqFBTr4drnTtO1zLcvcxrSiMzzNP7qztWSEBWTiPlo5SVe3kRpj7FhaEAKU3xKp8n7y%2BRhBqDBRg%2FjC1hnm0DqWqJionwTQ0GBW0dUJGe8gyWHTMqlRM015yZtdhjg4S5KlCC7O%2B5DtzIZF2%2B0%2F46UvUqoj7ACRKtr%2BtrSqnM3ue6XV63Pl352w%2BZXqJyFDlfiNVM4A%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 116610,
+      "image_url": "https://i.ebayimg.com/images/g/eLEAAOSwa0RnF1KT/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/226432455265?_skw=air+fryer&hash=item34b86d1261%3Ag%3AeLEAAOSwa0RnF1KT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYF1gmHD%2FZ9%2Fh2yzw7qWYnkXf5RL1DkWtNhQw3bVh9h5OEQwcbINbn2RvvIQjWLPmWQ7BA6FYmHUN3cdBvs6IUtr9pBevw2NW8XtTQFSinSlVV4TS9ZTcIMlt0L%2B3iU4aCAeiKL2xFTgjYRIU6Eff9QDcdiyDOk19z5u3SkzT9HuXfGXNRNdk%2Bo%2FdfSP89LhSSMLtgV%2BQaHnCVWRWPnR%2BwaZe3Fk3astAGKFsYmqjFP1%2FV2GPVSaHCwnsXy5rGtRXdr4oXM%2F4pbvAOff3ocAPLT&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 607,
       "top_rated": false,
-      "score": 6.0,
+      "score": 4.607,
       "tags": [
-        "cordless vacuum"
+        "air fryer"
       ],
-      "caption": "Dyson V11 Cordless Vacuum Cleaner | Iron/Blue | Refurbished \u2022 USD 307.99",
-      "headline": "\ud83d\ude80 Grab the Dyson V11 Cordless Vacuum for Just $307.99!",
-      "blurb": "Limited stock alert! Experience powerful cleaning with this refurbished Dyson V11\u2014perfect for every corner of your home. Get yours now!",
-      "emojis": "['\ud83c\udfe0', '\ud83d\udecb\ufe0f']"
+      "caption": "12-in-1 Air Fry Roast 6 Quart Air Fryer Capacity with Window Square Air Fryer \u2022 USD 50.96",
+      "headline": "\ud83d\udd25\u2728 12-in-1 Air Fry Roast 6 Quart Air Fryer Capacity with Window Square Air Fryer",
+      "blurb": "USD 50.96 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Dyson V10 Animal Cordless Vacuum Cleaner | Purple | Refurbished",
-      "price": 307.99,
+      "keyword": "air fryer",
+      "title": "Air Fryer, 6.34QT Fryer with Visual Window, Multifunctional Air Fryer",
+      "price": 56.33,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/kt0AAeSwqjto88Y7/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/276014546170?_skw=cordless+vacuum&hash=item4043bfbcfa%3Ag%3Akt0AAeSwqjto88Y7&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub6Q3AB6utsAheqC0ak3FZ7RVAIV7x%2FlFSyPACgZoH5M3VZ7xXz3yzWozjgIDIInK8Ywr1Hzfh3rShGZaKVvt3GdQkhr85naED8H8nTmyjvD1UNriU80tMrVtZ3yM9Vf1%2Bn5EuDaGq%2BVykbEYIaeacmXQQl7WXrpTR3R5pUVHyzu3VDGtPYdKJ4nYsFykyeJHC4bHHIxxx58x%2FLzwTOgLyuRU8a%2BxHgqYylL8ROQy0cUqxbHOO8taGL%2FtBhoV6YCzAnjZFUmbgxDVvfNA7ouG4%2FiKVqa4aN8bf9pvLG6uHKRA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 116610,
+      "image_url": "https://i.ebayimg.com/images/g/RZIAAOSwWLhnELhf/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/226425808335?_skw=air+fryer&hash=item34b807a5cf%3Ag%3ARZIAAOSwWLhnELhf&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uahb8kHb6rc8k%2BTGKx9A2saZDMOeupSNOLgimfNlb3QLZckHbLmcsJwnQKi0x58k7QTpWC4RZtL6jFNjX6Dhlqk4iGv3yKKw1oBXsHGatYqViqvKR9nDQFPy1aRrXCpkwi08MPkFuEZemTbfj3TEq4E4feb0MIvzvN9V3UDcnJEWnYaZqRmmnb%2BiSIRNr57bxv%2Bpo7zytcF7cpcXqDeEgDZ2Ac5WdD8yAOsR61NsEmX2%2B0hkZXGv%2BU9ysR06ap3e4DbAPWfoN7cN2NDRAnJUhk%2B&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 81,
       "top_rated": false,
-      "score": 6.0,
+      "score": 4.081,
       "tags": [
-        "cordless vacuum"
+        "air fryer"
       ],
-      "caption": "Dyson V10 Animal Cordless Vacuum Cleaner | Purple | Refurbished \u2022 USD 307.99",
-      "headline": "\ud83c\udf1f Unleash Cleaning Power: Dyson V10 Animal for Just $307.99!",
-      "blurb": "Hurry! Limited stock on this refurbished Dyson V10 Animal cordless vacuum. Get powerful cleaning and convenience in one\u2014grab yours now!",
-      "emojis": "['\ud83c\udfe0', '\ud83d\udecb\ufe0f']"
+      "caption": "Crispy, healthier meals await! \ud83c\udf5f Grab the 6.34QT Air Fryer with a visual window today for just $56.33! Don\u2019t miss out! \ud83d\udd25",
+      "headline": "\ud83d\udd25\u2728 Air Fryer, 6.34QT Fryer with Visual Window, Multifunctional Air Fryer",
+      "blurb": "USD 56.33 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Dyson V8 Cordless Vacuum | Silver | Refurbished",
-      "price": 254.99,
+      "keyword": "air fryer",
+      "title": "Ninja 4 Qt Air Fryer, 3 Functions, Air Fry, Reheat, and Dehydrate AF100, Black",
+      "price": 57.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/DhUAAeSwapVo89bh/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/276124405466?_skw=cordless+vacuum&hash=item404a4c0eda%3Ag%3ADhUAAeSwapVo89bh&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UY2D82k7ag4W6zDcGJrtCtnY4WG1GxkjU6Scje87g2zvRFSKTpSyCQ8zWHUE1QF51nxViZhp4wuUT6k%2FNxII4lhyKBC4o1tv5hOlR%2BWOLtLH6OyTjTFZWanLxfc934ZPH9WNX765ZfqTf%2BACjUQA6GoJ0m1nnoTIlOO%2BxHY%2B%2FjarqVKR%2BlyRQzQsuHYh%2FD6Kn2MWcKTes%2FGc%2FfdWWQ6y9umtb5%2BCGirVtww7zK7Za4wFZgUxrS3rApF6y1U2VZKNb%2BURMJG4V4s0HfyMfdKO2dhop8d%2FiUTmGOHCaSZBzfFfQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 116610,
+      "image_url": "https://i.ebayimg.com/images/g/RlUAAeSwPQ9o6~O7/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/286874049132?_skw=air+fryer&hash=item42cb069a6c%3Ag%3ARlUAAeSwPQ9o6~O7&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 61,
       "top_rated": false,
-      "score": 6.0,
+      "score": 4.061,
       "tags": [
-        "cordless vacuum"
+        "air fryer"
       ],
-      "caption": "Dyson V8 Cordless Vacuum | Silver | Refurbished \u2022 USD 254.99",
-      "headline": "\ud83d\ude80 Grab the Dyson V8 Cordless Vacuum at a Steal!",
-      "blurb": "Limited stock alert! Experience powerful cleaning with the Dyson V8 for just $254.99 \u2013 act fast!",
-      "emojis": "['\ud83c\udfe0', '\ud83d\udecb\ufe0f']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "45Kpa Cordless Vacuum Cleaner 550W Lightweight Stick Vacuum Cleaner Rechargeable",
-      "price": 79.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/2bcAAOSwM~hoSmFN/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/187322891927?_skw=cordless+vacuum&hash=item2b9d507e97%3Ag%3A2bcAAOSwM~hoSmFN&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbQBNSMwVQVFGetAI2QlE2Hmp18kwb61dyA%2FarO0xmU7yCrexiosfgc7K%2BOTc20Wn3qUoGJxJjk8alo4iVi6mZ5XJyvnL6KYjK26txKSwYRvWUjU8IidOhbHa%2Bpmena5QIOlcFLNFRh4Zw7HU%2B2s1mnuSOaVMvrTBCFNzPVdEuHMIuD1io1WnxD%2Bj1O7Tj88xj3tCmg0h4NR9nIO8qO2Y9YFi0Vyyuwh33MD20OhrmWTLrAYlEx84TWXGPKHla5JW65WlfpcYzL8lhEBFrUVl%2BZRShq3Z%2FiepTBYJX3uQkTHQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 685,
-      "top_rated": false,
-      "score": 4.6850000000000005,
-      "tags": [
-        "cordless vacuum"
-      ],
-      "caption": "45Kpa Cordless Vacuum Cleaner 550W Lightweight Stick Vacuum Cleaner Rechargeable \u2022 USD 79.99",
-      "headline": "\ud83c\udfe0\ud83d\udecb 45Kpa Cordless Vacuum Cleaner 550W Lightweight Stick Vacuum Cleaner Rechargeable",
-      "blurb": "USD 79.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+      "caption": "Ninja 4 Qt Air Fryer, 3 Functions, Air Fry, Reheat, and Dehydrate AF100, Black \u2022 USD 57.99",
+      "headline": "\ud83d\udd25\u2728 Ninja 4 Qt Air Fryer, 3 Functions, Air Fry, Reheat, and Dehydrate AF100, Black",
+      "blurb": "USD 57.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     }
   ]
 }
