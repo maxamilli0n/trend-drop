@@ -1,100 +1,100 @@
 {
-  "updated_at": 1761186159,
+  "updated_at": 1761190361,
   "products": [
     {
       "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "Acer 16\" PM161Q ABMIUUZX Portable Widescreen LCD Monitor Full HD 1920\u00d71080 60Hz",
-      "price": 55.19,
+      "keyword": "bike light",
+      "title": "2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Lamp Cycling Light",
+      "price": 5.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/DSMAAeSwjjJo4~za/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/267228772305?_skw=portable+monitor&hash=item3e381377d1%3Ag%3ADSMAAeSwjjJo4~za&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 81456,
+      "image_url": "https://i.ebayimg.com/images/g/ZGYAAOSwTSdmob91/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/355897251030?_skw=bike+light&var=624956249516&hash=item52dd2114d6%3Ag%3AZGYAAOSwTSdmob91&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaTkN02DYcV5TIPMI9q4C%2FN4Y9Q7sYMDQwEViFctow1roqYG1AScOswvyHbjYTM%2BNgvdBzhefWDKtH2uEWdpONwgx0vDHLzU7%2FrIDaFdn7hPJkEW09cSAdLhdUHlqXLseV89RQMuZRImBs3OzQvIRTqwXTWl%2Fyh3rtaaU1nioYXNu5FMeISNu0%2FJ64Wy4yaVZEUcnjp6rVmO0%2FRb2PUq0jiWtgydqgbSQH7z%2Bq3S0LgUjjUhI1SOFJT5fjhKsOl6IMURaEzl4ZbtNFPheTA%2FyAu&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 17340,
       "top_rated": false,
-      "score": 9.0,
+      "score": 7.0,
       "tags": [
-        "portable monitor"
+        "bike light"
       ],
-      "caption": "Acer 16\" PM161Q ABMIUUZX Portable Widescreen LCD Monitor Full HD 1920\u00d71080 60Hz \u2022 USD 55.19",
-      "headline": "\ud83d\udd25\u2728 Acer 16\" PM161Q ABMIUUZX Portable Widescreen LCD Monitor Full HD 1920\u00d71080 60Hz",
-      "blurb": "USD 55.19 steal. Limited stock\u2014grab it now!",
+      "caption": "Light up your ride with our 2 Set USB Rechargeable LED Bicycle Lights! \ud83d\udeb4\u200d\u2642\ufe0f Illuminate your path for just $5.99\u2014grab yours now!",
+      "headline": "\ud83d\udeb4 Brighten Your Ride with Our LED Bike Lights!",
+      "blurb": "Illuminate your cycling adventures with our USB rechargeable lights! Limited stock at just $5.99\u2014grab yours now!",
+      "emojis": "['\ud83d\udeb4', '\ud83d\udca1']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "bike light",
+      "title": "2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp",
+      "price": 9.95,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/~-AAAOSwOOxnIZn4/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/363009438000?_skw=bike+light&hash=item54850c7130%3Ag%3A~-AAAOSwOOxnIZn4&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYqnmKwtd7%2FLcVqk5X5JY9kh1plGGBHDBAzW5CtvutICe8Pt8Qul6M40m%2BsSyTrnyI5546fMVD%2BKqTrX2U4bmGpm%2BS1VXmjgR0xkmy8NBEPyupnsDvmU7BC8lX08zaNEYQcMWQMogDEopnCnxYixJW1T7i8j1SNEVAHSywfnsa3H6pKZa6vXp67%2BO7yLrgLRTfh0PvxlUAY8LASZ5NhKrnADswG6GDuoYqdDgkZ58uOmUohwptqWufLbJXcoFOZR3jTUTyD7aPEcr0EPXRJpGTf&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 232255,
+      "top_rated": false,
+      "score": 7.0,
+      "tags": [
+        "bike light"
+      ],
+      "caption": "Illuminate your ride with our USB Rechargeable LED Bike Lights! \ud83d\udeb4\u200d\u2642\ufe0f Light up the night for just $9.95. Grab yours now!",
+      "headline": "\ud83c\udfe0\ud83d\udecb 2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp",
+      "blurb": "USD 9.95 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "bike light",
+      "title": "2 Sets USB Rechargeable LED Bicycle Headlight Bike Front Rear Lamp Cycling Light",
+      "price": 22.98,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/c7gAAOSw9ipmlJPy/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/126696923517?_skw=bike+light&hash=item1d7fb9a17d%3Ag%3Ac7gAAOSw9ipmlJPy&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYYdeLkHPLNnokJ8gQxtkQmill%2BVAnQYhLbB4LAadKHnum0Oz6mlDsCp3rmtFqAsCE7MJbPFwIptMcTZO8B%2FvbPFIbowwmfwFM%2F0jfxYxT6paQsP7HOMLSC1naHLkLmB%2FGV7rJRCFUbDP%2BSAuR00FIf6kYsQfLFIfmMV20%2FsGZ551zTDss6DmUfdNd7UgJrmjENsAuWTg8UmWDmJmOveUlytl2bIyNV3yhDDLA9T4vTiTbabvCztCH%2BzkLeXkSRHpy5ebyf2Ccg2w%2Bl3CUa4y%2BW&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 1424,
+      "top_rated": false,
+      "score": 5.4239999999999995,
+      "tags": [
+        "bike light"
+      ],
+      "caption": "Illuminate your ride with our USB Rechargeable LED Bicycle Lights! \ud83d\udeb4\u200d\u2642\ufe0f Get yours now for just $22.98 and cycle safely! \ud83d\udd26\u2728",
+      "headline": "\ud83c\udfe0\ud83d\udecb 2 Sets USB Rechargeable LED Bicycle Headlight Bike Front Rear Lamp Cycling Light",
+      "blurb": "USD 22.98 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "bike light",
+      "title": "Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight",
+      "price": 9.39,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/wfcAAeSwRGloXnSK/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/365703089661?_skw=bike+light&hash=item55259a4dfd%3Ag%3AwfcAAeSwRGloXnSK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaMEvVah6IeRrwOgvQOI%2BWLYrrvMHmDmw%2B0NlrUijm5uWmTNcsEc3s3rEwMjFLKlWZwSg1GaV5r9v2tDJbDpan9sQvpFP9ztxwNri9X%2Bw1Gpd3YezOiIABEdH9LgfsqrkUD8DmtpQPMf2yDPLfb%2F2G8p6Y6JwuV26YEqfwNfH1ktGvp2lwvNLepqHQJ3wbgVwOP4PmR%2FhqSYZ5JzWOL7h%2FrCV%2BMubNoqCIMquyHnoFhqadvjKpVhCzTmlEfF8d7le2aOAhg9%2F1pDHGaWefrE3g%2B&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 1245,
+      "top_rated": false,
+      "score": 3.245,
+      "tags": [
+        "bike light"
+      ],
+      "caption": "Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight \u2022 USD 9.39",
+      "headline": "\ud83d\udd25\u2728 Waterproof Super Bright LED Bike Light USB Rechargeable Bicycle Front Headlight",
+      "blurb": "USD 9.39 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
-      "price": 99.99,
+      "keyword": "bike light",
+      "title": "Waterproof LED Bike Light USB Rechargeable Super Bright Bicycle Front Headlight",
+      "price": 14.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/7yAAAOSw~kZmJdaI/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/313472386520?_skw=portable+monitor&hash=item48fc6905d8%3Ag%3A7yAAAOSw~kZmJdaI&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKXuoSEGV3S8t1CiTUvRGRCjvP41Oz2jk87bLxWJfh1Vv6G6gEozoXaESgwvfWi80aKNXvx0%2BZrnGxJxhPO%2BSFy8%2FMVVluuOVWH0r0A%2B5nuaJQVYzaKXZVyEEgQ7JS7TuLOErkvVXpot3BLRjXi7IW7UbwzFznMkvmYshSCBw5X%2FFYKDcdFd2ngOuFk4Bx2eXZXZgDBNvsaGte5j45tsLnf8bQhi7ku4yXXdHM04fpnILzIVnymd%2BDU%2FBUdMyy2oCFoDCOLMd%2BaTc8JCeDdORlHtnAsAetxTH1ojW88KqDHQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4280,
+      "image_url": "https://i.ebayimg.com/images/g/9IcAAOSwjspnvsXq/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/405584915696?_skw=bike+light&hash=item5e6ebeacf0%3Ag%3A9IcAAOSwjspnvsXq&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 1202,
       "top_rated": false,
-      "score": 8.280000000000001,
+      "score": 3.202,
       "tags": [
-        "portable monitor"
+        "bike light"
       ],
-      "caption": "Elevate your gaming with the UPERFECT 16\" 2K 120Hz Portable Monitor! \ud83c\udfae Grab yours now for just $99.99 and level up your play!",
-      "headline": "\ud83d\udd79\ufe0f UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
-      "blurb": "USD 99.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
-      "price": 49.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/ICIAAOSwnTtml5Di/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/314029464108?_skw=portable+monitor&hash=item491d9d5a2c%3Ag%3AICIAAOSwnTtml5Di&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbU7LSUQ1MAg4PGpa7LhgDfa%2FEFb6ADbi8xrd1XPrBPBQ0IkNPU40iJLmjb3tVpuR6MbZUQ%2Bty6BNsQ9BsfMWNHCV3AK7wXTC8GVwCZxj1qbThYyWZQ2mUkDp3xHyS%2FkwpOhibTBGzwAkQf7V7WPI7JzykD%2Fwlu0woN0rjTBj6zZtHhoehWPbhtlU58aOJmYUtCqrq7g1CQzqqAnUG2ycaqEyZQO%2BnapZadsHCGRK3XIur2IHOCK%2BH4mN3PeCM1Pi7%2FjDz1F7ML%2BHpt4VoD%2FLzWgYSVhLimWjuzi5TEjLUPYg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4280,
-      "top_rated": false,
-      "score": 8.280000000000001,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "Upgrade your setup with our 15.6\" Portable Monitor! \ud83c\udf1f Experience stunning 1080P visuals\u2014grab yours today for just $49.99! \ud83d\udcf2",
-      "headline": "\ud83d\udd25\u2728 Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
-      "blurb": "USD 49.99 steal. Limited stock\u2014grab it now!",
+      "caption": "Waterproof LED Bike Light USB Rechargeable Super Bright Bicycle Front Headlight \u2022 USD 14.99",
+      "headline": "\ud83d\udd25\u2728 Waterproof LED Bike Light USB Rechargeable Super Bright Bicycle Front Headlight",
+      "blurb": "USD 14.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor",
-      "price": 149.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/JpEAAOSwTgdmx41H/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/315692006992?_skw=portable+monitor&hash=item4980b5be50%3Ag%3AJpEAAOSwTgdmx41H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYE29t2LgkTgZ46o8dehQSE4BqA8WkuhOYUU%2BwR%2BUFIWWwAu%2BCWsHHd%2FNS%2FYBJOI7L603T7FiX97m5w8r6kbA4b3QIpecg52Ue0HIWPZ3mrwvt%2FguQy%2B9sPGd2NzPWNTEW2rpO4FBt7BFibTyskeyy3TngwW8mzZ06bfNjIdaAWfI6K59anKf%2BEMcqgvshl058g1joRTXOKxO9fLqgAzgprBRwL%2FklLDnP7t3hZCE%2FE3Oxor3akf3Ul7IuVJBZeiO%2F2BhfvniV39Y38JwjSQmYLABF5mhuC6d8p1TfP9y0JrQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4280,
-      "top_rated": false,
-      "score": 8.280000000000001,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor \u2022 USD 149.99",
-      "headline": "\ud83d\udd25\u2728 UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor",
-      "blurb": "USD 149.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 15.6\" Dual Portable Monitor - FHD Foldable Laptop Screen Extender",
-      "price": 149.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/6LcAAeSwNUto09Ul/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/226655756799?_skw=portable+monitor&hash=item34c5bc61ff%3Ag%3A6LcAAeSwNUto09Ul&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYytK9j9g9RGcilzzrlTWa%2FpwENOVGDasNXg3rO3pniwdTfJsc1NpwVbJQzZ12Y5nkQd%2B%2FbTBF03x1SrCTR1Hs7BDYQQRrAAzCESoQKT01UqEV6lHtpX41fEI%2BFovugApdQls2MJl%2FqFaAnD%2FNnx41w5K68sLXSPb5MDhtffzw9tlw1Dl9rUB%2F%2B2YYHITX1CAat5xYGNiOsNDghpSYtVG5CrLf8zevM5V2SCTJ6g7hKhkZQcPvgAB%2B3KI9PvtgiA%2FdiDBSbE7AZNmdPRmzMrt2kehmcivSgqRFbRreaSJlpjA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 3365,
-      "top_rated": false,
-      "score": 7.365,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "UPERFECT 15.6\" Dual Portable Monitor - FHD Foldable Laptop Screen Extender \u2022 USD 149.99",
-      "headline": "\ud83d\udcfa Boost Your Productivity with a Dual Portable Monitor!",
-      "blurb": "Enhance your workspace on the go! Grab the UPERFECT 15.6\" FHD monitor now for just $149.99\u2014limited stock available!",
-      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udecd\ufe0f']"
     }
   ]
 }
