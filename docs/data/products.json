@@ -1,100 +1,100 @@
 {
-  "updated_at": 1761451511,
+  "updated_at": 1761455079,
   "products": [
     {
       "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs",
-      "price": 10.35,
+      "keyword": "portable monitor",
+      "title": "Acer 16\" PM161Q ABMIUUZX Portable Widescreen LCD Monitor Full HD 1920\u00d71080 60Hz",
+      "price": 49.67,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/l-MAAOSwEktoSSse/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/297381886400?_skw=pet+hair+trimmer&hash=item453d5779c0%3Ag%3Al-MAAOSwEktoSSse&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 65632,
+      "image_url": "https://i.ebayimg.com/images/g/DSMAAeSwjjJo4~za/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/267228772305?_skw=portable+monitor&hash=item3e381377d1%3Ag%3ADSMAAeSwjjJo4~za&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "seller_feedback": 81954,
       "top_rated": false,
-      "score": 7.0,
+      "score": 9.0,
       "tags": [
-        "pet hair trimmer"
+        "portable monitor"
       ],
-      "caption": "Say goodbye to messy fur! \ud83d\udc3e Trim your pet's paws with ease using our low-noise cordless clippers. Grab yours now for just $10.35! \u2702\ufe0f\u2728",
-      "headline": "\ud83d\udd25\u2728 Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs",
-      "blurb": "USD 10.35 steal. Limited stock\u2014grab it now!",
+      "caption": "Upgrade your workspace with the Acer 16\" Portable Monitor! \ud83c\udf1f Full HD clarity at just $49.67! Grab yours today! \ud83d\udcf2",
+      "headline": "\ud83d\ude80 Upgrade Your Setup with This Portable 16\" Monitor!",
+      "blurb": "Grab the Acer 16\" PM161Q for just $49.67! Limited stock available, perfect for on-the-go productivity. Order now!",
+      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udcbc']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "portable monitor",
+      "title": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
+      "price": 99.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/7yAAAOSw~kZmJdaI/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/313472386520?_skw=portable+monitor&hash=item48fc6905d8%3Ag%3A7yAAAOSw~kZmJdaI&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKXuoSEGV3S8t1CiTUvRGRCjvP41Oz2jk87bLxWJfh1Vv6G6gEozoXaESgwvfWi80aKNXvx0%2BZrnGxJxhPO%2BSFy8%2FMVVluuOVWH0r0A%2B5nuaJQVYzaKXZVyEEgQ7JS7TsoG5bMq65B82rvhPmCFhfvnffjw8t0yK%2FoHkJ6v1lBPeaKu5FK%2FzfqrJhMYaA9TaryUsEcTpjhz1DPvF7sfxnkaHzFfxA1VyFLqcqqjOSGNA1pJzCMwoN%2FbUefV0IqNKW%2B9yvo6gSEqw3qmpcQLGMD%2BW%2BYoHJFJItjfP74LSjRJQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "seller_feedback": 4284,
+      "top_rated": false,
+      "score": 8.283999999999999,
+      "tags": [
+        "portable monitor"
+      ],
+      "caption": "Level up your gaming with the UPERFECT 16\" 2K 120Hz Portable Monitor! \ud83c\udfae Grab yours now for just $99.99!",
+      "headline": "\ud83d\udd79\ufe0f UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
+      "blurb": "USD 99.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "portable monitor",
+      "title": "Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
+      "price": 49.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/ICIAAOSwnTtml5Di/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/314029464108?_skw=portable+monitor&hash=item491d9d5a2c%3Ag%3AICIAAOSwnTtml5Di&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbU7LSUQ1MAg4PGpa7LhgDfa%2FEFb6ADbi8xrd1XPrBPBQ0IkNPU40iJLmjb3tVpuR6MbZUQ%2Bty6BNsQ9BsfMWNHCV3AK7wXTC8GVwCZxj1qbThYyWZQ2mUkDp3xHyS%2Fkwp8%2FiJPW4Jd3vwB0JJTq8QvtKmZvZYxsrRFbeKF0xXNVHnNxX0kzPvdyYRRvwhQvKBGrghDhvsJHlZgs%2BzQB72vvk9mz%2B4FNnQXf5s4ZX%2Fo049QQNWPckpxdI6EV6y2SVA6Ia3iqEzDKnSC8el92jyO5ICa3HzVjiWtTDkPHujFLw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "seller_feedback": 4284,
+      "top_rated": false,
+      "score": 8.283999999999999,
+      "tags": [
+        "portable monitor"
+      ],
+      "caption": "Elevate your setup with our 15.6\" Portable Monitor! \ud83c\udf1f Stunning 1080P HDR display & eye care tech\u2014grab yours for just $49.99! \ud83d\udc49 Shop now!",
+      "headline": "\ud83d\udd25\u2728 Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
+      "blurb": "USD 49.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 15.95,
+      "keyword": "portable monitor",
+      "title": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor",
+      "price": 149.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/CjcAAOSwpsxjaLmm/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/165720333345?_skw=pet+hair+trimmer&hash=item2695b39c21%3Ag%3ACjcAAOSwpsxjaLmm&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYrhDJ0IqgCT9Ew3qagFhZPzTkrujQ9iyM6aVmzGuGElX2QyNnh1T9XYD4YtvocdW8qTbHKBedB0TMwnxbUzjuHFV40TdcmXXhRH0GzJKAJcU3qm%2BpyBpyuXV0%2Bt6lzUGaioBk8c0If6RSMCTO%2BDZ3eSyBMCFQoGI%2Fc%2FOaWeQcb4V6sLUy%2Faolwm8i%2FJaXMPikKe0SAv7T1eb8g5%2BG6bxbFCKeuHj%2F67n5iIniOVLe%2Ft9UCw1%2B2FNOUYgIRQ4Yrk8VtIiR6jCGp0MHuNxjZxbQytUNUHsdfCjA14VUx5gxhxA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 2569,
+      "image_url": "https://i.ebayimg.com/images/g/JpEAAOSwTgdmx41H/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/315692006992?_skw=portable+monitor&hash=item4980b5be50%3Ag%3AJpEAAOSwTgdmx41H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYE29t2LgkTgZ46o8dehQSE4BqA8WkuhOYUU%2BwR%2BUFIWWwAu%2BCWsHHd%2FNS%2FYBJOI7L603T7FiX97m5w8r6kbA4b3QIpecg52Ue0HIWPZ3mrwvt%2FguQy%2B9sPGd2NzPWNTEXM9G%2FXjLXkKlhXTA5jtYcMxvC1kTaR7lsysl0pIpZFyvI1wBHcF2e7OWxLkzUv1wEMafxgdkNOqAcg94DsrZyHxOEU93SCfXq%2BywUQqhIqbEcxcIGzX6fJMa7vXZ7293Q88THJ2kjCp7%2BFxUPLrDNH0DR5QXJlaPwLhJu44%2BNutw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "seller_feedback": 4284,
       "top_rated": false,
-      "score": 6.569,
+      "score": 8.283999999999999,
       "tags": [
-        "pet hair trimmer"
+        "portable monitor"
       ],
-      "caption": "Transform grooming time into a breeze! \u2702\ufe0f\ud83d\udc3e Grab the Rechargeable Cordless Pet Grooming Kit for just $15.95 and pamper your furry friend today!",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "blurb": "USD 15.95 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
+      "caption": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor \u2022 USD 149.99",
+      "headline": "\ud83d\ude80 Upgrade Your Setup: 22\" 2K Portable Monitor!",
+      "blurb": "Don't miss out! Enhance your productivity on the go with this stunning 2K display for just $149.99. Grab yours before they're gone!",
+      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udcbb']"
     },
     {
       "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 15.97,
+      "keyword": "portable monitor",
+      "title": "UPERFECT 15.6\" Dual Portable Monitor - FHD Foldable Laptop Screen Extender",
+      "price": 149.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/j~0AAOSw6UtlqG16/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/166555429835?_skw=pet+hair+trimmer&hash=item26c77a2bcb%3Ag%3Aj~0AAOSw6UtlqG16&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwwUkYNgYG6vw8talXaNKFE1rTOSgwn3x3w6jeyVYNx59%2FObkdgCkgtlUYLiJFCFquQ7Qzn2yf4ss8BJyYBa%2FxDKgLrXgV9%2FoLostTxN0VWHywHYnLS12VHbxGXrZNHrozhae6OJK0Ib0Q3%2FTnmXf1%2BX1RjNFpS0wVsL56NyEJ5BrjmHXvWBQ8wGhpBpYLf8QadYKwppRS33SzEwZ9PBlkg5YtUuWyeNmFkass69O670Lw8eNJlAKR4BVQor%2FOZ9Z3TZpOcrusjgnrusxTDsDhzu8b%2BVzEu9IEgaxi6sy79A%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 2569,
+      "image_url": "https://i.ebayimg.com/images/g/6LcAAeSwNUto09Ul/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/226655756799?_skw=portable+monitor&hash=item34c5bc61ff%3Ag%3A6LcAAeSwNUto09Ul&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYytK9j9g9RGcilzzrlTWa%2FpwENOVGDasNXg3rO3pniwdTfJsc1NpwVbJQzZ12Y5nkQd%2B%2FbTBF03x1SrCTR1Hs7BDYQQRrAAzCESoQKT01UqEV6lHtpX41fEI%2BFovugApcIZ1tLDtOFYUb73kL4oJuhpUN29u74WIkA5DCglwRfJdgIt%2FL%2FnTB8p5DgoOx0TGWZkpuUSix9Kap%2BxvJh4UWD6JHAgpmHm%2FsbSLgJeyfjtg05bBCstcEBUqOCVLdxMDAVvCmC1Cfle7pY6Hi1aDsvo%2B8ZzTFsBXTnLzJBxI%2Ft5g%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
+      "seller_feedback": 3395,
       "top_rated": false,
-      "score": 6.569,
+      "score": 7.395,
       "tags": [
-        "pet hair trimmer"
+        "portable monitor"
       ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 15.97",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "blurb": "USD 15.97 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Heavy-Duty Pet Hair Trimmers Electric Professional Dog Grooming Clippers NEW",
-      "price": 42.73,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/chUAAOSwfDZoSRYq/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/405952121822?_skw=pet+hair+trimmer&hash=item5e84a1cbde%3Ag%3AchUAAOSwfDZoSRYq&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbzPgbAr92yosnv824CYCTe%2Bl%2BoaCWSu4YTHR9sn2iVj2a4hVKOGmUEe9Zy08SIMHralnFueDpyeT4Dq%2FnRFSpFVltC3%2FltJuX3NBbikU1Y68Y0tjo2eGV%2FBE1m2vNFGJ9L%2FgNkWriRQy3%2FX6gPftg1IigwuO9ZfSrQFm4eGx3R7fcEIquUHtI6t6JAXPSIoRlnyxnU8%2BL3FNCva12KtRpZfIS3%2FZj%2FkQU3J9c4qMxwmucx%2BdNeRAmTYQZxK1DZBwlkdtHHYc9hVW1csmIHqZrSKKPyBzTCHMh0io3FuwBgOA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 1222,
-      "top_rated": false,
-      "score": 5.2219999999999995,
-      "tags": [
-        "pet hair trimmer"
-      ],
-      "caption": "Heavy-Duty Pet Hair Trimmers Electric Professional Dog Grooming Clippers NEW \u2022 USD 42.73",
-      "headline": "\ud83d\udd25\u2728 Heavy-Duty Pet Hair Trimmers Electric Professional Dog Grooming Clippers",
-      "blurb": "USD 42.73 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 15.97,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/R4wAAOSwcoVj1MOH/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/155379570127?_skw=pet+hair+trimmer&hash=item242d5815cf%3Ag%3AR4wAAOSwcoVj1MOH&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ9ogepsGjv721TzZFnTEqahUQEun9TVky53oNsRmqe3SzLrZDVgMtqntO7v%2FKZzt4HG84q2vSKcQFDg0eeCO1HsmLPcKTQenBYyOlufpmTG61AHnuXe23KlpURNbhl0D5DzDY66r05fPkm7pNQGUtyBUFoh%2FFMP1EynpqKsNMyhwLqpXUG0%2FwTYBa2W8Bx9WQ16yjOsDSJyIVWm%2FDiGYBY%2Bm1cDLJt1I4Ro3C1IxZJL4Yupu7HaAbkC5qUhp0GAAYaw1KgXq6SRtKvN2CgvJNqqy7XYJCv3MDsEH9scfyVvw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 1034,
-      "top_rated": false,
-      "score": 5.034,
-      "tags": [
-        "pet hair trimmer"
-      ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 15.97",
-      "headline": "\ud83d\udc3e Transform Your Pet's Grooming Experience Today!",
-      "blurb": "Get your hands on our rechargeable pet grooming kit for just $15.97! Hurry, stock is limited\u2014order now and give your furry friend a fresh look!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
+      "caption": "UPERFECT 15.6\" Dual Portable Monitor - FHD Foldable Laptop Screen Extender \u2022 USD 149.99",
+      "headline": "\ud83d\ude80 Elevate Your Setup with the UPERFECT Dual Portable Monitor!",
+      "blurb": "Transform your workspace on-the-go! Grab this limited-time deal for only $149.99 and double your screen real estate. Act fast!",
+      "emojis": "['\ud83d\udda5\ufe0f', '\ud83d\udcbc']"
     }
   ]
 }
