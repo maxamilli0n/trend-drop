@@ -1,25 +1,6 @@
 {
-  "updated_at": 1761476702,
+  "updated_at": 1761480265,
   "products": [
-    {
-      "source": "ebay",
-      "keyword": "desk lamp",
-      "title": "Dimmable LED Desk Light Touch Sensor Table Bedside Reading Lamp USB Rechargeable",
-      "price": 11.17,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/NhYAAOSwmORkiBQN/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/405142403352?_skw=desk+lamp&hash=item5e545e7918%3Ag%3ANhYAAOSwmORkiBQN&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYXy6tX0sWxsECnjeStN2JHjNxCLVbNjTijJ0Ng9AK7hhBBSbxH%2B%2B1IhUdkVESDDK5%2F84QwJdMOrfxDnDS%2BRAc66I1IUh2hHhfCUqAhDFaI7wjkBHK7vhP4AcYv37G6f4SXfIPajcgNkgQnvgJTpM71o61Ob03L5a2SsdlmzRY9sSDGJ%2BvWPOnNi7AmmLwMUgQxww7g7gmf0mRcTYKtx8mYoupPFdfvK3HOVF4vSOUvsuXi%2FLUQFyjMJtSop7lElm4hv2tFb%2Bjv8ROE4ADyL2Cf&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 18172,
-      "top_rated": false,
-      "score": 7.0,
-      "tags": [
-        "desk lamp"
-      ],
-      "caption": "Brighten your space with our Dimmable LED Desk Light! \ud83d\udca1 Touch sensor & USB rechargeable for ultimate convenience. Grab yours now for just $11.17!",
-      "headline": "\ud83c\udfe0\ud83d\udecb Dimmable LED Desk Light Touch Sensor Table Bedside Reading Lamp USB Rechargeable",
-      "blurb": "USD 11.17 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
-    },
     {
       "source": "ebay",
       "keyword": "desk lamp",
@@ -27,16 +8,35 @@
       "price": 11.98,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/jb0AAOSwertkmR5Z/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/404351087223?_skw=desk+lamp&hash=item5e2533f277%3Ag%3Ajb0AAOSwertkmR5Z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYnp12T%2Bs%2F72aOBDyec9Vn31KcQZKcYrElM7Ll2soKZ2rvl%2BWd7Mji42kfe5ONrMrtcQTLwoIBajL8gA%2BetWEu7joWin%2FbLXkoV6Hxjc0jRh2CYeqyS3yX95XuGKFqY7m48bKPeZUOYckMkYiK2pbVB4nTC4glXVNGJ3wIw%2B04M3FtRfdWwkTgTd5chOxB4BidluVrf%2FYpcH8VPso9U6oTQotZSNYRn5Oov3hd%2FTxp0DlSkgr6zNkD1bUl4hIabKNYt05d3h%2BjIhKiFJfVkcs0G&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
+      "url": "https://www.ebay.com/itm/404351087223?_skw=desk+lamp&hash=item5e2533f277%3Ag%3Ajb0AAOSwertkmR5Z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYnp12T%2Bs%2F72aOBDyec9Vn31KcQZKcYrElM7Ll2soKZ2rvl%2BWd7Mji42kfe5ONrMrtcQTLwoIBajL8gA%2BetWEu7joWin%2FbLXkoV6Hxjc0jRh2CYeqyS3yX95XuGKFqY7m5m8zBhbU3KzcUgmAK3BjjTFmAueMGEJRMZOGFVEzJTSA7H6NFipmT0Ec8Lq8gW92%2Bfzn1mElNRf5o01UVyvtXQDAIF6KwghgAMlD1EK6XUjtT3E%2FODn%2FiNw%2FK37JK%2FsGQ7ByxHlUj4Q0WA3Iqkvies&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
       "seller_feedback": 18172,
       "top_rated": false,
       "score": 7.0,
       "tags": [
         "desk lamp"
       ],
-      "caption": "Brighten your space with our Dimmable LED Desk Light! \ud83d\udca1 Touch, recharge, and read in style. Grab yours for just $11.98! \u2728\ud83d\uded2",
+      "caption": "Illuminate your space with our Dimmable LED Desk Light! \ud83c\udf1f Rechargeable & touch-sensitive for ultimate convenience. Grab yours now for just $11.98! \u2728",
       "headline": "\ud83c\udfe0\ud83d\udecb LED Desk Light Dimmable Bedside Reading Night Lamp USB Rechargeable Touch Sensor",
       "blurb": "USD 11.98 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+    },
+    {
+      "source": "ebay",
+      "keyword": "desk lamp",
+      "title": "Dimmable LED Desk Light Touch Sensor Table Bedside Reading Lamp USB Rechargeable",
+      "price": 11.17,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/NhYAAOSwmORkiBQN/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/405142403352?_skw=desk+lamp&hash=item5e545e7918%3Ag%3ANhYAAOSwmORkiBQN&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYXy6tX0sWxsECnjeStN2JHjNxCLVbNjTijJ0Ng9AK7hhBBSbxH%2B%2B1IhUdkVESDDK5%2F84QwJdMOrfxDnDS%2BRAc66I1IUh2hHhfCUqAhDFaI7wjkBHK7vhP4AcYv37G6f4TcukNcW1G1aXkX3olxGAccDS7FNnLE4u5Y3TkJhyKtqaTPMgYzNn7FXniSYo%2FIHbyKpnvlP4Zvc9gF9ZVgSyqQZlvB2u6dsYEDVF6WCJDoN6bYYLfV1BeA2Kvj2SbbpN03oXQBF12QJSEp%2BukGF9hn&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
+      "seller_feedback": 18172,
+      "top_rated": false,
+      "score": 7.0,
+      "tags": [
+        "desk lamp"
+      ],
+      "caption": "Dimmable LED Desk Light Touch Sensor Table Bedside Reading Lamp USB Rechargeable \u2022 USD 11.17",
+      "headline": "\ud83c\udfe0\ud83d\udecb Dimmable LED Desk Light Touch Sensor Table Bedside Reading Lamp USB Rechargeable",
+      "blurb": "USD 11.17 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
     },
     {
@@ -46,7 +46,7 @@
       "price": 11.89,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/LpEAAeSwsq1o8jBP/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/384861686261?_skw=desk+lamp&hash=item599b8b49f5%3Ag%3ALpEAAeSwsq1o8jBP&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaNekR0%2B%2Bd6%2FEEQTlixnprj4tQcRiz9vXf%2BUiTUWPfJkE73McPEo%2FA3Wu%2BH%2FeemnuWUzhBHExYDI1Ka%2F%2BmXJlGqsFDRP5vFWF7ZxRgmywOnf9vgKoQu1SstreJdVrb5%2B0IaRyncG11KzgaMWuOjYoSe%2BMT9KdrHixw3I24pupwne%2F5FzHMPB8iYkUss40jQe5inJV4hr%2F9CMvExbNndz6YPIVmNd0%2F3qeCSnpoXu1a4Exp9A8fcKXi%2FsoHwA6qD6hc5tevGZ6JMRc4nDgtevd%2Bh&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
+      "url": "https://www.ebay.com/itm/384861686261?_skw=desk+lamp&hash=item599b8b49f5%3Ag%3ALpEAAeSwsq1o8jBP&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaNekR0%2B%2Bd6%2FEEQTlixnprj4tQcRiz9vXf%2BUiTUWPfJkE73McPEo%2FA3Wu%2BH%2FeemnuWUzhBHExYDI1Ka%2F%2BmXJlGqsFDRP5vFWF7ZxRgmywOnf9vgKoQu1SstreJdVrb5%2B0KLQ9LEYWwsOQ6y3Tiz0Rv24vOEFDsOayNxJcCSXte%2FrgKmkTkPzWTzFruQGL9nv71grlXDF5xLOk1OrV63E%2FVSFMjCME9UMxxPr2gUGBt8nXoOvwpwpUJESx3VlMZAHjY0VKX94LZa%2FabkvEj0Vl7v&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
       "seller_feedback": 68433,
       "top_rated": false,
       "score": 7.0,
@@ -65,8 +65,8 @@
       "price": 12.0,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/HOsAAOSw~epkfako/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/404320289408?_skw=desk+lamp&hash=item5e235e0280%3Ag%3AHOsAAOSw~epkfako&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZZROeqtw62FNjtXNl%2BCaGPYDQMFx0Apozw%2FTihtkQ8pvO6oJVGJRJxZ7PU7NZiREbKatXxW%2Br5G0R4THbgL%2Fb5eoxGYLKTEF78wXH%2F8V7dNONzsKaBbfAwA1IPMkU7Xv%2BFw%2FO5AfK5o5W4gcuCGPd6Jz3S7PD9okZomih5CrmcmOWwpb4LQewrw7RWfG%2BxhcEB2mZgrLXzbllVPPMQGb9tthBthTBRV8Pzj93%2FyrCPPZODpLW%2FaXwB1Dqrvyw3RVIuVy7g%2BBXcX1cSs3wdr7BM&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 17949,
+      "url": "https://www.ebay.com/itm/404320289408?_skw=desk+lamp&hash=item5e235e0280%3Ag%3AHOsAAOSw~epkfako&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZZROeqtw62FNjtXNl%2BCaGPYDQMFx0Apozw%2FTihtkQ8pvO6oJVGJRJxZ7PU7NZiREbKatXxW%2Br5G0R4THbgL%2Fb5eoxGYLKTEF78wXH%2F8V7dNONzsKaBbfAwA1IPMkU7Xv8ZP78%2FCg355lTznfcWf6yVbqvN1s1HFc2hPiYV7DjgC6kowj8V54q%2B--sUlyAq3p%2Fe20pXObp6fqwxctrZ2BRzq3CagkUKIfy0xxe2OMu%2BBSKvL%2FRwjTOUOUk6Wd4eQgZnsk3nFl12RVscmw%2FGHZEK&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
+      "seller_feedback": 17950,
       "top_rated": false,
       "score": 7.0,
       "tags": [
@@ -91,7 +91,7 @@
       "tags": [
         "desk lamp"
       ],
-      "caption": "LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light \u2022 USD 13.17",
+      "caption": "Brighten your workspace with our adjustable LED Desk Lamp! \ud83d\udca1 Elevate your productivity\u2014grab yours for just $13.17 now!",
       "headline": "\ud83c\udfe0\ud83d\udecb LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light",
       "blurb": "USD 13.17 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
