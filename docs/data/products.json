@@ -1,100 +1,100 @@
 {
-  "updated_at": 1761645867,
+  "updated_at": 1761649460,
   "products": [
     {
       "source": "ebay",
-      "keyword": "desk lamp",
-      "title": "LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light",
-      "price": 31.34,
+      "keyword": "cordless vacuum",
+      "title": "VEVOR Cordless Vacuum Cleaner 25KPA Max Suction for Animal Hair Carpet Hardwood",
+      "price": 56.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/3o8AAeSwCEBollAD/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/257056897107?_skw=desk+lamp&hash=item3bd9c8f853%3Ag%3A3o8AAeSwCEBollAD&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYRloOvnyE%2FPVM0H0AUpcDyqnb4s1EVschHvO1CdfpEfgL6Cg7Pg9gYZicGmD6rp1R6nHQuZ7kBVI23pmKEg3yeaJM2prmAsY%2BUAlg9AvuCGhzZbsh%2BkaQIZcM0si5qM3nS4Pl4R%2F9bSHOu7y%2BRsyShM9Vbrcxf95Mu1--381rgwOaMUTbyEVLs16ZrofbJwcNlVaj%2BZIj1BgBde24lQ66aFKJ2vblT0rkPqTwwgpopMHZDk3Nm1Rpx91O2iFoq8kOo1tT2ht3rx0Rn3rVr85rJ&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 23333,
+      "image_url": "https://i.ebayimg.com/images/g/-gQAAeSwY0dosTTt/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/286790564603?_skw=cordless+vacuum&hash=item42c60cbafb%3Ag%3A-gQAAeSwY0dosTTt&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 79796,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "desk lamp"
+        "cordless vacuum"
       ],
-      "caption": "Brighten your workspace with our adjustable LED Desk Lamp! \ud83d\udca1 Grab yours now for just $31.34 and light up your productivity!",
-      "headline": "\ud83d\udca1 Brighten Your Workspace with Our Adjustable Desk Lamp!",
-      "blurb": "Transform your productivity with this eye-caring LED desk lamp! Limited stock at just $31.34 - grab yours now!",
-      "emojis": "['\ud83d\udca1', '\ud83d\udda5\ufe0f']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "desk lamp",
-      "title": "Dimmable LED Desk Light Touch Sensor Table Bedside Reading Lamp USB Rechargeable",
-      "price": 12.0,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/HOsAAOSw~epkfako/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/404320289408?_skw=desk+lamp&hash=item5e235e0280%3Ag%3AHOsAAOSw~epkfako&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZZROeqtw62FNjtXNl%2BCaGPYDQMFx0Apozw%2FTihtkQ8pvO6oJVGJRJxZ7PU7NZiREbKatXxW%2Br5G0R4THbgL%2Fb5eoxGYLKTEF78wXH%2F8V7dNONzsKaBbfAwA1IPMkU7Xv8hVt7swkN3tGogb%2BiWiBgF63%2Fwg%2BeRipaRdzanj9UuMQS5w9OKdbP%2F0XbTpxYUkteJx%2BlrMkEwDA%2Be0ErH4%2BJjGyQJEtA6MIjDG3DFtulA6bLbCI3Ow%2BobKzdL55KM2OYAC7JY8HagBzy1fAFPkNGK&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 17987,
-      "top_rated": false,
-      "score": 7.0,
-      "tags": [
-        "desk lamp"
-      ],
-      "caption": "Illuminate your space with our Dimmable Touch Sensor LED Desk Light! \ud83d\udca1 Grab yours now for just $12! \ud83d\udd25\u2728",
-      "headline": "\ud83d\udca1 Illuminate Your Space: Dimmable LED Desk Lamp for Just $12!",
-      "blurb": "Transform your workspace with this stylish touch sensor lamp! Hurry, stock is limited\u2014grab yours now!",
-      "emojis": "['\ud83d\udca1', '\ud83d\udecb\ufe0f']"
-    },
-    {
-      "source": "ebay",
-      "keyword": "desk lamp",
-      "title": "Dimmable LED Desk Lamp Touch Sensor Table Bedside Reading Light USB Rechargeable",
-      "price": 10.73,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/cNkAAOSwnupktijk/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/374819395866?_skw=desk+lamp&hash=item5744fa191a%3Ag%3AcNkAAOSwnupktijk&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYODda4hIXvQnS591j9JmW1mlIWDpFO1dkzTLk0KljcvyQka%2BTWnD95EQrfsPuwOohD2b0ErLeTeDAPEs2VwMJfwzFDQq%2BRACN87aCiEwgq3rU7XAwRA8pGHa%2BdbXsgSC0SyOIJnYNJbcO8FzP%2BxVNAtjcbXHexC8MJ0xVOOTj%2FgIzKFtuNXohDZwgwjzfS%2B8sKgYiPQVJx%2B3ZvEE6ccdhz9D%2BzUBE598Mpht%2BHC%2FlivKO7uA4f1Gmk%2BdiGjEqmkCT7scL70YhwEQKOggu%2BKL5R&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 23794,
-      "top_rated": false,
-      "score": 7.0,
-      "tags": [
-        "desk lamp"
-      ],
-      "caption": "Brighten your space with our Dimmable LED Desk Lamp! \ud83d\udca1 Touch sensor & USB rechargeable for ultimate convenience. Grab yours today! \ud83d\udd25",
-      "headline": "\ud83c\udfe0\ud83d\udecb Dimmable LED Desk Lamp Touch Sensor Table Bedside Reading Light USB Rechargeable",
-      "blurb": "USD 10.73 steal. Limited stock\u2014grab it now!",
+      "caption": "VEVOR Cordless Vacuum Cleaner 25KPA Max Suction for Animal Hair Carpet Hardwood \u2022 USD 56.99",
+      "headline": "\ud83c\udfe0\ud83d\udecb VEVOR Cordless Vacuum Cleaner 25KPA Max Suction for Animal Hair Carpet Hardwood",
+      "blurb": "USD 56.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
     },
     {
       "source": "ebay",
-      "keyword": "desk lamp",
-      "title": "LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light",
-      "price": 13.17,
+      "keyword": "cordless vacuum",
+      "title": "Dyson V11 Cordless Vacuum Cleaner | Iron/Blue | Refurbished",
+      "price": 369.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/YGAAAOSwJ31mrNAA/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/176503153854?_skw=desk+lamp&hash=item29186864be%3Ag%3AYGAAAOSwJ31mrNAA&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 33546,
+      "image_url": "https://i.ebayimg.com/images/g/9QAAAeSwbkZo~71A/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/277412239964?_skw=cordless+vacuum&hash=item40970eda5c%3Ag%3A9QAAAeSwbkZo~71A&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZstbehDYsmgI3yKZrwRXDDXiOGA6RYHKdPJD7dIQFlFOlTg8Zyk9StIN082VvftWyyY2qaLm93U4uc55%2Fh%2F0AGOx8EbZYY7J0sBh3BqFBTr4drnTtO1zLcvcxrSiMzzNOCtpq1ihA5clA2OOi8hL4tK4hC6dwAiS4TL4dbE6NhaWRvN--UkkWBh%2BWbwXRJKJfiaVM6s%2FSYbYFIJgs3042%2B6IEzLkmWgfZV%2FQp9LS4Fc58y65xxCSLmSRQdXyFb%2FuO9gicfMG8RI2ZJyVXhRZydXspV57%2F5n4OMYHzq4GzK2w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 117627,
       "top_rated": false,
-      "score": 7.0,
+      "score": 6.0,
       "tags": [
-        "desk lamp"
+        "cordless vacuum"
       ],
-      "caption": "LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light \u2022 USD 13.17",
-      "headline": "\ud83d\udca1 Illuminate Your Workspace with This Adjustable Desk Lamp!",
-      "blurb": "Transform your desk with our eye-caring LED Lamp for just $13.17! Hurry, only a few left in stock!",
-      "emojis": "['\ud83d\udca1', '\ud83c\udfe0']"
+      "caption": "Unleash powerful cleaning with the Dyson V11! \ud83c\udf2a\ufe0f Refurbished and ready to tackle dirt for just $369.99. Grab yours now!",
+      "headline": "\ud83d\ude80 Unleash Cleanliness with the Dyson V11 Today!",
+      "blurb": "Grab the refurbished Dyson V11 Cordless Vacuum for just $369.99! Limited stock available \u2013 elevate your cleaning game now!",
+      "emojis": "['\ud83c\udfe0', '\ud83d\udecb\ufe0f']"
     },
     {
       "source": "ebay",
-      "keyword": "desk lamp",
-      "title": "LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light",
-      "price": 19.98,
+      "keyword": "cordless vacuum",
+      "title": "45Kpa Cordless Vacuum Cleaner 550W Lightweight Stick Vacuum Cleaner Rechargeable",
+      "price": 79.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/JVkAAeSwf2po06xM/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/357660698045?_skw=desk+lamp&hash=item53463d25bd%3Ag%3AJVkAAeSwf2po06xM&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYxp%2BtkHr97Yk5SRJP5DKEITpWX9gxl4p10dUUzVgpoDV6BwgIj3dJQJ996EVRP6TYIMzZj9KEuwr6VzFQVZWneJK89fwm7YISsxYbp%2BmM2rPqO90drvQVOQQoamOkfVhH9Ejc2l6wM6H2ixHkWtGZSsOOAgmxaaKkFsvkSuucKPRn2U7j%2FihyMRBArawhKc4QhkiEEpnX0EcfPFb0AGSOQyO1uSlDPuoMvN%2F1F9SX1J5ZgGtbrs8sAt3c1GVjLfbhRIWWJTTIkpc1tPGhMFmT%2B&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=desk_lamp&toolid=10001",
-      "seller_feedback": 1221,
+      "image_url": "https://i.ebayimg.com/images/g/2bcAAOSwM~hoSmFN/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/187322891927?_skw=cordless+vacuum&hash=item2b9d507e97%3Ag%3A2bcAAOSwM~hoSmFN&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbQBNSMwVQVFGetAI2QlE2Hmp18kwb61dyA%2FarO0xmU7yCrexiosfgc7K%2BOTc20Wn3qUoGJxJjk8alo4iVi6mZ5XJyvnL6KYjK26txKSwYRvWUjU8IidOhbHa%2Bpmena5QKapDzFJrL8GUwA71%2B1tAUmFZ%2BGh%2F4twH3XvvsOK6YvyvrK4fJ%2BQEymA%2FzJ3L8szAYq0vqLZbgWKNqIDSH%2Fp0qe8qwCcsk8AhqpE2zSxqXaq%2FriX4B5VVZBGbEVrqA9EBZ0dNv4dfVKsV%2FtsWCzZg3afoGQz5hTmQ9dp%2FmDWM0tAQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 708,
       "top_rated": false,
-      "score": 5.221,
+      "score": 4.708,
       "tags": [
-        "desk lamp"
+        "cordless vacuum"
       ],
-      "caption": "Illuminate your workspace with our LED Desk Lamp! \ud83d\udca1 Adjust the swing arm for perfect lighting. Grab yours now for just $19.98!",
-      "headline": "\ud83c\udfe0\ud83d\udecb LED Desk Lamp Adjustable Swing Arm Lamp with Clamp Eye-Caring Reading Desk Light",
-      "blurb": "USD 19.98 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+      "caption": "Unleash the power of clean with our 45Kpa Cordless Vacuum! \ud83e\uddf9 Lightweight & rechargeable\u2014grab yours for just $79.99! Shop now!",
+      "headline": "\u2728 Clean Up with Our Lightweight Cordless Vacuum! \ud83d\ude80",
+      "blurb": "Don\u2019t miss out on a cleaner home! Grab the 45Kpa Cordless Vacuum for just $79.99 before stocks run out!",
+      "emojis": "['\ud83c\udfe0', '\ud83e\uddf9']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "cordless vacuum",
+      "title": "Dyson V11 Torque Drive+ Cordless Vacuum Cleaner with Extra Attachments",
+      "price": 229.9,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/-aUAAeSwqn1o5KbK/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/397131133792?_skw=cordless+vacuum&hash=item5c76dc3360%3Ag%3A-aUAAeSwqn1o5KbK&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZUNMcgilS%2BvXhi0WkqfSuc1uaG2U2VTAEI525Y2lIiikFpTTD6hewGSY4D55V0cSGmMUiMRGEYBolXujYhos8KOnu8xudg11UveDr3nBvL92om74%2BglEICLbaSSg5jx1A7bVPiQhTCdbz95tnPqrC26e7ndSYIVmK0B5akk%2Fq3aj1a3NvncAe0DepO8KCl4mDRXCCzo9TnAUPenc%2FSukjps4wHCCTd0QYr5QBWeLUa%2FUZtf7hIGOKg63t1velVqfzZeKD%2BbmvCgsbmJuQ4UCwQgCxVcdlnkjZ3Gq7LfmmSzg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 2332,
+      "top_rated": false,
+      "score": 3.332,
+      "tags": [
+        "cordless vacuum"
+      ],
+      "caption": "Dyson V11 Torque Drive+ Cordless Vacuum Cleaner with Extra Attachments \u2022 USD 229.9",
+      "headline": "\u2728 Unleash Powerful Clean with Dyson V11! Limited Stock!",
+      "blurb": "Upgrade your cleaning game with the Dyson V11 Torque Drive+ at just $229.9! Hurry, grab yours before they're gone!",
+      "emojis": "['\ud83d\udecb\ufe0f', '\ud83c\udfe0']"
+    },
+    {
+      "source": "ebay",
+      "keyword": "cordless vacuum",
+      "title": "Dyson V8 Cordless Vacuum Cleaner \u2013 Silver \u2013 Refurbished \u2013 Excellent Condition",
+      "price": 225.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/GPIAAeSwAMho5A~W/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/157371004207?_skw=cordless+vacuum&hash=item24a40af52f%3Ag%3AGPIAAeSwAMho5A~W&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UacMmyI%2BwVzfYhkWSdzUP0sup2gWYhFt6YIjN6JZxqaCdsRm97oOf6AmVBiPY70zBiH%2FZl2ALKo8Ih0rn6E8mjPozWcgMA3s8Bg6Y5VKlG7ENwBA1cgyXGcB7uMCem92c%2BuuX0KziGznXK%2FSkvoNVrvOeV35IuqAZ%2Fi3FqtyikXBWkHM3Fv4NXWm4Dowy4OsnVE%2BISkrtYfxeqqNsa8gS3kaZODEcj4NoStlwqJlnpG3SLSGiKK2i7Nzc2Xq%2BKSx8PaJaTvQ%2BXZoy2PWZuUYHtaoTNAiSQ4vgHs1lVfkoTVyQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
+      "seller_feedback": 1900,
+      "top_rated": false,
+      "score": 2.9,
+      "tags": [
+        "cordless vacuum"
+      ],
+      "caption": "Unleash the power of clean with the Dyson V8! \ud83d\ude80 Grab this refurbished gem for just $225.99 and elevate your cleaning game today! \ud83d\uded2",
+      "headline": "\ud83c\udf1f Grab the Dyson V8 Cordless Vacuum \u2013 Limited Time Offer!",
+      "blurb": "Experience effortless cleaning with the Dyson V8 at just $225.99! Stock is running low, so act fast!",
+      "emojis": "['\ud83c\udfe0', '\ud83e\uddf9']"
     }
   ]
 }
