@@ -1,5 +1,5 @@
 {
-  "updated_at": 1762117425,
+  "updated_at": 1762121028,
   "products": [
     {
       "source": "ebay",
@@ -8,17 +8,17 @@
       "price": 15.95,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/lAIAAOSwDy5mV1tE/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/355535520632?_skw=pet+hair+trimmer&hash=item52c7918378%3Ag%3AlAIAAOSwDy5mV1tE&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbvHxk7O17xYWQjT8yVKE5k0t0eNi4wcd8utX7j4k0ztMEY9n1Of1XjqIL%2F4gf2fb%2FxKChFx%2B4UuLgM%2F1VjVxpLNyfMmCVgPaogDevKV%2FTr8yqEZ%2FWY1Fd0W8uLgrcm8Q%2BlNdosA%2Boq3mrXcXsvROlgkiaPEBaQP8pQnoKK4C8J0zn1dSvnTlsma70CHYj8uaGxZ0iZI0ASFx0XKqsW7H9obGARXzBRk8Z5RZSoj7sP8pUbCCiMM8A7rQrvxRABfbDG0o6UWTnI%2FYOxo4Gxe3mpUy83O3kX1VxLCqBNR686PA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 15596,
+      "url": "https://www.ebay.com/itm/355535520632?_skw=pet+hair+trimmer&hash=item52c7918378%3Ag%3AlAIAAOSwDy5mV1tE&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbvHxk7O17xYWQjT8yVKE5k0t0eNi4wcd8utX7j4k0ztMEY9n1Of1XjqIL%2F4gf2fb%2FxKChFx%2B4UuLgM%2F1VjVxpLNyfMmCVgPaogDevKV%2FTr8yqEZ%2FWY1Fd0W8uLgrcm8Q%2BiycL%2BzYfMj23NJcStZQc7jabCYVJXWbFFNu04CRHrcbN4wUfQFwTptT3mwFfxCgI8Iix1pQ1hw9%2B0OmC1ig2sAqRAmw7NhtFAWElmOXAMRLnlj4S56mNB7P23hO3CcxuaVCGIePdtIMqg1Y%2BL2s75Ri%2FSfP1svKPRfH7ag4eWng%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "seller_feedback": 15598,
       "top_rated": false,
       "score": 9.0,
       "tags": [
         "pet hair trimmer"
       ],
-      "caption": "Transform your pet's grooming game! \ud83d\udc3e Get the rechargeable cordless clipper set for just $15.95. Snag yours now! \u2702\ufe0f\u2728",
-      "headline": "\ud83d\udc3e Groom Your Furry Friends With Ease!",
-      "blurb": "This rechargeable pet grooming kit is a steal at just $15.95! Hurry, stock is limited\u2014grab yours now!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f', '\ud83d\udc36']"
+      "caption": "Transform your pet's grooming routine! \u2702\ufe0f\u2728 Get your Rechargeable Hair Clipper Set now for just $15.95 and say goodbye to fur-tastrophes! \ud83d\udc3e\ud83d\uded2",
+      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
+      "blurb": "USD 15.95 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
@@ -28,16 +28,16 @@
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/l-MAAOSwEktoSSse/s-l225.jpg",
       "url": "https://www.ebay.com/itm/297381886400?_skw=pet+hair+trimmer&hash=item453d5779c0%3Ag%3Al-MAAOSwEktoSSse&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 65666,
+      "seller_feedback": 65667,
       "top_rated": false,
       "score": 7.0,
       "tags": [
         "pet hair trimmer"
       ],
-      "caption": "Say goodbye to messy fur! \ud83d\udc3e Trim your pets with ease using our low-noise cordless clippers. Grab yours now for just $10.35! \u2702\ufe0f\u2728",
-      "headline": "\ud83d\udc3e Trim Your Pup's Fur in a Snap!",
-      "blurb": "Get the perfect grooming with our low-noise pet hair clippers! Limited stock at just $10.35\u2014act fast!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f', '\ud83d\udc36']"
+      "caption": "Say goodbye to messy fur! \ud83d\udc3e Grab the low-noise cordless trimmer for your furry friend today! \ud83d\udc49 Only $10.35!",
+      "headline": "\ud83d\udc3e Trim Your Pup's Fur Like a Pro! Limited Stock!",
+      "blurb": "Get your hands on the Dog Paw Fur Trimmer for just $10.35! Don't miss out\u2014this low noise, cordless clipper is perfect for at-home grooming.",
+      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
     },
     {
       "source": "ebay",
@@ -46,7 +46,7 @@
       "price": 15.97,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/j~0AAOSw6UtlqG16/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/166555429835?_skw=pet+hair+trimmer&hash=item26c77a2bcb%3Ag%3Aj~0AAOSw6UtlqG16&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwwUkYNgYG6vw8talXaNKFE1rTOSgwn3x3w6jeyVYNx59%2FObkdgCkgtlUYLiJFCFquQ7Qzn2yf4ss8BJyYBa%2FxDKgLrXgV9%2FoLostTxN0VWHywHYnLS12VHbxGXrZNHrrbR0yyhUFaezhio%2B2a1cj9S%2BNKgEsj1NP1aZKPAcUgIF0kuWGxjK0siy%2Fn1Akm7CdHMLoEely%2FVJlYks8EHnqKaolxwC0gaAqIyznX3kk0RsHNLCNKeWmeOvlOo%2FeXaqaAsoxMjb2PXmU1MOUkEtKs5x2OcoqfM2UfWfnWWu4B1w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "url": "https://www.ebay.com/itm/166555429835?_skw=pet+hair+trimmer&hash=item26c77a2bcb%3Ag%3Aj~0AAOSw6UtlqG16&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwwUkYNgYG6vw8talXaNKFE1rTOSgwn3x3w6jeyVYNx59%2FObkdgCkgtlUYLiJFCFquQ7Qzn2yf4ss8BJyYBa%2FxDKgLrXgV9%2FoLostTxN0VWHywHYnLS12VHbxGXrZNHroow4L7SRi6SWR3PrHorpIguz3SkX3ZNCTOIJ6AiMKOab6hfU57ShqaTH3pOltpVBqKxNfKC0rCCVMWgM1A9BoPiRm5vTs10m9zpgjbJJAQ%2FZQnI13rFEkPUiTzFhFM9oHMeGnxRgkqAxry8YQgOdZarQ2P2kMypAN6oNVuY%2Bs1Rw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
       "seller_feedback": 2598,
       "top_rated": false,
       "score": 6.598,
@@ -54,8 +54,8 @@
         "pet hair trimmer"
       ],
       "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 15.97",
-      "headline": "\ud83d\udc3e Groom Your Pets Like a Pro - Limited Stock!",
-      "blurb": "Get your hands on the ultimate pet grooming kit for just $15.97! Hurry, stock won't last\u2014transform your pet's look today!",
+      "headline": "\ud83d\udc3e Transform Grooming Time with This Electric Pet Hair Clipper!",
+      "blurb": "Get your furry friend looking fabulous with our rechargeable pet grooming kit\u2014only $15.97! Hurry, stock is limited\u2014order now!",
       "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
     },
     {
@@ -65,7 +65,7 @@
       "price": 44.98,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/5hEAAOSw6SRoQ-Pu/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/406220029029?_skw=pet+hair+trimmer&hash=item5e9499bc65%3Ag%3A5hEAAOSw6SRoQ-Pu&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZoJHWSH8ImnAZauGHqukfvsnydDSwV4vLYZ4VHoC0WwmF2mxLjYBrrBZmHjf2UEM1JK1Nfd4zvfcx401gexcOdBPWxxtCecn6imV3DyhkJKXKghVWZCAvipKMlsn0aSTG%2B0rhsC04mTn6IRu%2FpNI9BAb0HzMSLQLhBoJVv%2FQKm1%2FYotYY28LJ502tusaRnPeJq%2Fme5nAxse3mZwp6w3Hnz%2FOslIN%2FQyrGvNxIcKXQpJ%2BWc5CQR9%2FfKBiPvYDfylVBrDWtWDzs6XPIz%2Buc7uTFUrY8Kprnw%2Fo4%2Bou7EaOI1qw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "url": "https://www.ebay.com/itm/406220029029?_skw=pet+hair+trimmer&hash=item5e9499bc65%3Ag%3A5hEAAOSw6SRoQ-Pu&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZoJHWSH8ImnAZauGHqukfvsnydDSwV4vLYZ4VHoC0WwmF2mxLjYBrrBZmHjf2UEM1JK1Nfd4zvfcx401gexcOdBPWxxtCecn6imV3DyhkJKXKghVWZCAvipKMlsn0aSTHQA4IfDCogTXm913a3X362LgfemUQpKKVRFME%2Bsz%2FzCMQvVFSaK6v4HgXDRfv8qJVIZsINrqIZ4xRBZF335Ab%2F9WRKKeYmvUbtjYMfRLcrgzx0IEFH6SP60QbFy5DdEDvh9u0Cy%2FLGEuIAahP3Ejy%2B7IaVWmdqt70D4BBxDG38aw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
       "seller_feedback": 1240,
       "top_rated": false,
       "score": 5.24,
@@ -73,28 +73,28 @@
         "pet hair trimmer"
       ],
       "caption": "Heavy-Duty Pet Hair Trimmers Electric Professional Dog Grooming Clippers 350W \u2022 USD 44.98",
-      "headline": "\ud83d\udc3e Groom Like a Pro! Heavy-Duty Pet Hair Trimmers on Sale!",
-      "blurb": "Transform your grooming game with our professional dog clippers! Limited stock available\u2014get yours now for just $44.98!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
+      "headline": "\ud83d\udc36 Get Professional Grooming with Heavy-Duty Pet Hair Trimmers!",
+      "blurb": "Transform your grooming routine with our Electric Dog Clippers at just $44.98! Limited stock available\u2014grab yours now and enjoy a flawless finish every time!",
+      "emojis": "['\ud83d\udc36', '\u2702\ufe0f']"
     },
     {
       "source": "ebay",
       "keyword": "pet hair trimmer",
       "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 18.99,
+      "price": 15.97,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/R4wAAOSwcoVj1MOH/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/155379570127?_skw=pet+hair+trimmer&hash=item242d5815cf%3Ag%3AR4wAAOSwcoVj1MOH&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ9ogepsGjv721TzZFnTEqahUQEun9TVky53oNsRmqe3SzLrZDVgMtqntO7v%2FKZzt4HG84q2vSKcQFDg0eeCO1HsmLPcKTQenBYyOlufpmTG61AHnuXe23KlpURNbhl0D7iyncdl0%2Ff%2FelCr30AllUmeg6sCvnTsVMDNhEz7fiN28e9KcSZn8pJXD4VTJpdJbbkbG6HY1kQtZW%2FTJVuh4wLZi3%2BwtHNYL%2FNRsX4fcaK%2BXghdg6x8wOEeLWaQQ%2BosKov%2BDGFKxUaSVLVwJZ3SuGHYZdjaSaHZ%2BK%2F2uJ8B86a4Q%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
+      "url": "https://www.ebay.com/itm/155379570127?_skw=pet+hair+trimmer&hash=item242d5815cf%3Ag%3AR4wAAOSwcoVj1MOH&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ9ogepsGjv721TzZFnTEqahUQEun9TVky53oNsRmqe3SzLrZDVgMtqntO7v%2FKZzt4HG84q2vSKcQFDg0eeCO1HsmLPcKTQenBYyOlufpmTG61AHnuXe23KlpURNbhl0D446jkSm%2FtiWMKtGPhszkzaKnfLw51S%2FE70%2BSNWqOqR9NUGoWqrWUcB0KqFu45%2BBihZqnNxCw81IzVZg1YL20s6o2eL5mIC7h1eGKOtnY9lEea4ledk92kbFQFooYoZZc3duo1s84D05bS5ZG5YSXpspWitIUkeiq9kw%2FrXH1GTJw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
       "seller_feedback": 1053,
       "top_rated": false,
       "score": 5.053,
       "tags": [
         "pet hair trimmer"
       ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 18.99",
-      "headline": "\ud83d\udc3e Groom Your Pets Like a Pro! Limited Stock!",
-      "blurb": "Transform your pet grooming routine with our cordless electric clipper set, now only $18.99! Hurry, grab yours before they\u2019re gone!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f', '\ud83d\udc36']"
+      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 15.97",
+      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
+      "blurb": "USD 15.97 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     }
   ]
 }
