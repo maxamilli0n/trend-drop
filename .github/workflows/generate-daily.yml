@@ -1,0 +1,106 @@
+name: Generate Daily Report
+
+on:
+  # schedule:
+  #   - cron: "0 13 * * *"  # uncomment to enable daily at 13:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate reports (daily)
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          REPORTS_BUCKET: ${{ secrets.REPORTS_BUCKET }}
+          REPORT_MODE: daily
+        run: |
+          python -m trenddrop.reports.generate_reports
+
+      - name: Smoke test
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          python -m scripts.smoke_test
+
+      - name: Run log (success)
+        if: ${{ success() }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          GITHUB_SHA: ${{ github.sha }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          python - <<'PY'
+          import json, time
+          from trenddrop.utils.run_log import save_run_summary
+          m = json.load(open('out/artifacts.json', 'r', encoding='utf-8'))
+          arts = m.get('artifacts') or {}
+          started = time.time()-60
+          finished = time.time()
+          save_run_summary('success', started, finished, artifacts=arts, message='daily')
+          PY
+
+      - name: Run log (failure) + alert
+        if: ${{ failure() }}
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          GITHUB_SHA: ${{ github.sha }}
+          GITHUB_RUN_ID: ${{ github.run_id }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ALERT_CHAT_ID: ${{ secrets.TELEGRAM_ALERT_CHAT_ID }}
+        run: |
+          python - <<'PY'
+          import json, os, time, requests
+          from trenddrop.utils.run_log import save_run_summary
+          arts = {}
+          try:
+              arts = (json.load(open('out/artifacts.json', 'r', encoding='utf-8')) or {}).get('artifacts') or {}
+          except Exception:
+              pass
+          started = time.time()-60
+          finished = time.time()
+          rid = os.environ.get('GITHUB_RUN_ID')
+          repo = os.environ.get('GITHUB_REPOSITORY')
+          url = f"https://github.com/{repo}/actions/runs/{rid}" if rid and repo else ''
+          msg = f"Daily report failed. See run: {url}"
+          save_run_summary('failure', started, finished, artifacts=arts, message=msg)
+          # Optional Telegram alert
+          tb = os.environ.get('TELEGRAM_BOT_TOKEN')
+          tc = os.environ.get('TELEGRAM_ALERT_CHAT_ID')
+          if tb and tc:
+              try:
+                  api = f"https://api.telegram.org/bot{tb}/sendMessage"
+                  requests.post(api, json={'chat_id': tc, 'text': msg}, timeout=20)
+              except Exception:
+                  pass
+          PY
+
+

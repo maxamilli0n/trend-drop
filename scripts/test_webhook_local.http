@@ -1,0 +1,11 @@
+### Local test for gumroad-webhook (requires VS Code REST Client or similar)
+POST http://localhost:54321/functions/v1/gumroad-webhook
+Content-Type: application/x-www-form-urlencoded
+gumroad_signature: {{computed_sig}}
+
+purchaser_email=demo@example.com&product_id=prod_123&sale_id=sale_abc123&price=500&currency=USD&license_key=LIC-XYZ
+
+### To compute gumroad_signature locally (pseudo):
+# echo -n "<raw-body>" | openssl dgst -sha256 -hmac "$GUMROAD_WEBHOOK_SECRET" -hex
+
+

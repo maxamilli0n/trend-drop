@@ -1,0 +1,17 @@
+# TD-AUTO: BEGIN health-check
+name: TD Health Check
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+jobs:
+  td_auto_health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call health-ping
+        run: |
+          curl -sS -X POST "${{ secrets.SUPABASE_URL }}/functions/v1/health-ping" -H "Authorization: Bearer ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" -d '{}' -o /tmp/h.json -w "status=%{http_code}\n"
+          echo "Response:" && cat /tmp/h.json
+# TD-AUTO: END health-check
+
+

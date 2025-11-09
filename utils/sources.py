@@ -1,4 +1,9 @@
 import os, time, json, hashlib, pathlib
+from pathlib import Path
+from trenddrop.utils.env_loader import load_env_once
+
+# Ensure root .env is loaded
+ENV_PATH = load_env_once()
 from typing import List, Dict
 from utils.ebay_browse import search_browse
 

@@ -1,7 +1,13 @@
 import os, json, time, requests, pathlib, html
+from pathlib import Path
+from trenddrop.utils.env_loader import load_env_once
+
+# Ensure root .env is loaded
+ENV_PATH = load_env_once()
 from io import BytesIO
 from typing import List, Dict
 from utils.db import save_run_summary, upsert_products
+from trenddrop.utils.telegram_cta import maybe_send_cta
 from utils.epn import affiliate_wrap
 from utils.ai import caption_for, marketing_copy_for
 
@@ -193,6 +199,11 @@ def post_telegram(products: List[Dict], limit=5):
                     },
                     timeout=20,
                 )
+            # After each product message, maybe trigger CTA based on batch + cooldown
+            try:
+                maybe_send_cta()
+            except Exception:
+                pass
             time.sleep(0.4)
         except Exception:
             # best-effort; continue with next product

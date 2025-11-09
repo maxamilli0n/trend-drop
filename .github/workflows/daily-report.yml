@@ -1,0 +1,67 @@
+name: TrendDrop Daily Report
+
+on:
+  schedule:
+    # Daily at 13:00 UTC (≈ 9:00 AM Boston time year-round)
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: trenddrop-daily
+  cancel-in-progress: true
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # ---- DAILY MODE & paths ----
+      REPORT_MODE: daily_free
+      REPORT_MAX_ITEMS: "10"
+      REPORT_SORT_STRATEGY: conversion
+      EPN_CUSTOM_ID: DAILY
+
+      # Supabase storage (daily paths)
+      SUPABASE_BUCKET: trenddrop-reports
+      SUPABASE_LATEST_PDF_PATH: daily/latest.pdf
+      SUPABASE_LATEST_CSV_PATH: daily/latest.csv
+
+      # Shared project env
+      REPORT_TITLE: "Top 10 Daily Movers — TrendDrop"
+      REPORT_LAYOUT: table
+      REPORT_TZ: America/New_York
+      CURRENCY: USD
+      PRODUCT_SOURCE: ebay
+
+      # Secrets
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+
+      # Email (optional; step will auto-skip if not configured)
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.SMTP_PORT }}
+      SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+      EMAIL_TEST_TO: ${{ secrets.EMAIL_TEST_TO }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install report deps
+        run: pip install -r requirements-reports.txt
+
+      - name: Generate Daily Report
+        run: python -m trenddrop.reports.generate_reports
+
+

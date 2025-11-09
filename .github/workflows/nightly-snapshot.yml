@@ -1,0 +1,41 @@
+name: Nightly Products Snapshot
+
+on:
+  schedule:
+    - cron: "5 7 * * *" # 07:05 UTC = 03:05 ET (adjust if DST differs)
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Run snapshot
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_PROJECT_REF: ${{ secrets.SUPABASE_PROJECT_REF }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+          REPORTS_BUCKET: ${{ secrets.REPORTS_BUCKET }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm run snapshot
+
+      - name: Upload CSV artifact (for debugging)
+        uses: actions/upload-artifact@v4
+        with:
+          name: nightly-csv
+          path: snapshots/*.csv
+          if-no-files-found: ignore
+
+

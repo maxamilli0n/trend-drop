@@ -1,9 +1,10 @@
 import os, time
-from dotenv import load_dotenv, find_dotenv
+from pathlib import Path
+from trenddrop.utils.env_loader import load_env_once
 from typing import List, Dict
 
-# Load environment variables from a .env file if present
-load_dotenv(find_dotenv(), override=False)
+# Load environment variables only from root .env
+ENV_PATH = load_env_once()
 from utils.trends import top_topics
 from utils.sources import search_ebay
 from utils.epn import affiliate_wrap

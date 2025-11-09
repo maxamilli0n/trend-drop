@@ -1,0 +1,14 @@
+{
+  "name": "trenddrop-snapshots",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "snapshot": "node scripts/nightly_snapshot.mjs"
+  }
+}
+
+

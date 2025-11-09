@@ -1,4 +1,9 @@
 import os, time, base64, json, requests
+from pathlib import Path
+from trenddrop.utils.env_loader import load_env_once
+
+# Ensure root .env is loaded
+ENV_PATH = load_env_once()
 from typing import List, Dict
 
 _OAUTH_CACHE: Dict[str, Dict] = {}
@@ -88,6 +93,7 @@ def search_browse(keyword: str, limit: int = 12) -> List[Dict]:
 
             out.append({
                 "source": "ebay",
+                "provider": "ebay",
                 "keyword": keyword,
                 "title": title[:160],
                 "price": price,

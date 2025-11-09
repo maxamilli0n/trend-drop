@@ -1,5 +1,9 @@
 from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 import os
+from dotenv import load_dotenv, find_dotenv
+
+# Ensure root .env is loaded
+load_dotenv(find_dotenv(usecwd=True), override=False)
 
 
 def affiliate_wrap(url: str, custom_id: str = "trenddrop") -> str:

@@ -1,0 +1,13 @@
+{
+  "bucket": "trenddrop-reports",
+  "latest_pdf_key": "weekly/latest.pdf",
+  "latest_csv_key": "weekly/latest.csv",
+  "dated_pdf_key": "weekly/2025-10-12/report.pdf",
+  "dated_csv_key": "weekly/2025-10-12/report.csv",
+  "artifacts": {
+    "pdf_url_latest": "https://nkuanqodjejvojwvypvp.supabase.co/storage/v1/object/public/trenddrop-reports/weekly/latest.pdf?",
+    "pdf_url_dated": "https://nkuanqodjejvojwvypvp.supabase.co/storage/v1/object/public/trenddrop-reports/weekly/2025-10-12/report.pdf?",
+    "csv_url_latest": "https://nkuanqodjejvojwvypvp.supabase.co/storage/v1/object/public/trenddrop-reports/weekly/latest.csv?",
+    "csv_url_dated": "https://nkuanqodjejvojwvypvp.supabase.co/storage/v1/object/public/trenddrop-reports/weekly/2025-10-12/report.csv?"
+  }
+}

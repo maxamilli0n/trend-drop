@@ -1,4 +1,8 @@
 import random
+from dotenv import load_dotenv, find_dotenv
+
+# Ensure root .env is loaded (pytrends may not need it, but keep consistent)
+load_dotenv(find_dotenv(usecwd=True), override=False)
 from typing import List
 from pytrends.request import TrendReq
 

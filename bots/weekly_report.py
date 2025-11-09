@@ -1,7 +1,9 @@
 import os, time, json, pathlib
-from dotenv import load_dotenv, find_dotenv
+from pathlib import Path
+from trenddrop.utils.env_loader import load_env_once
 
-load_dotenv(find_dotenv(), override=False)
+# Load root .env only
+ENV_PATH = load_env_once()
 
 from utils.report import generate_weekly_pdf, upload_pdf_to_supabase
 from utils.db import sb
