@@ -1,0 +1,24 @@
+name: Deploy Stripe Webhook
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "supabase/functions/stripe-webhook/**"
+      - ".github/workflows/deploy-edge.yml"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: supabase/setup-cli@v1
+        with:
+          version: latest
+      - name: Deploy edge function
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+          PROJECT_REF: ${{ secrets.SUPABASE_PROJECT_REF }}
+        run: supabase functions deploy stripe-webhook --project-ref $PROJECT_REF
+
+
