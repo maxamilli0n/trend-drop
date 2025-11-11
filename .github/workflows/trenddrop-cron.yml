@@ -58,10 +58,11 @@ jobs:
           python -m pip install -U pip
           pip install -r requirements.txt
           
-      - name: Create .env file
+      - name: Restore .env from GitHub secret
+        shell: bash
         run: |
-          touch .env
-          echo "$ENV_FILE" > .env
+          printf "%s" "${ENV_FILE}" > .env
+          echo ".env restored ($(wc -c < .env) bytes)"
         env:
           ENV_FILE: ${{ secrets.ENV_FILE }}
 
