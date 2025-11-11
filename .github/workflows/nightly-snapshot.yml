@@ -23,6 +23,12 @@ jobs:
           pip install -r requirements.txt
           pip install -r requirements-reports.txt
 
+      - name: Restore .env
+        shell: bash
+        run: |
+          echo "::add-mask::${{ secrets.ENV_FILE }}"
+          printf "%s" "${{ secrets.ENV_FILE }}" > .env
+          echo "Wrote $(wc -c < .env) bytes to .env"
 
       - name: Run snapshot
         env:
