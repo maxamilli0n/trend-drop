@@ -1,5 +1,5 @@
 {
-  "updated_at": 1762867644,
+  "updated_at": 1762869931,
   "products": [
     {
       "source": "ebay",
@@ -9,7 +9,7 @@
       "price": 19.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/JhYAAeSwqNlo0gQ1/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/317329599576?_skw=wireless+charger&hash=item49e2516c58%3Ag%3AJhYAAeSwqNlo0gQ1&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UawqeDJLoO9ofUyMdqLUhv%2FgWenP4pPvdyQkx8rwc4HYXd63RDzWavQc4UvPex%2Fz4lUqiiZ9vOJF0zgK96OxSaiwBBEQvmOpwbIpZo7R%2Bky5NJhYLsWjjH3JyzyoAHKwZTrobrkdRNI4HUjr7F%2BUhY96xboFaO6G%2Fo6sZG6Zw0C%2BBNmT6CEnaSaZ1nXN8cHYVUU%2B%2FaBnCyFSYOSpMN4R4afzHBTY01ir%2BsjSNT63%2BUB%2Fy3fI18iv6ZIP2XGefhsZHtpXu3d5qKAGPXr09acNPuKU%2Fog7sz1k4ea2T%2FOXiHO3Q%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "url": "https://www.ebay.com/itm/317329599576?_skw=wireless+charger&hash=item49e2516c58%3Ag%3AJhYAAeSwqNlo0gQ1&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UawqeDJLoO9ofUyMdqLUhv%2FgWenP4pPvdyQkx8rwc4HYXd63RDzWavQc4UvPex%2Fz4lUqiiZ9vOJF0zgK96OxSaiwBBEQvmOpwbIpZo7R%2Bky5NJhYLsWjjH3JyzyoAHKwZRur2F9eI6Bs%2BidSZpQPXAGlpjRdImULpkHglGMltoSEBCu%2FQo%2F7krDIPndHi%2FhsaDHGLaKvuYRVwyybSAicYZS3%2BTeFi2329Ku3Xc3RlWGINemINg4XP9l43oxxY6lWA5LYw6gA4kYGOyf1sCdN3%2FhcFPKyaAEQAj6yy6kNwRf1A%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
       "seller_feedback": 52915,
       "top_rated": false,
       "score": 9.0,
@@ -25,12 +25,32 @@
       "source": "ebay",
       "provider": "ebay",
       "keyword": "wireless charger",
+      "title": "3 In 1 Wireless Charger Station Fast Charging Dock Apple Watch Air Pods iPhone",
+      "price": 11.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/C68AAeSwkoRo-OBg/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/116839993746?_skw=wireless+charger&hash=item1b3434d192%3Ag%3AC68AAeSwkoRo-OBg&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ%2BZY9WiXtiylvoh3ZhvxML%2BQbkBShQUfEJ7M%2FAB3NuZ5kDYxMTVFgFTRHaB--dYxjytQiXx%2B5YvvXk93csUXZWST4elgdnq9R37ImMpBFeVwJjpxy%2B6fT8%2Bhb7dYE%2BVwhEeEy0YhQwB0eOru5L5r6VBSbOpOCxM87l7JKT5TuwoKHWDhDagXVgTgSMitJsVnBqHhZciZuugpItQol0OqO7y45cH4VeMdUgFwhXywkohm1jEc8jdWZ%2BMV4Bd7JvtBJIVEH2JSMMv6ddZyyCdAQw0Aa2TZ1ZkToroAx4EiV9%2BQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 30971,
+      "top_rated": false,
+      "score": 7.0,
+      "tags": [
+        "wireless charger"
+      ],
+      "caption": "3 In 1 Wireless Charger Station Fast Charging Dock Apple Watch Air Pods iPhone \u2022 USD 11.99",
+      "headline": "\ud83d\udd25\u2728 3 In 1 Wireless Charger Station Fast Charging Dock Apple Watch Air Pods iPhone",
+      "blurb": "USD 11.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "wireless charger",
       "title": "30W Wireless Phone Charger Stand Pad Fast Charge for Samsung iPhone LG Universal",
       "price": 13.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/s9oAAOSwizZluYVl/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/325301498944?_skw=wireless+charger&hash=item4bbd7af440%3Ag%3As9oAAOSwizZluYVl&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ubhs69%2BCWa1mNCcjGdB8GWmFaot1amwc4wv%2FCXO0MjltJ0EAnutWNeRKLn6ZuiwWoMygmSNCxSGQX0lVMDMQH%2FTdHLI60TDz5B1M52h4jvpaV5RVjooqCWwDzx07a12uCIP6uyxOnWi2XjzoXgEbbyOp8wbrmwZgqBBo06XX6ZQTNrSLHhLZKs0ptmeoBhluhMiplMMc7DQzaRnAX7%2BUAmsKIFSv%2FSKc6EcVZs5v%2BLn1bQ%2BOS9CybMm56VEcYoYeUEkfX9NA9ky3R0v%2B%2B%2BwzKiuEDZydUeihQxj8AfU2eckBg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
-      "seller_feedback": 297353,
+      "url": "https://www.ebay.com/itm/325301498944?_skw=wireless+charger&hash=item4bbd7af440%3Ag%3As9oAAOSwizZluYVl&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ubhs69%2BCWa1mNCcjGdB8GWmFaot1amwc4wv%2FCXO0MjltJ0EAnutWNeRKLn6ZuiwWoMygmSNCxSGQX0lVMDMQH%2FTdHLI60TDz5B1M52h4jvpaV5RVjooqCWwDzx07a12uCJv7ZdDyi0zM222WXz5GWF9urusLAJujxc%2BHVa02PPhzYiSd6he%2B36Ye%2Bhr1gk0Xfhorq5p1rpkGqNbWI5q5skmSx2iVjY1FGjlB8ux1%2FoPqjcFLStUYxHlABFtf05O%2FcCkYFEPovOIrHlMnExh6VHmLaK75%2FFUt4QYSs35Q89BmA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 297356,
       "top_rated": false,
       "score": 7.0,
       "tags": [
@@ -45,20 +65,20 @@
       "source": "ebay",
       "provider": "ebay",
       "keyword": "wireless charger",
-      "title": "2 PACK Magnetic Wireless Charger Pad For Magsafe iPhone 16 15 14 13 12 Pro Max",
-      "price": 11.74,
+      "title": "Wireless Fast Charger Charging Pad Dock for Samsung iPhone Android Cell Phone",
+      "price": 5.88,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/98gAAOSwXvJn9ZeJ/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/205404904768?_skw=wireless+charger&hash=item2fd3161d40%3Ag%3A98gAAOSwXvJn9ZeJ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbpGw5eit%2FMlQhM1rxA57LkjRt7OBpZsKQ5lWjZCDp9CiImuZi8X%2FVbcTMgUAtV8Z4sE95hL7QHB7OCBi9wJi8mPsvvf2QTD2gegaAS5clNY96CC5xc9yCFNp1RiL%2BfHR3iCFP3FFQxn8p3g3uWbkxzhDEr4dFjwCggLmQ2k2Ca9A5Wv5hNb4oIDXV7UGB37ghX9bcxVPACOJE9ryqAxH3M9%2FFaAiRtfNH%2FLIrt9%2BIAVDaSu7quy7zXuN3Mc5eq42s6UpyKeLQ0NKkt8SXmSCDFCz21pPy9afrWLlYkDjiVdQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
-      "seller_feedback": 241997,
+      "image_url": "https://i.ebayimg.com/images/g/DOoAAOSwIaNl92Yd/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/203449767098?_skw=wireless+charger&hash=item2f5e8d14ba%3Ag%3ADOoAAOSwIaNl92Yd&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 196355,
       "top_rated": false,
       "score": 7.0,
       "tags": [
         "wireless charger"
       ],
-      "caption": "2 PACK Magnetic Wireless Charger Pad For Magsafe iPhone 16 15 14 13 12 Pro Max \u2022 USD 11.74",
-      "headline": "\ud83d\udd25\u2728 2 PACK Magnetic Wireless Charger Pad For Magsafe iPhone 16 15 14 13 12 Pro Max",
-      "blurb": "USD 11.74 steal. Limited stock\u2014grab it now!",
+      "caption": "Wireless Fast Charger Charging Pad Dock for Samsung iPhone Android Cell Phone \u2022 USD 5.88",
+      "headline": "\ud83d\udd25\u2728 Wireless Fast Charger Charging Pad Dock for Samsung iPhone Android Cell Phone",
+      "blurb": "USD 5.88 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
@@ -69,36 +89,16 @@
       "price": 100.0,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/sZAAAOSwVcNmEwrJ/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/116133860269?_skw=wireless+charger&hash=item1b0a1e13ad%3Ag%3AsZAAAOSwVcNmEwrJ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYyG16E7Bo2x5FvBqqYWCtd0ZlD1Fe20hkqFpoNuzrABxUjVKYxQaYtJptjep6e35huLfrwIMBmVztMOSqQdnzQ7G2sc5V2fEcGzMCsir%2FpMa4mXy5nBa6NFi8joI9DVscEFPvUGBvPdXVANfxhMF7u6sXHt4ofCZTaQOvZgZrOdBuqXsCAcIJYQdUnK9JvvcCeuxnm0rFhmVoIjH1I8V%2BCk0U6yuR5Do4%2BMy8zZaJNQ7xKRmD0trxxqqqxVEtinTdeafpOsRwwE00dYovqdYE5lkRTK78jDXyRIYzbgsQJwQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "url": "https://www.ebay.com/itm/116133860269?_skw=wireless+charger&hash=item1b0a1e13ad%3Ag%3AsZAAAOSwVcNmEwrJ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYyG16E7Bo2x5FvBqqYWCtd0ZlD1Fe20hkqFpoNuzrABxUjVKYxQaYtJptjep6e35huLfrwIMBmVztMOSqQdnzQ7G2sc5V2fEcGzMCsir%2FpMa4mXy5nBa6NFi8joI9DVsfcNerlxRg%2B5V7aUnBxrLSLCUQOMcfMmG%2F5XJdk6AgMDlFTyFHcmxHkmdDPEaQHMIceTWj2arC90AvksJg1eQniJIOJqMA89iIZhHtzKnsOIcwSGl0qPUPvwQiZMDdUbvX7jWtQcBsUtJAy4gWT4IiRMU2%2FiMEiTRG6gOZWFNcKHg%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
       "seller_feedback": 1924,
       "top_rated": false,
       "score": 5.9239999999999995,
       "tags": [
         "wireless charger"
       ],
-      "caption": "Original Wireless Fast Charger For Apple MagSafe iPhone 15 14 13 12 11 10 ProMax \u2022 USD 100.0",
-      "headline": "\u26a1 Charge Your iPhone Fast with MagSafe! Limited Stock!",
-      "blurb": "Upgrade to the Original Wireless Fast Charger for your iPhone 10-15! Hurry, stock won't last\u2014grab yours now!",
-      "emojis": "['\u26a1', '\ud83d\udcf1']"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "wireless charger",
-      "title": "QI Wireless Adapter Fast Charger Receiver For Samsung Android Type C USB C Micro",
-      "price": 3.75,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/kHkAAOSwZXRfXfEm/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/284010193335?_skw=wireless+charger&hash=item422053a1b7%3Ag%3AkHkAAOSwZXRfXfEm&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
-      "seller_feedback": 106904,
-      "top_rated": false,
-      "score": 5.0,
-      "tags": [
-        "wireless charger"
-      ],
-      "caption": "QI Wireless Adapter Fast Charger Receiver For Samsung Android Type C USB C Micro \u2022 USD 3.75",
-      "headline": "\ud83d\udd25\u2728 QI Wireless Adapter Fast Charger Receiver For Samsung Android Type C USB C Micro",
-      "blurb": "USD 3.75 steal. Limited stock\u2014grab it now!",
+      "caption": "Charge up your iPhone in style with our Original Wireless Fast Charger! \u26a1 Grab yours now and power up the future! \ud83d\udca5",
+      "headline": "\ud83d\udd25\u2728 Original Wireless Fast Charger For Apple MagSafe iPhone 15 14 13 12 11 10 ProMax",
+      "blurb": "USD 100.00 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     }
   ]
