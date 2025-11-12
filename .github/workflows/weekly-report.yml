@@ -60,23 +60,30 @@ jobs:
 
       - name: Install report deps
         run: pip install -r requirements-reports.txt
-
-      # --- Added: restore .env from the ENV_FILE secret (if present) ---
+        
+      # --- Restore .env from the ENV_FILE secret (if present) ---
       - name: Restore .env from secret
-        if: ${{ secrets.ENV_FILE != '' }}
         shell: bash
         run: |
-          echo "::add-mask::${{ secrets.ENV_FILE }}"
-          printf "%s" '${{ secrets.ENV_FILE }}' > .env
-          echo "Wrote $(wc -c < .env) bytes to .env"
+          if [ -n "${{ secrets.ENV_FILE }}" ]; then
+            echo "::add-mask::${{ secrets.ENV_FILE }}"
+            printf "%s" "${{ secrets.ENV_FILE }}" > .env
+            echo "Wrote $(wc -c < .env) bytes to .env"
+          else
+            echo "ENV_FILE secret is empty or not set — skipping write."
+          fi
 
-      # --- Added: mirror .env where code expects it (trenddrop/.env) ---
+      # --- Mirror .env where your code expects it (trenddrop/.env) ---
       - name: Mirror .env for package loaders
-        if: ${{ secrets.ENV_FILE != '' }}
         shell: bash
         run: |
-          mkdir -p trenddrop
-          cp .env trenddrop/.env
-
+          if [ -f .env ]; then
+            mkdir -p trenddrop
+            cp .env trenddrop/.env
+            echo "Copied .env to trenddrop/.env"
+          else
+            echo "No .env to mirror — skipping."
+          fi
+          
       - name: Generate Weekly Report
         run: python -m trenddrop.reports.generate_reports
