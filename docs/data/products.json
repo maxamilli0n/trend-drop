@@ -1,5 +1,5 @@
 {
-  "updated_at": 1763075137,
+  "updated_at": 1763081073,
   "products": [
     {
       "source": "ebay",
@@ -9,56 +9,36 @@
       "price": 46.76,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/HhUAAeSwo1dpFiHl/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/166753896229?_skw=mechanical+keyboard&hash=item26d34e8725%3Ag%3AHhUAAeSwo1dpFiHl&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbOD%2FSLzSa%2FEIsFy0j9NP2IrInajM9mXjpTJTK9%2BTIo9lBj90ReCSnNlhjnK9y8mDJs%2BZH%2FSSRHck3iYsM2o0ieYXLjP972s5o6WcSiobE6hVTOllguj5HxYyperDLBrjg1NSc5irQwQBt1VEvftOpLkvVYpYTbVdwmrJPFeCJCFFKPxc%2B3d1%2Fib5xSk%2B223fxUjM%2B6hRwJwOJQMYOw32yGaeZaNZV7WGqHWuMMcfV%2F24JJhVAvNEVKx1L4MDsxho6EJqLU6DuZVOai2F1ArNz878CC4bYfmWPIOoq3y0PzkA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
-      "seller_feedback": 35286,
+      "url": "https://www.ebay.com/itm/166753896229?_skw=mechanical+keyboard&hash=item26d34e8725%3Ag%3AHhUAAeSwo1dpFiHl&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbOD%2FSLzSa%2FEIsFy0j9NP2IrInajM9mXjpTJTK9%2BTIo9lBj90ReCSnNlhjnK9y8mDJs%2BZH%2FSSRHck3iYsM2o0ieYXLjP972s5o6WcSiobE6hVTOllguj5HxYyperDLBrjj9yGLRSMV%2FvkhJhi5DuBWbt4qDaFq2vQDAxJCgrftCVBjCaz7a%2FbFMpcIgcBn9F1tU%2F1FzQA5c4skCqGM8tarhA5P39IupxsTSSAh%2BNJfbvfBBsg4HD84%2FG830vJka1A42iV9xC0WRYZeqjVVBRjvANihL20TWzXDe2grZda5xaw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 35304,
       "top_rated": false,
       "score": 9.0,
       "tags": [
         "mechanical keyboard"
       ],
-      "caption": "ROYALAXE R100 Mechanical Keyboard Gateron G Pro 3.0 Yellow Switch - Lava Brown \u2022 USD 46.76",
-      "headline": "\ud83d\udd25 Unleash Your Gaming with ROYALAXE R100 Keyboard!",
-      "blurb": "Grab the ROYALAXE R100 Mechanical Keyboard at just $46.76! Limited stock available\u2014upgrade your setup now!",
-      "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "mechanical keyboard",
-      "title": "Razer Ornata V3 X Low Profile Mechanical Gaming Keyboard (Black) Excellent",
-      "price": 26.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/4wgAAeSwcpZouNGt/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/388795501961?_skw=mechanical+keyboard&hash=item5a86048d89%3Ag%3A4wgAAeSwcpZouNGt&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
-      "seller_feedback": 6571,
-      "top_rated": false,
-      "score": 9.0,
-      "tags": [
-        "mechanical keyboard"
-      ],
-      "caption": "Level up your gaming with the Razer Ornata V3 X! \ud83d\udca5 Grab yours for just $26.99 and dominate the battlefield! \ud83d\udda5\ufe0f\ud83d\udca8",
-      "headline": "\ud83d\udd79\ufe0f Razer Ornata V3 X Low Profile Mechanical Gaming Keyboard (Black) Excellent",
-      "blurb": "USD 26.99 steal. Limited stock\u2014grab it now!",
+      "caption": "Unleash your gaming potential with the ROYALAXE R100! \ud83d\udd25 Feel the difference with Gateron G Pro switches! Grab yours now for just $46.76! \ud83d\uddb1\ufe0f\ud83d\udca8",
+      "headline": "\ud83d\udd79\ufe0f ROYALAXE R100 Mechanical Keyboard Gateron G Pro 3.0 Yellow Switch - Lava Brown",
+      "blurb": "USD 46.76 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
       "keyword": "mechanical keyboard",
-      "title": "JLab Epic Mechanical Wireless Keyboard, Bluetooth, 2.4G, Switches, Illuminated",
-      "price": 99.99,
+      "title": "Razer Ornata V3 X Wired Low Profile Mechanical Gaming Keyboard (Black) Excellent",
+      "price": 26.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/mAkAAOSwwDtnK7sJ/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/235685434069?_skw=mechanical+keyboard&hash=item36dff252d5%3Ag%3AmAkAAOSwwDtnK7sJ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ7ePvDe4pUXyBBdXJFs%2B14sw4ustwXXFwyzMPT0%2BcqWFs9fKg3laRHp2w6NCf98bAaL6r6U0pEBCsHZQnvBhr%2FEUAoL6rVh2s8wMDpQIqDlxlHF368a5yvn8nkFI8hAb6WNqLLS7weun3NIGP6R23saHRFKK83%2B2NYaZaatCIZfLb2NELVBaSHV0A5dvEXxWJK1fESYrX4Ifx3zl14NPwWKDlySnDA5kXVvH5N4qiB4RsLLeQzDyb5qVQnEdOdES0zT4bOXxi3sak%2Bb4YOyZ7xWQ09%2Be6%2BejUipWuyVTR83w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
-      "seller_feedback": 3603,
+      "image_url": "https://i.ebayimg.com/images/g/4wgAAeSwcpZouNGt/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/388795501961?_skw=mechanical+keyboard&hash=item5a86048d89%3Ag%3A4wgAAeSwcpZouNGt&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 6580,
       "top_rated": false,
-      "score": 7.603,
+      "score": 9.0,
       "tags": [
         "mechanical keyboard"
       ],
-      "caption": "JLab Epic Mechanical Wireless Keyboard, Bluetooth, 2.4G, Switches, Illuminated \u2022 USD 99.99",
-      "headline": "\ud83d\udd79\ufe0f Level Up Your Game with JLab Epic Keyboard!",
-      "blurb": "Grab the JLab Epic Mechanical Wireless Keyboard for just $99.99! Limited stock available\u2014don't miss out on this illuminated gaming essential! Order now!",
+      "caption": "Razer Ornata V3 X Wired Low Profile Mechanical Gaming Keyboard (Black) Excellent \u2022 USD 26.99",
+      "headline": "\ud83c\udfae Level Up Your Game with Razer Ornata V3 X!",
+      "blurb": "Grab this wired mechanical keyboard for just $26.99! Limited stock, so upgrade your setup now!",
       "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
     },
     {
@@ -69,16 +49,36 @@
       "price": 17.99,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/CdQAAOSwZrJoQRNA/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/335996332738?_skw=mechanical+keyboard&hash=item4e3af12ac2%3Ag%3ACdQAAOSwZrJoQRNA&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKAXrljabH5vj101JIrrxmkYq3N%2BpzhggdC%2BllHIoRqipONnJanTI%2BP7ddPDmPwpSd3TuXboLdhmQs2DRT8WMV3YWbtSXOZ%2BER9gpS%2BdI1rYAKnicpC9pcVB3%2FuR0STR02pHf6QI6NtrteXRqhEla01ZJAioRQkURSiysT3Vh1VqW5UxeTr9SGuf%2FlF%2FFMQe6s1EysMUdcXG0eMeTzXmSYVGdi%2Bq6gK3gbIEEAtB0sE9k0qI0zEc0k%2BkoEJrT%2B%2FGew1PjKjfEvxjHOxlGHxEAiI2XyJ3wOIPPGlc5Pamf5FA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
-      "seller_feedback": 3213,
+      "url": "https://www.ebay.com/itm/335996332738?_skw=mechanical+keyboard&hash=item4e3af12ac2%3Ag%3ACdQAAOSwZrJoQRNA&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKAXrljabH5vj101JIrrxmkYq3N%2BpzhggdC%2BllHIoRqipONnJanTI%2BP7ddPDmPwpSd3TuXboLdhmQs2DRT8WMV3YWbtSXOZ%2BER9gpS%2BdI1rYAKnicpC9pcVB3%2FuR0STR3LFwW2UUsMEurPQnIRdmeLrJIvTiE4O%2FhMhmJyX2Nhi0CwfzRCEIR6S3Dq9seTYf%2F3RLbPHYn5FWv1lXz9mZIDtfGQTLo2VMG--mosDUNFIaYlE7i2EVFJDnNpcp6fS9cVzcHPKk2Iyq%2BoAjwEoYNjTGMpjdeAe1hJ0lj2MzbP%2Fw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 3216,
       "top_rated": false,
-      "score": 7.213,
+      "score": 7.216,
       "tags": [
         "mechanical keyboard"
       ],
-      "caption": "HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated \u2022 USD 17.99",
-      "headline": "\ud83d\udd79\ufe0f HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated",
-      "blurb": "USD 17.99 steal. Limited stock\u2014grab it now!",
+      "caption": "Level up your gaming with the HK GAMING GK61! \ud83c\udfae Grab yours now for just $17.99 and light up your play! \u2728",
+      "headline": "\ud83c\udfae Unleash Your Game with HK GAMING GK61 Keyboard!",
+      "blurb": "Grab this limited-time offer at just $17.99! Elevate your gaming experience with stunning RGB illumination. Act fast!",
+      "emojis": "['\ud83c\udfae', '\ud83d\udd79\ufe0f']"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "mechanical keyboard",
+      "title": "Keychron K2 HE Magnetic Mechanical Keyboard In Black Nebula Linear",
+      "price": 90.3,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/0lUAAeSwJQhpFXX8/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/157461200047?_skw=mechanical+keyboard&hash=item24a96b3caf%3Ag%3A0lUAAeSwJQhpFXX8&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZmFOM22dwH5KzV1vYIj5U3P0%2FkvXuMwRI%2Fm4Xk3mWgjknr%2Bxok6AleuyJSDwuEl%2BC%2BBLNZ8iMWIuzlFuQ8%2BhVHaywXSrSiu%2ByGnnTVpQKnOnxULDjZeMmTL2cygyeUH8mCd9nrCOFmz2Nypu7k6z%2B7k2c1FQg9MrLTLXow%2B%2BxxjbkykCyV%2F9c9vSet8nIsU2d9FLYUcahHnkIyZZ%2F8zl%2BVMnuKTSHqmaElTHBYzQX2D9OL9mpwoR7j%2BjyHpUH9jhYXDeXT3rYK09Sbb3XOkKipi33apbzLWIm7YWsX5F3ZbQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 208,
+      "top_rated": false,
+      "score": 4.208,
+      "tags": [
+        "mechanical keyboard"
+      ],
+      "caption": "Keychron K2 HE Magnetic Mechanical Keyboard In Black Nebula Linear \u2022 USD 90.3",
+      "headline": "\ud83d\udd79\ufe0f Keychron K2 HE Magnetic Mechanical Keyboard In Black Nebula Linear",
+      "blurb": "USD 90.30 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
     },
     {
@@ -89,16 +89,16 @@
       "price": 45.0,
       "currency": "USD",
       "image_url": "https://i.ebayimg.com/images/g/NacAAeSwwUJpFghD/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/365984965282?_skw=mechanical+keyboard&hash=item55366762a2%3Ag%3ANacAAeSwwUJpFghD&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaMuGx9AvgOi7DmDgHW8B0uaFKUjY8aavePApoc6dFfXB0ILrNjKowZ6ppXUDzjUTE9QhPjLIZriEftehBxkPdh7L6kskiNLjOUP%2BpJk7rDMm1vO9Cj5WDUAbxjtZPGY7w8HDnFIPMQ9M1ASHFs17ilNPdAqaHnYdPVGPJrH9uZ%2ByVmQiUOxUHZAXN2jic49a%2FVp42g3Ud82tUxuq2Iof39eQG4Idzzmp%2Fina5fscI6pFUJawJrzfFp0%2BoClVmmSDOBPcJrJvtdI2V30LMl701BQvC4aNrNoGh8EwCusCcttQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "url": "https://www.ebay.com/itm/365984965282?_skw=mechanical+keyboard&hash=item55366762a2%3Ag%3ANacAAeSwwUJpFghD&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaMuGx9AvgOi7DmDgHW8B0uaFKUjY8aavePApoc6dFfXB0ILrNjKowZ6ppXUDzjUTE9QhPjLIZriEftehBxkPdh7L6kskiNLjOUP%2BpJk7rDMm1vO9Cj5WDUAbxjtZPGY7zn%2BeXpZhGk1UC3KlCrxb6giOC2rhFKc5%2BIJvp%2Fr06aAobs5oIg8HB6GGXpSZiXQhpL51CUGuHrd67U5Ml62KT%2BbeHI2p5933dG%2BafXHhkz827CgC9BYMr55fWlhG8zpQNGc8AY6Pli4ZWSV8sNWjn2XzCmAKCWouKfc2XEnF4X6w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
       "seller_feedback": 0,
       "top_rated": false,
       "score": 4.0,
       "tags": [
         "mechanical keyboard"
       ],
-      "caption": "Unleash your gaming potential with the BOYI 66Pro! \ud83c\udfae Elevate your setup and snag yours now for just $45! \ud83d\uded2\u2728",
-      "headline": "\ud83d\udd25 Unleash Your Gaming with BOYI 66Pro Keyboard!",
-      "blurb": "Upgrade your setup with the BOYI 66Pro Rapid Trigger Mechanical Keyboard for just $45! Limited stock available\u2014grab yours now!",
+      "caption": "Unleash your gaming potential with the BOYI 66Pro Mechanical Keyboard! \ud83c\udfae Upgrade your setup today for just $45! \ud83d\udd25 Grab yours now!",
+      "headline": "\ud83c\udfae Elevate Your Game with BOYI 66Pro Keyboard!",
+      "blurb": "Grab the BOYI 66Pro Rapid Trigger Mechanical Keyboard for just $45! Limited stock\u2014boost your gaming experience now!",
       "emojis": "['\ud83d\udd79\ufe0f', '\ud83c\udfae']"
     }
   ]
