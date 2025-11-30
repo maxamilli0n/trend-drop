@@ -1,105 +1,105 @@
 {
-  "updated_at": 1764474896,
+  "updated_at": 1764476842,
   "products": [
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "portable monitor",
-      "title": "Acer PM161Q Abmiuuzx 15.6\" Portable Monitor 1920x1080 IPS 5ms 60Hz Refurbished",
-      "price": 40.03,
+      "keyword": "air fryer",
+      "title": "Kitchen Elite AF8243WSS 8QT AIR FRYER WITH WINDOW",
+      "price": 49.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/IjIAAeSwHPJpG7DA/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/267229717756?_skw=portable+monitor&hash=item3e3821e4fc%3Ag%3AIjIAAeSwHPJpG7DA&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 88270,
+      "image_url": "https://i.ebayimg.com/images/g/8nsAAeSwjOZpIzwt/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/306344769864?_skw=air+fryer&hash=item4753923948%3Ag%3A8nsAAeSwjOZpIzwt&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYx60SBO4Fhcou%2BdXM4ZAm5dXE446X4ctzkkwyDBiwR%2FOkNK2a1gL%2FqdyCbxQmt6a2cdzMmayX2K%2BpFfZzUUYdBY0owyahLpb%2FTBWCTCbmSjFknWBdYoj9%2FLw68zfyq%2BJaNiyoG5GgDBr3hAapzFuSBkkNA35UeKaeBAQTJZy6yzOVKzDzJGXf2JEUPHy40LRO5QL%2BvbeaIoRkdbSg3VhNjqwbunW2KAEamxlM0F%2BawVP8fsOX9s6eB5hCWQwTwFICfGoGjoCDkHKRDE94XT7hD&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 28861,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "portable monitor"
+        "air fryer"
       ],
-      "caption": "Acer PM161Q Abmiuuzx 15.6\" Portable Monitor 1920x1080 IPS 5ms 60Hz Refurbished \u2022 USD 40.03",
-      "headline": "\ud83d\udd25\u2728 Acer PM161Q Abmiuuzx 15.6\" Portable Monitor 1920x1080 IPS 5ms 60Hz Refurbished",
-      "blurb": "USD 40.03 steal. Limited stock\u2014grab it now!",
+      "caption": "Kitchen Elite AF8243WSS 8QT AIR FRYER WITH WINDOW \u2022 USD 49.99",
+      "headline": "\ud83d\udd25 Cook Deliciously with the Kitchen Elite 8QT Air Fryer!",
+      "blurb": "Don't miss out on this limited-time offer! Enjoy healthier meals with less oil \u2013 grab yours now for just $49.99!",
+      "emojis": "['\ud83c\udf7d\ufe0f', '\ud83d\udd25']"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "air fryer",
+      "title": "Kitchen Elite KE-AF300M 3QT Digital Air Fryer",
+      "price": 29.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/VdAAAeSwPmtpIzzd/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/297669288283?_skw=air+fryer&hash=item454e78e15b%3Ag%3AVdAAAeSwPmtpIzzd&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 28861,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "air fryer"
+      ],
+      "caption": "Kitchen Elite KE-AF300M 3QT Digital Air Fryer \u2022 USD 29.99",
+      "headline": "\ud83c\udfe0\ud83d\udecb Kitchen Elite KE-AF300M 3QT Digital Air Fryer",
+      "blurb": "USD 29.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "air fryer",
+      "title": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer",
+      "price": 39.96,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/ARUAAeSw3-FoxaUH/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/376547843285?_skw=air+fryer&hash=item57ac001cd5%3Ag%3AARUAAeSw3-FoxaUH&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UanyGtVHIs2jh%2FZtuUb1QJAixFQAIUo199MpikeJs6QaGz8h31JPnjavLh%2BTUPhsl4An0Y8%2FRGf70DN0fIHZ7i5xePuwAmgUKrrV2pWWu0xnJFTTvMBKrtkswxHZx%2Fdp8TXNeVaW7d25qiSv%2FjwvxqVExIh4HsGwI5KYXn4%2BwLA6b4dU9w5tKbIKK1dkA1Wqoi%2BDf8KNl91cnr6UFI2hW8XZymYIo24blKT9AK6bQ8%2BVPAy%2BfQa9P1lLfT6K5bMxWzPVQj1X2si9M66ZJJZM3FL&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 2914,
+      "top_rated": false,
+      "score": 6.914,
+      "tags": [
+        "air fryer"
+      ],
+      "caption": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer \u2022 USD 39.96",
+      "headline": "\ud83d\udd25\u2728 bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer",
+      "blurb": "USD 39.96 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "portable monitor",
-      "title": "Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
-      "price": 49.0,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/ICIAAOSwnTtml5Di/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/314029464108?_skw=portable+monitor&hash=item491d9d5a2c%3Ag%3AICIAAOSwnTtml5Di&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbU7LSUQ1MAg4PGpa7LhgDfa%2FEFb6ADbi8xrd1XPrBPBQ0IkNPU40iJLmjb3tVpuR6MbZUQ%2Bty6BNsQ9BsfMWNHCV3AK7wXTC8GVwCZxj1qbThYyWZQ2mUkDp3xHyS%2Fkwqg3JU6JnaMgg1%2BdpnYqhZPKGZdW%2BGgbVBkLP6RUpnaqE%2FdrWAtjqh6EQ%2FpKZ4O95mCkH5QQ5N5zEXmZ4oL11gjZBSed1ULWtKgW3b4odjTH%2BVXshcmUoEr0QTap5dtxx9sFzC2GXtnmxKSAHGVK6Q5HvgHon%2FE8CnuGzE3zTFO7w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4354,
-      "top_rated": false,
-      "score": 8.354,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C \u2022 USD 49.0",
-      "headline": "\ud83d\udd25\u2728 Used 15.6\" Portable Monitor Upgraded IPS HDR 1080P Full HD Eye Care Screen USB C",
-      "blurb": "USD 49.00 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
-      "price": 89.18,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/7yAAAOSw~kZmJdaI/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/313472386520?_skw=portable+monitor&hash=item48fc6905d8%3Ag%3A7yAAAOSw~kZmJdaI&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKXuoSEGV3S8t1CiTUvRGRCjvP41Oz2jk87bLxWJfh1Vv6G6gEozoXaESgwvfWi80aKNXvx0%2BZrnGxJxhPO%2BSFy8%2FMVVluuOVWH0r0A%2B5nuaJQVYzaKXZVyEEgQ7JS7TtlW8BQJ4NjWyv5FDN4gJnW%2Bv0vn5FTtKZGeio4cB4rIlfr2z2VEy8eRMnbn3xbMo%2F0dC%2Br5m0uqAFCMn2g3JrkdALOa6j0mfeRgnC2nfp0TRnlUl%2Fo0P5JdWK3Se4dWDBv4oqjuM0oCFP%2FRW10BVDivG7nzb7TkX6ZltYeBVovUQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4354,
-      "top_rated": false,
-      "score": 8.354,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS \u2022 USD 89.18",
-      "headline": "\ud83d\udd79\ufe0f UPERFECT 16\" 2K 120Hz Portable Monitor 2*USB C Extend Display For Game Switch PS",
-      "blurb": "USD 89.18 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor",
-      "price": 134.26,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/JpEAAOSwTgdmx41H/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/315692006992?_skw=portable+monitor&hash=item4980b5be50%3Ag%3AJpEAAOSwTgdmx41H&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYE29t2LgkTgZ46o8dehQSE4BqA8WkuhOYUU%2BwR%2BUFIWWwAu%2BCWsHHd%2FNS%2FYBJOI7L603T7FiX97m5w8r6kbA4b3QIpecg52Ue0HIWPZ3mrwvt%2FguQy%2B9sPGd2NzPWNTEVapJN7slsTVXjtZX9SGnSBlAig9jML0FLYzWfH%2BofWbGAydiLc1ife7x3GCVdlk1SLmb9cY0XL79ba%2BG%2Fuc0L2FLeZRjrxK%2BZjzY4RxAN%2FVPXirX7cox7fdDR49B%2FlwsAdr%2BA6w6eyiuCU3gOkg%2BfGrlPZ%2FQq%2BqloMdbMBdcAOOw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 4354,
-      "top_rated": false,
-      "score": 8.354,
-      "tags": [
-        "portable monitor"
-      ],
-      "caption": "UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor \u2022 USD 134.26",
-      "headline": "\ud83d\udd25\u2728 UPERFECT 22 Inch Portable Monitor 2K 2560*1440 Laptop Display Computer Monitor",
-      "blurb": "USD 134.26 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "portable monitor",
-      "title": "UPERFECT 120Hz Gaming Monitor 16\" 2K PC Monitor 2560x1600 Portable Monitor 16:10",
+      "keyword": "air fryer",
+      "title": "bella PRO 12.6-qt. Touchscreen Air Fryer Pizza Oven w/Rotisserie",
       "price": 69.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/W-MAAOSwnkJl1w94/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/224058383705?_skw=portable+monitor&hash=item342aeb9d59%3Ag%3AW-MAAOSwnkJl1w94&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZdQIYQZq9e2NJHVvu%2FV7KIljOnwMWZZ%2FJHLvkwHSFceeXfptaKv3wE%2BeYi3ylLOT3O3UhNV9YZ6VvZw3XzMbg6sKU3RukQp7z4AbNWADRPuSs2TWNUHjoZWvDooHmWZM1AUYquuSUNnMpFLXk09eKpUa90zS8iLNwiHhga65PBs76akALYGQsJHOOvDPiuOi3uiykCGDUc3Zb71OCytzVjPZSIeOXm95hSVWtedRBc6sqYj2d64H%2BFTAJsmv49%2BvLGYECytqLs4V2T5JnN4Ji9JtlWd8KSO6T7c5zUuTJe8A%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=portable_monitor&toolid=10001",
-      "seller_feedback": 3692,
+      "image_url": "https://i.ebayimg.com/images/g/sKkAAeSw6IdpJ63z/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/136800604059?_skw=air+fryer&hash=item1fd9f38f9b%3Ag%3AsKkAAeSw6IdpJ63z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbPdpIjb%2FriYwLLSfXyUd9gfmAscVgDBANMOqadk%2B4bobkQSH8kzg8m3eoLUx8xixtUpU%2BOaBVIhr4XKtDo5Ypo1qneGgOx%2Bf0MOBvsCqpwj%2B707rc4vksY6Fi6bszBkWkxojExrcQ%2FLBufmznLakbqbbNLbPMYK2JIJYHVY1BBZ90x1ojj4bx%2FHVCTbg%2FlRJvCPR5SxSnNv4l6rjA5W1OeiMDYe3H313H147bZtMI2SQAevi9RWf5bWPzX%2FiF2o%2FZonbBKIG%2Ftn7BtOwNKP5K1&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 2386,
       "top_rated": false,
-      "score": 7.692,
+      "score": 6.386,
       "tags": [
-        "portable monitor"
+        "air fryer"
       ],
-      "caption": "UPERFECT 120Hz Gaming Monitor 16\" 2K PC Monitor 2560x1600 Portable Monitor 16:10 \u2022 USD 69.99",
-      "headline": "\ud83d\udd79\ufe0f UPERFECT 120Hz Gaming Monitor 16\" 2K PC Monitor 2560x1600 Portable Monitor 16:10",
+      "caption": "bella PRO 12.6-qt. Touchscreen Air Fryer Pizza Oven w/Rotisserie \u2022 USD 69.99",
+      "headline": "\ud83d\udd25\u2728 bella PRO 12.6-qt. Touchscreen Air Fryer Pizza Oven w/Rotisserie",
       "blurb": "USD 69.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "air fryer",
+      "title": "24QT Stainless Steel Dual Zone Air Fryer Oven with Rotisserie",
+      "price": 199.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/1JoAAeSwJQhpBbST/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/405910418963?_skw=air+fryer&hash=item5e82257613%3Ag%3A1JoAAeSwJQhpBbST&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYI7nx3LnJQTn3SlB6gFnc%2B9Mpu0v77%2BCCzJ7ZDoDwsFOyirSqX2xjVkhdS%2BAcXR8g1dCCAFp6jvhIuOOlFAOLEM4gdda8WjhBcWujghO%2FVaUzeRjNklqTxmgCF6nlO3Z1sh4vtB3%2FE1Nq6kwjpDv%2FcO662OLzJjpBf2vCzrtXD6JWNwM3et7cQ%2FSeXqp6gXk5T0xkoooy%2F8cJWTHpmpIc6Cmc9ek45pSAeDWsQrSRjSu0FXZVxi6BfGAcs%2FPf%2FWo9TgIx14yZlm5uUb%2B5dpcgeab%2Bk8UnLn3qya3jy0iW2nw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
+      "seller_feedback": 92,
+      "top_rated": false,
+      "score": 1.092,
+      "tags": [
+        "air fryer"
+      ],
+      "caption": "Cook like a pro with our 24QT Stainless Steel Dual Zone Air Fryer Oven! \ud83c\udf57 Elevate your meals today\u2014grab yours for just $199.99!",
+      "headline": "\ud83d\udd25\u2728 24QT Stainless Steel Dual Zone Air Fryer Oven with Rotisserie",
+      "blurb": "USD 199.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     }
   ]
 }
