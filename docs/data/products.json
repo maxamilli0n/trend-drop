@@ -1,104 +1,104 @@
 {
-  "updated_at": 1764476842,
+  "updated_at": 1764479570,
   "products": [
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "air fryer",
-      "title": "Kitchen Elite AF8243WSS 8QT AIR FRYER WITH WINDOW",
-      "price": 49.99,
+      "keyword": "wireless charger",
+      "title": "Original Magsafe Magnetic Fast Wireless Charger For iPhone 17 16 15 14 13 12 11",
+      "price": 18.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/8nsAAeSwjOZpIzwt/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/306344769864?_skw=air+fryer&hash=item4753923948%3Ag%3A8nsAAeSwjOZpIzwt&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYx60SBO4Fhcou%2BdXM4ZAm5dXE446X4ctzkkwyDBiwR%2FOkNK2a1gL%2FqdyCbxQmt6a2cdzMmayX2K%2BpFfZzUUYdBY0owyahLpb%2FTBWCTCbmSjFknWBdYoj9%2FLw68zfyq%2BJaNiyoG5GgDBr3hAapzFuSBkkNA35UeKaeBAQTJZy6yzOVKzDzJGXf2JEUPHy40LRO5QL%2BvbeaIoRkdbSg3VhNjqwbunW2KAEamxlM0F%2BawVP8fsOX9s6eB5hCWQwTwFICfGoGjoCDkHKRDE94XT7hD&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
-      "seller_feedback": 28861,
+      "image_url": "https://i.ebayimg.com/images/g/JhYAAeSwqNlo0gQ1/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/317329599576?_skw=wireless+charger&hash=item49e2516c58%3Ag%3AJhYAAeSwqNlo0gQ1&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UawqeDJLoO9ofUyMdqLUhv%2FgWenP4pPvdyQkx8rwc4HYXd63RDzWavQc4UvPex%2Fz4lUqiiZ9vOJF0zgK96OxSaiwBBEQvmOpwbIpZo7R%2Bky5NJhYLsWjjH3JyzyoAHKwZSl4eCxGVhLlM1WMuEzKL7nEMdHJHCyifEadY8dtRAx%2BcKGwkD9ACRB55opHM%2F0mG4TdqO%2BPsfH8a6VN4zWqCyXmupwz1zU8FxdF%2B2rJXWJxmjJKcpCBuN1msY3nJq5x7ATtqNxoPvBE2oMYrRUZOJ5YJPDmjuFJM8KclDOoOknBw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 53049,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "air fryer"
+        "wireless charger"
       ],
-      "caption": "Kitchen Elite AF8243WSS 8QT AIR FRYER WITH WINDOW \u2022 USD 49.99",
-      "headline": "\ud83d\udd25 Cook Deliciously with the Kitchen Elite 8QT Air Fryer!",
-      "blurb": "Don't miss out on this limited-time offer! Enjoy healthier meals with less oil \u2013 grab yours now for just $49.99!",
-      "emojis": "['\ud83c\udf7d\ufe0f', '\ud83d\udd25']"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "air fryer",
-      "title": "Kitchen Elite KE-AF300M 3QT Digital Air Fryer",
-      "price": 29.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/VdAAAeSwPmtpIzzd/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/297669288283?_skw=air+fryer&hash=item454e78e15b%3Ag%3AVdAAAeSwPmtpIzzd&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
-      "seller_feedback": 28861,
-      "top_rated": false,
-      "score": 9.0,
-      "tags": [
-        "air fryer"
-      ],
-      "caption": "Kitchen Elite KE-AF300M 3QT Digital Air Fryer \u2022 USD 29.99",
-      "headline": "\ud83c\udfe0\ud83d\udecb Kitchen Elite KE-AF300M 3QT Digital Air Fryer",
-      "blurb": "USD 29.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "air fryer",
-      "title": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer",
-      "price": 39.96,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/ARUAAeSw3-FoxaUH/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/376547843285?_skw=air+fryer&hash=item57ac001cd5%3Ag%3AARUAAeSw3-FoxaUH&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UanyGtVHIs2jh%2FZtuUb1QJAixFQAIUo199MpikeJs6QaGz8h31JPnjavLh%2BTUPhsl4An0Y8%2FRGf70DN0fIHZ7i5xePuwAmgUKrrV2pWWu0xnJFTTvMBKrtkswxHZx%2Fdp8TXNeVaW7d25qiSv%2FjwvxqVExIh4HsGwI5KYXn4%2BwLA6b4dU9w5tKbIKK1dkA1Wqoi%2BDf8KNl91cnr6UFI2hW8XZymYIo24blKT9AK6bQ8%2BVPAy%2BfQa9P1lLfT6K5bMxWzPVQj1X2si9M66ZJJZM3FL&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
-      "seller_feedback": 2914,
-      "top_rated": false,
-      "score": 6.914,
-      "tags": [
-        "air fryer"
-      ],
-      "caption": "bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer \u2022 USD 39.96",
-      "headline": "\ud83d\udd25\u2728 bella PRO - SmartCrisp 8-qt. Touchscreen Air Fryer",
-      "blurb": "USD 39.96 steal. Limited stock\u2014grab it now!",
+      "caption": "Original Magsafe Magnetic Fast Wireless Charger For iPhone 17 16 15 14 13 12 11 \u2022 USD 18.99",
+      "headline": "\ud83d\udd25\u2728 Original Magsafe Magnetic Fast Wireless Charger For iPhone 17 16 15 14 13 12 11",
+      "blurb": "USD 18.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "air fryer",
-      "title": "bella PRO 12.6-qt. Touchscreen Air Fryer Pizza Oven w/Rotisserie",
-      "price": 69.99,
+      "keyword": "wireless charger",
+      "title": "30W Wireless Phone Charger Pad Dock Fast Charge for Samsung iPhone LG Universal",
+      "price": 13.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/sKkAAeSw6IdpJ63z/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/136800604059?_skw=air+fryer&hash=item1fd9f38f9b%3Ag%3AsKkAAeSw6IdpJ63z&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbPdpIjb%2FriYwLLSfXyUd9gfmAscVgDBANMOqadk%2B4bobkQSH8kzg8m3eoLUx8xixtUpU%2BOaBVIhr4XKtDo5Ypo1qneGgOx%2Bf0MOBvsCqpwj%2B707rc4vksY6Fi6bszBkWkxojExrcQ%2FLBufmznLakbqbbNLbPMYK2JIJYHVY1BBZ90x1ojj4bx%2FHVCTbg%2FlRJvCPR5SxSnNv4l6rjA5W1OeiMDYe3H313H147bZtMI2SQAevi9RWf5bWPzX%2FiF2o%2FZonbBKIG%2Ftn7BtOwNKP5K1&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
-      "seller_feedback": 2386,
+      "image_url": "https://i.ebayimg.com/images/g/QA4AAOSwhh1lvX81/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/225861966477?_skw=wireless+charger&hash=item34966c1a8d%3Ag%3AQA4AAOSwhh1lvX81&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ%2Fx2M5Jrn5OAGPpjGJpUNwkjR%2BTKP%2FV4UxGM%2BfV%2B26wmCYJz6UlfEj2bjyIbA4mFlb1l2vQIFimm2VuSN6vPvqlHRCBShgkSqgBHZrSTirO2h%2FyhCazL%2FhJiTAmlerwEXiW42n%2Bfrkqk95QnYnWDeiU6Oz6CcmDNNUHCiaimsKHD7ug0ko28uBmGA%2FcQGMcCVkgHrYrJV2uHAEydEIt4ZyO%2FXM0JYnDj4zwDJ%2BAjvGX9gSTe938PSiAMOzs0jhfsNbaxyJ%2F2ShCIqpHcbYX2kQQteqNdFVy3hLBNmzw1pQww%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 299586,
       "top_rated": false,
-      "score": 6.386,
+      "score": 7.0,
       "tags": [
-        "air fryer"
+        "wireless charger"
       ],
-      "caption": "bella PRO 12.6-qt. Touchscreen Air Fryer Pizza Oven w/Rotisserie \u2022 USD 69.99",
-      "headline": "\ud83d\udd25\u2728 bella PRO 12.6-qt. Touchscreen Air Fryer Pizza Oven w/Rotisserie",
-      "blurb": "USD 69.99 steal. Limited stock\u2014grab it now!",
+      "caption": "30W Wireless Phone Charger Pad Dock Fast Charge for Samsung iPhone LG Universal \u2022 USD 13.99",
+      "headline": "\ud83d\udd25\u2728 30W Wireless Phone Charger Pad Dock Fast Charge for Samsung iPhone LG Universal",
+      "blurb": "USD 13.99 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "air fryer",
-      "title": "24QT Stainless Steel Dual Zone Air Fryer Oven with Rotisserie",
-      "price": 199.99,
+      "keyword": "wireless charger",
+      "title": "2 PACK Magnetic Wireless Charger Pad For Magsafe iPhone 16 15 14 13 12 Pro Max",
+      "price": 11.74,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/1JoAAeSwJQhpBbST/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/405910418963?_skw=air+fryer&hash=item5e82257613%3Ag%3A1JoAAeSwJQhpBbST&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYI7nx3LnJQTn3SlB6gFnc%2B9Mpu0v77%2BCCzJ7ZDoDwsFOyirSqX2xjVkhdS%2BAcXR8g1dCCAFp6jvhIuOOlFAOLEM4gdda8WjhBcWujghO%2FVaUzeRjNklqTxmgCF6nlO3Z1sh4vtB3%2FE1Nq6kwjpDv%2FcO662OLzJjpBf2vCzrtXD6JWNwM3et7cQ%2FSeXqp6gXk5T0xkoooy%2F8cJWTHpmpIc6Cmc9ek45pSAeDWsQrSRjSu0FXZVxi6BfGAcs%2FPf%2FWo9TgIx14yZlm5uUb%2B5dpcgeab%2Bk8UnLn3qya3jy0iW2nw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=air_fryer&toolid=10001",
-      "seller_feedback": 92,
+      "image_url": "https://i.ebayimg.com/images/g/98gAAOSwXvJn9ZeJ/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/205404904768?_skw=wireless+charger&hash=item2fd3161d40%3Ag%3A98gAAOSwXvJn9ZeJ&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbpGw5eit%2FMlQhM1rxA57LkjRt7OBpZsKQ5lWjZCDp9CiImuZi8X%2FVbcTMgUAtV8Z4sE95hL7QHB7OCBi9wJi8mPsvvf2QTD2gegaAS5clNY96CC5xc9yCFNp1RiL%2BfHR0bpdW0LeTYhmczY%2Bd0TwPzyhJQgvWuJbMJ23FybWOoU1u06w3GfRdJfqrmK28kMh%2BOTs4QsvxbuEsiNb%2Bm62TDaGnT3RKXbGIXu17COuNByMJN%2FG4OhK6f02iRSxQrMBL2llE3FBtIupPsFnCy8lZ1RlWrZBVulHPKYCyDi%2BN6FA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 243229,
       "top_rated": false,
-      "score": 1.092,
+      "score": 7.0,
       "tags": [
-        "air fryer"
+        "wireless charger"
       ],
-      "caption": "Cook like a pro with our 24QT Stainless Steel Dual Zone Air Fryer Oven! \ud83c\udf57 Elevate your meals today\u2014grab yours for just $199.99!",
-      "headline": "\ud83d\udd25\u2728 24QT Stainless Steel Dual Zone Air Fryer Oven with Rotisserie",
-      "blurb": "USD 199.99 steal. Limited stock\u2014grab it now!",
+      "caption": "2 PACK Magnetic Wireless Charger Pad For Magsafe iPhone 16 15 14 13 12 Pro Max \u2022 USD 11.74",
+      "headline": "\ud83d\udd25\u2728 2 PACK Magnetic Wireless Charger Pad For Magsafe iPhone 16 15 14 13 12 Pro Max",
+      "blurb": "USD 11.74 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "wireless charger",
+      "title": "30W Wireless Phone Charger Stand Pad Fast Charge for Samsung iPhone LG Universal",
+      "price": 13.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/s9oAAOSwizZluYVl/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/325301498944?_skw=wireless+charger&hash=item4bbd7af440%3Ag%3As9oAAOSwizZluYVl&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ubhs69%2BCWa1mNCcjGdB8GWmFaot1amwc4wv%2FCXO0MjltJ0EAnutWNeRKLn6ZuiwWoMygmSNCxSGQX0lVMDMQH%2FTdHLI60TDz5B1M52h4jvpaV5RVjooqCWwDzx07a12uCIl%2BMUf9nKUhYHki3ommPU2sY%2BTbyIJpCXqhMFPZ29K3NAxyIxKH76Rh8TRQAkx5vEcuieEfzbSa%2FAs0axOLeAPu23ujl5YnpeD3UdOOPr3EMxGKU713jWBdPX20MuU3tf9DNAWxbPZeMsU0VNZP3QT4xbnqPJklMaTGbEsgRzCcQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 299586,
+      "top_rated": false,
+      "score": 7.0,
+      "tags": [
+        "wireless charger"
+      ],
+      "caption": "30W Wireless Phone Charger Stand Pad Fast Charge for Samsung iPhone LG Universal \u2022 USD 13.99",
+      "headline": "\ud83d\udd25\u2728 30W Wireless Phone Charger Stand Pad Fast Charge for Samsung iPhone LG Universal",
+      "blurb": "USD 13.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "wireless charger",
+      "title": "Wireless Fast Charger Charging Pad Dock for Samsung iPhone Android Cell Phone",
+      "price": 5.88,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/DOoAAOSwIaNl92Yd/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/203449767098?_skw=wireless+charger&hash=item2f5e8d14ba%3Ag%3ADOoAAOSwIaNl92Yd&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=wireless_charger&toolid=10001",
+      "seller_feedback": 201159,
+      "top_rated": false,
+      "score": 7.0,
+      "tags": [
+        "wireless charger"
+      ],
+      "caption": "Wireless Fast Charger Charging Pad Dock for Samsung iPhone Android Cell Phone \u2022 USD 5.88",
+      "headline": "\ud83d\udd25\u2728 Wireless Fast Charger Charging Pad Dock for Samsung iPhone Android Cell Phone",
+      "blurb": "USD 5.88 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83d\udd25\u2728"
     }
   ]
