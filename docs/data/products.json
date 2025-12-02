@@ -1,105 +1,105 @@
 {
-  "updated_at": 1764673467,
+  "updated_at": 1764678054,
   "products": [
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Milwaukee 0880-20 M18 18 Volt  Cordless Wet/Dry Vacuum, Tool Only,",
-      "price": 99.0,
+      "keyword": "bike light",
+      "title": "10000mAh LED Bicycle Bike Light Front Rear Rechargeable Headlight Mountain Set",
+      "price": 21.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/hKkAAeSwaU9oh~LX/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/365149263338?_skw=cordless+vacuum&hash=item55049795ea%3Ag%3AhKkAAeSwaU9oh~LX&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 74452,
+      "image_url": "https://i.ebayimg.com/images/g/gokAAOSwf8RnVsUs/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/253970550369?_skw=bike+light&hash=item3b21d30e61%3Ag%3AgokAAOSwf8RnVsUs&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZjiAUKq4xxRu7OTw5TYta974Hx8GbAGCxT%2B6J%2F%2BONC3fhgbhng1GlYEjOQLPSCfohhZ0%2FdWtAKArpSyLHjnWqD1%2FEHuzMrKT5%2BJnmV7u7oezvoJShQqoSuR0Fbb1Lm9ubPKXGg%2BDzPip06Q92jPerVk2500HvUIALj0SZDGTXy51vbLYjNRyVVTX6e4zPWyD2Ng5VH9k4cAZl%2Fi7QXuR9INAszpovLcgag9ZJJNtb7yQgIkUkRX76Ql9cn1svDqHp9arKqo0ggWbT06I7H0mz9&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 12001,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "cordless vacuum"
+        "bike light"
       ],
-      "caption": "Milwaukee 0880-20 M18 18 Volt  Cordless Wet/Dry Vacuum, Tool Only, \u2022 USD 99.0",
-      "headline": "\ud83c\udfe0\ud83d\udecb Milwaukee 0880-20 M18 18 Volt Cordless Wet/Dry Vacuum, Tool Only,",
-      "blurb": "USD 99.00 steal. Limited stock\u2014grab it now!",
+      "caption": "10000mAh LED Bicycle Bike Light Front Rear Rechargeable Headlight Mountain Set \u2022 USD 21.99",
+      "headline": "\ud83d\udd25\u2728 10000mAh LED Bicycle Bike Light Front Rear Rechargeable Headlight Mountain Set",
+      "blurb": "USD 21.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "bike light",
+      "title": "2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp",
+      "price": 10.55,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/~-AAAOSwOOxnIZn4/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/363009438000?_skw=bike+light&hash=item54850c7130%3Ag%3A~-AAAOSwOOxnIZn4&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYqnmKwtd7%2FLcVqk5X5JY9kh1plGGBHDBAzW5CtvutICe8Pt8Qul6M40m%2BsSyTrnyI5546fMVD%2BKqTrX2U4bmGpm%2BS1VXmjgR0xkmy8NBEPyupnsDvmU7BC8lX08zaNEYQll0wrZSF2%2B6yCRgcMl9O6%2BDyPaamt5ovYYyg8EW8AqNEkD5sh6Fp8ErgDIrSPjt9nvD1IGfeNBABFZ7Nk%2BkG70QT58Q4YFaIk%2BZlLcLTEErJbpVtjPKamQszUmB%2Fd1u5zl%2BPyK8l%2BTKM9kekGoPRb&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 235380,
+      "top_rated": false,
+      "score": 7.0,
+      "tags": [
+        "bike light"
+      ],
+      "caption": "2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp \u2022 USD 10.55",
+      "headline": "\ud83c\udfe0\ud83d\udecb 2 Set USB Rechargeable LED Bicycle Headlight Bike Front Rear Light Cycling Lamp",
+      "blurb": "USD 10.55 steal. Limited stock\u2014grab it now!",
       "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Tineco Pure ONE Station 5 Cordless Smart Vacuum with 2.5L Auto Dust Base, Full-P",
-      "price": 129.0,
+      "keyword": "bike light",
+      "title": "RAVEMEN FR500 Bike Head Light For Garmin Wahoo GPS Bicycle Gropro AGM03 Adapter",
+      "price": 64.95,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/~S0AAeSwlmppDAJ7/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/227061331756?_skw=cordless+vacuum&hash=item34dde8f72c%3Ag%3A~S0AAeSwlmppDAJ7&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbM8Uam8ohWIfX2BUskblu1psqs5lAxdOUqjFJLGxMz1A6SjbKZrMOKDYBu2FG9QvwEVjH%2FsgODvmn0yXmI%2FJGSMpl5OhlxrsgkfcuxSBLz5Kh8a22D%2BBIIQBThKMl55bb5GW6i8IDzd31qtU8mvhDSyW0odoKzqmTAj1OIeUYMizsFPYp1wafqQN6ZMNYbPTDHoB9P1Z9IHbMxqmTRS%2BSTz17oJvp87LQD6BUqnMfGnMhGwqSPXtKKmT5pwlEPtzMv2WBEaxkPs0c5RtBc3SF3vgyDQAVA%2FXkkJ2iFyUSp7g%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 2416,
+      "image_url": "https://i.ebayimg.com/images/g/3rgAAeSwcnFortA5/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/177368913003?_skw=bike+light&hash=item294c02d46b%3Ag%3A3rgAAeSwcnFortA5&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbYOyGbZB6u3%2B%2FYh%2FTy2IiyBc4DN6ULRqXUgQzUpI%2FEsIoEoB0q29vDJyS6kcck94ERYT75mkucm%2BDEZacDsrX6eggzXDqwXodXEYSvGqARzS2rDZ%2BnLoE5qocPQhnhmEWecSFuGkPMBXMyUAutJ9Qu0V6kbuuC3EYi%2FV5gfFVWuQNW0ppnifGx1NZYN%2FrHXc3IgRpJUospSsyMZ7ZEB2TLagxWBFeD%2BvZ3VDsY3%2Bb6cWMJBpiwoCT6KqtIBk9pBurslEZQqUuVnDgdaHFoFTFK&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 728,
       "top_rated": false,
-      "score": 6.416,
+      "score": 4.728,
       "tags": [
-        "cordless vacuum"
+        "bike light"
       ],
-      "caption": "Tineco Pure ONE Station 5 Cordless Smart Vacuum with 2.5L Auto Dust Base, Full-P \u2022 USD 129.0",
-      "headline": "\ud83c\udfe0\ud83d\udecb Tineco Pure ONE Station 5 Cordless Smart Vacuum with 2.5L Auto Dust Base, Full-P",
-      "blurb": "USD 129.00 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+      "caption": "RAVEMEN FR500 Bike Head Light For Garmin Wahoo GPS Bicycle Gropro AGM03 Adapter \u2022 USD 64.95",
+      "headline": "\ud83d\udd25\u2728 RAVEMEN FR500 Bike Head Light For Garmin Wahoo GPS Bicycle Gropro AGM03 Adapter",
+      "blurb": "USD 64.95 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Tineco Pure One S11 Smart Cordless Stick Vacuum Cleaner | Lightweight, Quiet",
-      "price": 95.2,
+      "keyword": "bike light",
+      "title": "NEW Bicycle Bike Wheel Lights 7 COLORS in 1 LED String Fits any Spoke Rim Tires",
+      "price": 6.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/n78AAeSwFhRpJpKA/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/226793071960?_skw=cordless+vacuum&hash=item34cdeba558%3Ag%3An78AAeSwFhRpJpKA&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZrGYC2R0YL1MbRAHwnks28DrkR6BNUup7AHXj3P58e7amWvsHowdRBWGRBgpt%2BX4pqiq%2B44KVVuaL1TyXhgeza4O1bXQ9fEhH85AHiz0n%2BOINlXII8sDBdKuYecu755pQRy1wNAHn2XuNV%2FplPKcQwPd4DIxOOOOLCcuFSuM3qUav4a9dWMcXTqkvNAborumN8kWtMnL%2BDmQbKo1%2BZVbKaRdnENkF%2BF6Z4jkllHKw6K9%2F%2Bpg0ftQcluDd40mGotpzz2HvDFpeHWPltYPZYfKkkIhn2WKtTTizjQLeFyh4Yog%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 2416,
+      "image_url": "https://i.ebayimg.com/images/g/6tMAAOSwaiFi2tWT/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/175397899342?_skw=bike+light&hash=item28d6878c4e%3Ag%3A6tMAAOSwaiFi2tWT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYHBfyLfuRxjBUMHzI4FYQiR4XZ7LZVvAaJqx4iCcZVuvWd%2Be8HKyv0J3jxErs%2F3ja9LH3N0c6yC706brDqkocaLaOauV7pa0qZm8Ssch%2BwBCwl1qm4Xw48AMsGaohd7te%2F5wNYetakoHIYu%2BWbVVDowKoyT8Kwjkej3HgDXJBR7xwEInKRe3aOFLgVhOYOQbhOcPodRsR1q7MgGTbO22m9%2Bv1525lShmv%2FRXNPbfC1v3alOmMVeFH7LrvhldoLYF181Gev1S9a5rZWoDIeYelb&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 1277,
       "top_rated": false,
-      "score": 6.416,
+      "score": 3.277,
       "tags": [
-        "cordless vacuum"
+        "bike light"
       ],
-      "caption": "Tineco Pure One S11 Smart Cordless Stick Vacuum Cleaner | Lightweight, Quiet \u2022 USD 95.2",
-      "headline": "\ud83c\udfe0\ud83d\udecb Tineco Pure One S11 Smart Cordless Stick Vacuum Cleaner | Lightweight, Quiet",
-      "blurb": "USD 95.20 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
+      "caption": "NEW Bicycle Bike Wheel Lights 7 COLORS in 1 LED String Fits any Spoke Rim Tires \u2022 USD 6.99",
+      "headline": "\ud83d\udd25\u2728 Bicycle Bike Wheel Lights 7 COLORS in 1 LED String Fits any Spoke Rim Tires",
+      "blurb": "USD 6.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd25\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Dyson V10 Animal+ Cordless Vacuum Cleaner | Purple | Refurbished",
-      "price": 274.99,
+      "keyword": "bike light",
+      "title": "2 Sets USB Rechargeable LED Bicycle Headlight Bike Front Rear Lamp Cycling",
+      "price": 8.29,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/HLUAAeSwUuFpLpeb/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/276014546170?_skw=cordless+vacuum&hash=item4043bfbcfa%3Ag%3AHLUAAeSwUuFpLpeb&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ub6Q3AB6utsAheqC0ak3FZ7RVAIV7x%2FlFSyPACgZoH5M3VZ7xXz3yzWozjgIDIInK8Ywr1Hzfh3rShGZaKVvt3GdQkhr85naED8H8nTmyjvD1UNriU80tMrVtZ3yM9Vf19x6WyhEXrOlHxoSyciaC4%2B%2FkURXJnfi1lcGp%2BdgI4Jh1swoQGS1VUzQM2NJ7VHoYccQag4TztbPJ%2FEhlgyiRkFqqKIu2bfaMmi1vlZzzXlDN8sDV2ZOyYcKrzt2Wvg6aqFJbSiSmhN6d4LladKGM9NFKGONlG%2F79KRYIvg31lFlQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 121935,
+      "image_url": "https://i.ebayimg.com/images/g/DmcAAOSwl2NnqxLP/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/317486863109?_skw=bike+light&hash=item49ebb11305%3Ag%3ADmcAAOSwl2NnqxLP&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=bike_light&toolid=10001",
+      "seller_feedback": 434,
       "top_rated": false,
-      "score": 6.0,
+      "score": 2.434,
       "tags": [
-        "cordless vacuum"
+        "bike light"
       ],
-      "caption": "Dyson V10 Animal+ Cordless Vacuum Cleaner | Purple | Refurbished \u2022 USD 274.99",
-      "headline": "\ud83c\udfe0\ud83d\udecb Dyson V10 Animal+ Cordless Vacuum Cleaner | Purple | Refurbished",
-      "blurb": "USD 274.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83c\udfe0\ud83d\udecb\ufe0f\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "cordless vacuum",
-      "title": "Dyson V10 Animal + Cordless Vacuum Cleaner | Purple | Certified Refurbished",
-      "price": 274.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/-AAAAeSw5FVpLnv9/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/277426999728?_skw=cordless+vacuum&hash=item4097f011b0%3Ag%3A-AAAAeSw5FVpLnv9&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZmYZppumqRwDdlK4g%2BD8wzdEmkH0ETb5n3QEwq5p9CmKZpe8Zdbt%2B3uYVQr7KHK7GiLxzJ2zVO%2Bix8tlvlkhTMfZMWQKUNCvbq3dbBlFHXTw9Ft9%2FdLIvYYuEQY%2BWDmWMIiiuJzWMGeSnWVd80FvfqvshGp7OhEjc3RJP1p7w8XNAAD%2BtG3Cs%2BYe8T0EZ5JbZoiK78jyRsw2hKTv%2FmiB5i%2FaNXa0Q7LEbm3RFhyWuWKMdZ4R4%2FmjsArtIJFZrfBGDI4RaVvxP9QzR1jUuzKX0OOjAhjz9EJz7%2BBrXCWCzqUQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=cordless_vacuum&toolid=10001",
-      "seller_feedback": 121935,
-      "top_rated": false,
-      "score": 6.0,
-      "tags": [
-        "cordless vacuum"
-      ],
-      "caption": "Dyson V10 Animal + Cordless Vacuum Cleaner | Purple | Certified Refurbished \u2022 USD 274.99",
-      "headline": "\ud83d\udecb\ufe0f Grab the Dyson V10 Animal Vacuum for Just $274.99!",
-      "blurb": "Limited stock alert! Upgrade your cleaning game with this powerful cordless vacuum\u2014perfect for pet owners. Order now before it\u2019s gone!",
-      "emojis": "['\ud83d\udecb\ufe0f', '\ud83d\udc3e']"
+      "caption": "2 Sets USB Rechargeable LED Bicycle Headlight Bike Front Rear Lamp Cycling \u2022 USD 8.29",
+      "headline": "\ud83d\udeb4 Illuminate Your Ride with 2 Sets of USB Rechargeable Bike Lights!",
+      "blurb": "Brighten your cycling adventures with these powerful LED headlights! Limited stock available\u2014grab yours now for just $8.29!",
+      "emojis": "['\ud83d\udeb4', '\ud83d\udca1']"
     }
   ]
 }
