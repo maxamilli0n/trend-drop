@@ -1,105 +1,105 @@
 {
-  "updated_at": 1764815560,
+  "updated_at": 1764820132,
   "products": [
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Electric Hair Clipper Trimmer Grooming Kit Rechargeable Cordless",
-      "price": 17.99,
+      "keyword": "mechanical keyboard",
+      "title": "Keychron K2 Rechargeable Compact Wireless Mechanical Keyboard w/ Lighting Effect",
+      "price": 45.0,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/TUcAAOSwauBnkWJe/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/356515031020?_skw=pet+hair+trimmer&hash=item5301f3a7ec%3Ag%3ATUcAAOSwauBnkWJe&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Uafs2KxwcwC1SdSk9HWNfNqyGjMR4Kysx28TvkddEal1PIC8mjmmcdf7CHC1DHFVVG3j%2BslRfCgv8kALfOgKlUYZSmzFpOVaKXAACjjZBZdf3OEhbzJ5%2FFD0f4Ojc%2BVbypdngZ0TOWnGuQV%2FKScfl1GU1pZZO%2Bk8s2f7ryxIt1MeEvYW7emuxPSurHcZyCVSFD%2F5q1za0IB3r%2Fjqo9NIHxFjNqSqDvtgpICVPX%2Fju0jOuC5KKwEAbdLQtsfBER28YsZk0TGR6VweMT%2BOkLXvbJjEg5LZzVypisMm5HhZqYxhA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 18679,
+      "image_url": "https://i.ebayimg.com/images/g/8aMAAeSw0ndpFOpd/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/286986828410?_skw=mechanical+keyboard&hash=item42d1bf7a7a%3Ag%3A8aMAAeSw0ndpFOpd&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbgYexHLrK9IWKSIqBFqF%2Fzv%2Bftfp8Cz3sKlJsDuAY%2FA54c4zA%2BSHYtwzK%2F4nEnCQW2puMjVnaBhKuPhBB%2B%2FtTa67XMz0buKRIu38PIYx9UaBw5J42%2FSeo3h8tCx0B%2FzJP2gxHoLLopqM6JIo501Iv4hgNFQ9uSLITgJasIENRjI2aWDO7Yj9LVH8T7IW%2BHBiWvHBQ07ZOit%2F9WKjQFxaqBePO2kwKDuUmaFKBs2O3rYKTPi%2F6kRYmGW56Apt5g8F6I1B4QwWDvNnZZ6cTWvuizQO3N1Sns4ck6OV%2Fgfd048w%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 8212,
       "top_rated": false,
       "score": 9.0,
       "tags": [
-        "pet hair trimmer"
+        "mechanical keyboard"
       ],
-      "caption": "Dog Cat Pet Electric Hair Clipper Trimmer Grooming Kit Rechargeable Cordless \u2022 USD 17.99",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Electric Hair Clipper Trimmer Grooming Kit Rechargeable Cordless",
+      "caption": "Keychron K2 Rechargeable Compact Wireless Mechanical Keyboard w/ Lighting Effect \u2022 USD 45.0",
+      "headline": "\ud83d\udd25 Elevate Your Typing: Keychron K2 Mechanical Keyboard for Just $45!",
+      "blurb": "Transform your workspace with the Keychron K2\u2019s sleek design and customizable lighting! Limited stock\u2014grab yours now!",
+      "emojis": "['\ud83d\udda5\ufe0f', '\u2328\ufe0f']"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "mechanical keyboard",
+      "title": "Razer Ornata V3 X Wired Low Profile Mechanical Gaming Keyboard (Black) Excellent",
+      "price": 28.41,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/4wgAAeSwcpZouNGt/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/388795501961?_skw=mechanical+keyboard&hash=item5a86048d89%3Ag%3A4wgAAeSwcpZouNGt&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 8654,
+      "top_rated": false,
+      "score": 9.0,
+      "tags": [
+        "mechanical keyboard"
+      ],
+      "caption": "Razer Ornata V3 X Wired Low Profile Mechanical Gaming Keyboard (Black) Excellent \u2022 USD 28.41",
+      "headline": "\ud83d\udd79\ufe0f Razer Ornata V3 X Wired Low Profile Mechanical Gaming Keyboard (Black) Excellent",
+      "blurb": "USD 28.41 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
+    },
+    {
+      "source": "ebay",
+      "provider": "ebay",
+      "keyword": "mechanical keyboard",
+      "title": "HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated",
+      "price": 17.99,
+      "currency": "USD",
+      "image_url": "https://i.ebayimg.com/images/g/CdQAAOSwZrJoQRNA/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/335996332738?_skw=mechanical+keyboard&hash=item4e3af12ac2%3Ag%3ACdQAAOSwZrJoQRNA&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UbKAXrljabH5vj101JIrrxmkYq3N%2BpzhggdC%2BllHIoRqipONnJanTI%2BP7ddPDmPwpSd3TuXboLdhmQs2DRT8WMV3YWbtSXOZ%2BER9gpS%2BdI1rYAKnicpC9pcVB3%2FuR0STR1y1kpZBDrm%2FKQg6ra6rGrnTDGGDq6DUS3oK%2F49mFF0vhW9sfzSFLVwyNUX5pFfxJn1wSZvbd%2F22OrrLtU6i8HCkvIW7Pv1JwF%2F9%2B3AvxJcdFkMPhr4lC1fjqcGAB3CvQrkLLbUNYIDpA5P66gR2iTUdewhOgjQkqqgqXMbvFnsLw%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 3553,
+      "top_rated": false,
+      "score": 7.553,
+      "tags": [
+        "mechanical keyboard"
+      ],
+      "caption": "HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated \u2022 USD 17.99",
+      "headline": "\ud83d\udd79\ufe0f HK GAMING GK61 Mechanical Gaming Keyboard - 61 Keys Multi Color RGB Illuminated",
       "blurb": "USD 17.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
+      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs",
-      "price": 9.99,
+      "keyword": "mechanical keyboard",
+      "title": "GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Brown Switches",
+      "price": 19.99,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/l-MAAOSwEktoSSse/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/297381886400?_skw=pet+hair+trimmer&hash=item453d5779c0%3Ag%3Al-MAAOSwEktoSSse&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 65833,
+      "image_url": "https://i.ebayimg.com/images/g/zG4AAeSway5pI9rC/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/146984331302?_skw=mechanical+keyboard&hash=item2238f2e826%3Ag%3AzG4AAeSway5pI9rC&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UaqeN8RtrK%2B83KoPdMYtOPR177K3Lg3ec1rEJlcQZCTx%2BrHZX%2FKkUBBosEeextdUfJSHLNyPsiOrZQi0%2B1ZoiVdEXOMPCGGjjZ%2BdPRh%2BkH3RGDStcCCXxLftQaFy0p%2FsDIQ58lsypyMTt8WywusADIi%2FVzOJl8k%2F%2BYlS%2FHb%2Bk3BuRUYx3hwVaJzhrGAZXYzwK10vQy3EARYCTqX33JUq5piNR3H9KQehHVR8OomF9teGtByvWQp04xJmud80Kfe6fq2u8mbol9vQ9Aa6Hj07lyfeRlsmnazgrYvsAwG%2FnEgCA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 718,
       "top_rated": false,
-      "score": 7.0,
+      "score": 4.718,
       "tags": [
-        "pet hair trimmer"
+        "mechanical keyboard"
       ],
-      "caption": "Dog Paw Fur Trimmer Low Noise Cordless Electric Pet Hair Clippers for Cat & Dogs \u2022 USD 9.99",
-      "headline": "\ud83d\udc3e Trim Your Pet's Fur with Ease - Only $9.99!",
-      "blurb": "Say goodbye to messy fur! Grab this low noise pet hair trimmer before stock runs out. Order now!",
-      "emojis": "['\ud83d\udc3e', '\u2702\ufe0f']"
+      "caption": "GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Brown Switches \u2022 USD 19.99",
+      "headline": "\ud83d\udd79\ufe0f GK61 Mechanical Gaming RGB LED Keyboard - White, Gaetron Optical Brown Switches",
+      "blurb": "USD 19.99 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
     },
     {
       "source": "ebay",
       "provider": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 15.95,
+      "keyword": "mechanical keyboard",
+      "title": "AULA F75 75% Wireless Mechanical Keyboard Pre-lubed Reaper Switches RGB Backlit",
+      "price": 36.0,
       "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/CjcAAOSwpsxjaLmm/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/165720333345?_skw=pet+hair+trimmer&hash=item2695b39c21%3Ag%3ACjcAAOSwpsxjaLmm&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYrhDJ0IqgCT9Ew3qagFhZPzTkrujQ9iyM6aVmzGuGElX2QyNnh1T9XYD4YtvocdW8qTbHKBedB0TMwnxbUzjuHFV40TdcmXXhRH0GzJKAJcU3qm%2BpyBpyuXV0%2Bt6lzUGbWeBTTOQ0AlDSHpACJQoSs2HCr0KQFxIlPQHaIYbxBVp%2F9RB1277Umu93%2B8rY9Tu5ar0SNI7uqQlVFUytsW8yoQyn%2Fx9GI7IXkWsseUH2wNu0G%2Bz0HVoEFqKNcC7vWtDBS1BiExgMuVfQLvvw2iuLyOyZjuuGqcspmGhVE6GVrIQ%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 2678,
+      "image_url": "https://i.ebayimg.com/images/g/QOQAAeSw3FRpIFXn/s-l225.jpg",
+      "url": "https://www.ebay.com/itm/306495181873?_skw=mechanical+keyboard&hash=item475c895431%3Ag%3AQOQAAeSw3FRpIFXn&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5Ua8voFvPdxIBjCcaxUre0DKG7SuR83ORccfIcxbrfotM8llDW2s6HTy5cCt8vQ3NDPUYKEbaFcM7Tyev%2B70k%2Bw%2BXcHPzPHWhR4qKFI79z6ODh4WJ3APU94e82FZPjUYlQN%2BWDAp%2BUMTM2HagsbFtL6Zt%2FUz12e1hbo%2BZQBL3h0CD%2BpdTl36B1%2FGPaD9Mamk1Tr7iMcbGRe4Gy8xx9OoDBvrCcQQmK3%2B7nlK7sCa1Su5XtAd5uvPG%2BHIklrw0DUnwdXZBJyENMsAiGZ%2FCVsl71xItzMuz%2FjfsRABo5sk5%2FBNow%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=mechanical_keyboard&toolid=10001",
+      "seller_feedback": 445,
       "top_rated": false,
-      "score": 6.678,
+      "score": 4.445,
       "tags": [
-        "pet hair trimmer"
+        "mechanical keyboard"
       ],
-      "caption": "Groom your furry friend like a pro! \ud83d\udc3e Grab our cordless pet grooming kit for just $15.95 and keep them looking fabulous! \u2702\ufe0f\u2728 Order now!",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "blurb": "USD 15.95 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 15.97,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/j~0AAOSw6UtlqG16/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/166555429835?_skw=pet+hair+trimmer&hash=item26c77a2bcb%3Ag%3Aj~0AAOSw6UtlqG16&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UYwwUkYNgYG6vw8talXaNKFw44OXiHPwd40rH%2FcdklgTODWFHMe%2Bt0%2B0TE9CN9bGmC1QR4c3eoJ81rIPDm9lx3MS32fOWUiZ8C2pnWBX2q4FBRP6D12lSmC2D4moou8kb7tGxGXG7zNeUEgaacHTJ7yyYZsfitjEXvINy88KXItDodx6%2BqG%2FYTiLgT4XWx%2FztbI%2FenKJ0nsox5d5RxguJwNK5saedMQ320rvOxQkpXk1ixk6UEr5fx2gM4oKkybxzcnpIvvW1CBvfgBlNnwqNg6wY3gr5CbuNNH%2FE5LklmTeA%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 2678,
-      "top_rated": false,
-      "score": 6.678,
-      "tags": [
-        "pet hair trimmer"
-      ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 15.97",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "blurb": "USD 15.97 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
-    },
-    {
-      "source": "ebay",
-      "provider": "ebay",
-      "keyword": "pet hair trimmer",
-      "title": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "price": 22.99,
-      "currency": "USD",
-      "image_url": "https://i.ebayimg.com/images/g/R4wAAOSwcoVj1MOH/s-l225.jpg",
-      "url": "https://www.ebay.com/itm/155379570127?_skw=pet+hair+trimmer&hash=item242d5815cf%3Ag%3AR4wAAOSwcoVj1MOH&amdata=enc%3AAQAKAAAA8PeG5RIuIyokJHJy903%2F5UZ9ogepsGjv721TzZFnTEqahUQEun9TVky53oNsRmqe3SzLrZDVgMtqntO7v%2FKZzt4HG84q2vSKcQFDg0eeCO1HsmLPcKTQenBYyOlufpmTG61AHnuXe23KlpURNbhl0D55vW%2Bkim1hTsp%2FCNLRwsByN93H9o332e8zSa%2Fl4rL6yaupx9tpB3Gm21gwPN2TV4IesS5R32%2BB0FNBzWcYzgaleR3mLE3yhZd4JS%2FRHeQSySIDQjfEBuv5GYuwaG2TeaL3cFu0anuX2tvt7IZbYEsuCQhlMGGHPE6D4QfuADk6ig%3D%3D&mkcid=1&mkrid=711-53200-19255-0&mkevt=1&campid=5339121799&customid=pet_hair_trimmer&toolid=10001",
-      "seller_feedback": 1150,
-      "top_rated": false,
-      "score": 5.15,
-      "tags": [
-        "pet hair trimmer"
-      ],
-      "caption": "Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set \u2022 USD 22.99",
-      "headline": "\ud83d\udd25\u2728 Dog Cat Pet Grooming Kit Rechargeable Cordless Electric Hair Clipper Trimmer Set",
-      "blurb": "USD 22.99 steal. Limited stock\u2014grab it now!",
-      "emojis": "\ud83d\udd25\u2728"
+      "caption": "AULA F75 75% Wireless Mechanical Keyboard Pre-lubed Reaper Switches RGB Backlit \u2022 USD 36.0",
+      "headline": "\ud83d\udd79\ufe0f AULA F75 75% Wireless Mechanical Keyboard Pre-lubed Reaper Switches RGB Backlit",
+      "blurb": "USD 36.00 steal. Limited stock\u2014grab it now!",
+      "emojis": "\ud83d\udd79\ufe0f\ud83c\udfae\u2728"
     }
   ]
 }
